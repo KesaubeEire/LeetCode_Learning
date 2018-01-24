@@ -1,0 +1,12 @@
+/Users/w/GitSets/C#_LeetCodePractice/LeetCode_Csharp/_561__Array_Partition_I/bin/Debug/_561__Array_Partition_I.exe
+/Users/w/GitSets/C#_LeetCodePractice/LeetCode_Csharp/_561__Array_Partition_I/bin/Debug/_561__Array_Partition_I.pdb
+/Users/w/GitSets/C#_LeetCodePractice/LeetCode_Csharp/_561__Array_Partition_I/obj/Debug/_561__Array_Partition_I.csprojResolveAssemblyReference.cache
+/Users/w/GitSets/C#_LeetCodePractice/LeetCode_Csharp/_561__Array_Partition_I/obj/Debug/_561__Array_Partition_I.csproj.CoreCompileInputs.cache
+/Users/w/GitSets/C#_LeetCodePractice/LeetCode_Csharp/_561__Array_Partition_I/obj/Debug/_561__Array_Partition_I.exe
+/Users/w/GitSets/C#_LeetCodePractice/LeetCode_Csharp/_561__Array_Partition_I/obj/Debug/_561__Array_Partition_I.pdb
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_561__Array_Partition_I/bin/Debug/_561__Array_Partition_I.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_561__Array_Partition_I/bin/Debug/_561__Array_Partition_I.pdb
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_561__Array_Partition_I/obj/Debug/_561__Array_Partition_I.csprojResolveAssemblyReference.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_561__Array_Partition_I/obj/Debug/_561__Array_Partition_I.csproj.CoreCompileInputs.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_561__Array_Partition_I/obj/Debug/_561__Array_Partition_I.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_561__Array_Partition_I/obj/Debug/_561__Array_Partition_I.pdb

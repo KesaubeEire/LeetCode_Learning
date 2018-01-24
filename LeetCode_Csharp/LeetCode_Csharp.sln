@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_760_Find_Anagram_Mappings", "_760_Find_Anagram_Mappings\_760_Find_Anagram_Mappings.csproj", "{B882C968-17F1-4869-9A74-358B7AF41ADE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_654_Maximum_Binary_Tree", "_654_Maximum_Binary_Tree\_654_Maximum_Binary_Tree.csproj", "{C10FE130-7E1C-446C-8866-6EAB1574952E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_461__Hamming_Distance", "_461__Hamming_Distance\_461__Hamming_Distance.csproj", "{FBAB0239-5334-4671-B2FE-9864ECA35C31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_657__Judge_Route_Circle", "_657__Judge_Route_Circle\_657__Judge_Route_Circle.csproj", "{1A6BACD0-1305-4D12-A957-EF3F204255AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_617__Merge_Two_Binary_Trees", "_617__Merge_Two_Binary_Trees\_617__Merge_Two_Binary_Trees.csproj", "{862EBAD1-1F1E-4A0B-BE89-C0E8330AB6BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_728__Self_Dividing_Numbers", "_728__Self_Dividing_Numbers\_728__Self_Dividing_Numbers.csproj", "{628537DE-0D9F-42D9-A134-1921BB0C2755}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_561__Array_Partition_I", "_561__Array_Partition_I\_561__Array_Partition_I.csproj", "{094CC548-8429-4658-85D7-BC2DA38C2EAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B882C968-17F1-4869-9A74-358B7AF41ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B882C968-17F1-4869-9A74-358B7AF41ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B882C968-17F1-4869-9A74-358B7AF41ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B882C968-17F1-4869-9A74-358B7AF41ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C10FE130-7E1C-446C-8866-6EAB1574952E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C10FE130-7E1C-446C-8866-6EAB1574952E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C10FE130-7E1C-446C-8866-6EAB1574952E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C10FE130-7E1C-446C-8866-6EAB1574952E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBAB0239-5334-4671-B2FE-9864ECA35C31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBAB0239-5334-4671-B2FE-9864ECA35C31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBAB0239-5334-4671-B2FE-9864ECA35C31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBAB0239-5334-4671-B2FE-9864ECA35C31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A6BACD0-1305-4D12-A957-EF3F204255AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A6BACD0-1305-4D12-A957-EF3F204255AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A6BACD0-1305-4D12-A957-EF3F204255AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A6BACD0-1305-4D12-A957-EF3F204255AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{862EBAD1-1F1E-4A0B-BE89-C0E8330AB6BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{862EBAD1-1F1E-4A0B-BE89-C0E8330AB6BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{862EBAD1-1F1E-4A0B-BE89-C0E8330AB6BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{862EBAD1-1F1E-4A0B-BE89-C0E8330AB6BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{628537DE-0D9F-42D9-A134-1921BB0C2755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{628537DE-0D9F-42D9-A134-1921BB0C2755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{628537DE-0D9F-42D9-A134-1921BB0C2755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{628537DE-0D9F-42D9-A134-1921BB0C2755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{094CC548-8429-4658-85D7-BC2DA38C2EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{094CC548-8429-4658-85D7-BC2DA38C2EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{094CC548-8429-4658-85D7-BC2DA38C2EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{094CC548-8429-4658-85D7-BC2DA38C2EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

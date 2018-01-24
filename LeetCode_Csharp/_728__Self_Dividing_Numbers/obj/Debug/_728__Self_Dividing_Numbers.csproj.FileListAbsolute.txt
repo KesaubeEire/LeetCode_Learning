@@ -1,0 +1,6 @@
+/Users/w/GitSets/C#_LeetCodePractice/LeetCode_Csharp/_728__Self_Dividing_Numbers/bin/Debug/_728__Self_Dividing_Numbers.exe
+/Users/w/GitSets/C#_LeetCodePractice/LeetCode_Csharp/_728__Self_Dividing_Numbers/bin/Debug/_728__Self_Dividing_Numbers.pdb
+/Users/w/GitSets/C#_LeetCodePractice/LeetCode_Csharp/_728__Self_Dividing_Numbers/obj/Debug/_728__Self_Dividing_Numbers.csprojResolveAssemblyReference.cache
+/Users/w/GitSets/C#_LeetCodePractice/LeetCode_Csharp/_728__Self_Dividing_Numbers/obj/Debug/_728__Self_Dividing_Numbers.csproj.CoreCompileInputs.cache
+/Users/w/GitSets/C#_LeetCodePractice/LeetCode_Csharp/_728__Self_Dividing_Numbers/obj/Debug/_728__Self_Dividing_Numbers.exe
+/Users/w/GitSets/C#_LeetCodePractice/LeetCode_Csharp/_728__Self_Dividing_Numbers/obj/Debug/_728__Self_Dividing_Numbers.pdb

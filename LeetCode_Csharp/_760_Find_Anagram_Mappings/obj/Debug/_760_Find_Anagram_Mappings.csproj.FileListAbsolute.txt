@@ -1,0 +1,6 @@
+/Users/w/GitSets/C#_LeetCodePractice/LeetCode_Csharp/_760_Find_Anagram_Mappings/obj/Debug/_760_Find_Anagram_Mappings.csprojResolveAssemblyReference.cache
+/Users/w/GitSets/C#_LeetCodePractice/LeetCode_Csharp/_760_Find_Anagram_Mappings/obj/Debug/_760_Find_Anagram_Mappings.csproj.CoreCompileInputs.cache
+/Users/w/GitSets/C#_LeetCodePractice/LeetCode_Csharp/_760_Find_Anagram_Mappings/bin/Debug/_760_Find_Anagram_Mappings.exe
+/Users/w/GitSets/C#_LeetCodePractice/LeetCode_Csharp/_760_Find_Anagram_Mappings/bin/Debug/_760_Find_Anagram_Mappings.pdb
+/Users/w/GitSets/C#_LeetCodePractice/LeetCode_Csharp/_760_Find_Anagram_Mappings/obj/Debug/_760_Find_Anagram_Mappings.exe
+/Users/w/GitSets/C#_LeetCodePractice/LeetCode_Csharp/_760_Find_Anagram_Mappings/obj/Debug/_760_Find_Anagram_Mappings.pdb
