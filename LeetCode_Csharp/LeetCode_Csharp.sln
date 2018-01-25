@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_728__Self_Dividing_Numbers
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_561__Array_Partition_I", "_561__Array_Partition_I\_561__Array_Partition_I.csproj", "{094CC548-8429-4658-85D7-BC2DA38C2EAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_763__Partition_Labels", "_763__Partition_Labels\_763__Partition_Labels.csproj", "{106D9288-6568-4218-BC3F-2A629934D186}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{094CC548-8429-4658-85D7-BC2DA38C2EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{094CC548-8429-4658-85D7-BC2DA38C2EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{094CC548-8429-4658-85D7-BC2DA38C2EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{106D9288-6568-4218-BC3F-2A629934D186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{106D9288-6568-4218-BC3F-2A629934D186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{106D9288-6568-4218-BC3F-2A629934D186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{106D9288-6568-4218-BC3F-2A629934D186}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

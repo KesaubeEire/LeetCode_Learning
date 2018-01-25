@@ -1,0 +1,6 @@
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_763__Partition_Labels/bin/Debug/_763__Partition_Labels.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_763__Partition_Labels/bin/Debug/_763__Partition_Labels.pdb
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_763__Partition_Labels/obj/Debug/_763__Partition_Labels.csprojResolveAssemblyReference.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_763__Partition_Labels/obj/Debug/_763__Partition_Labels.csproj.CoreCompileInputs.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_763__Partition_Labels/obj/Debug/_763__Partition_Labels.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_763__Partition_Labels/obj/Debug/_763__Partition_Labels.pdb
