@@ -1,0 +1,6 @@
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_771__Jewels_and_Stones/bin/Debug/_771__Jewels_and_Stones.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_771__Jewels_and_Stones/bin/Debug/_771__Jewels_and_Stones.pdb
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_771__Jewels_and_Stones/obj/Debug/_771__Jewels_and_Stones.csprojResolveAssemblyReference.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_771__Jewels_and_Stones/obj/Debug/_771__Jewels_and_Stones.csproj.CoreCompileInputs.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_771__Jewels_and_Stones/obj/Debug/_771__Jewels_and_Stones.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_771__Jewels_and_Stones/obj/Debug/_771__Jewels_and_Stones.pdb

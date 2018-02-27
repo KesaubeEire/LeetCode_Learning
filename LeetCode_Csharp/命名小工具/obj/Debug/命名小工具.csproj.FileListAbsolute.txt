@@ -1,0 +1,6 @@
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/命名小工具/bin/Debug/命名小工具.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/命名小工具/bin/Debug/命名小工具.pdb
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/命名小工具/obj/Debug/命名小工具.csprojResolveAssemblyReference.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/命名小工具/obj/Debug/命名小工具.csproj.CoreCompileInputs.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/命名小工具/obj/Debug/命名小工具.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/命名小工具/obj/Debug/命名小工具.pdb

@@ -8,47 +8,97 @@ namespace _763__Partition_Labels
     {
         public static void Main(string[] args)
         {
-            string s = "ababcbacadefegdehijhklij";
+            string s = "caedbdedda";
             Console.WriteLine(PartitionLabels(s));
+            ;
         }
 
         public static IList<int> PartitionLabels(string S)
         {
             IList<int> EE = new List<int>(1);
 
-            void constructure(string sss)
+            string constructure(string sss)
             {
                 char[] ss = sss.ToCharArray();
 
                 int GetEnd(char s) //搞到某个字符的尾数
                 {
-                    int markend = -1;
-                    for (int i = 1; i < ss.Length; i++)
+                    char theOne = new char();
+                    for (int i = 0; i < ss.Length; i++)
                     {
-                        if (ss[i] == ss[0])
+                        if (ss[i] == s)
+                        {
+                            theOne = ss[i];
+                        }
+                    }
+
+                    int markend = -1;
+                    for (int i = 0; i < ss.Length; i++)
+                    {
+                        if (ss[i] == theOne)
                         {
                             markend = i;
                         }
                     }
 
+                    if (markend == -1) Console.WriteLine("fuck");
                     return markend;
                 }
 
-                int E = GetEnd(ss[0]);
-                for (int i = 0; i < E; i++)
+                int E = 0;
+                for (int i = 0; i < ss.Length; i++)
                 {
-                    if (GetEnd(ss[i]) > E) E = GetEnd(ss[i]);
+                    E = i;
+                    if (GetEnd(ss[i]) != i)
+                    {
+                        E = GetEnd(ss[i]);
+                        break;
+                    }
+                    else if (i == 0)
+                    {
+                        E = 0;
+                        break;
+                    }
                 }
 
+                //---
+                Console.WriteLine("E_origin = " + E);
+
+                for (int i = 1; i < ss.Length; i++)
+                {
+                    if (i < E)
+                    {
+                        if (GetEnd(ss[i]) > E)
+                        {
+                            E = GetEnd(ss[i]);
+                        }
+                    }
+                    else
+                    {
+                        break;
+                    }
+                }
+
+                //---
+                Console.WriteLine("E_final = " + E);
+
                 EE.Add(E + 1);
-                Console.WriteLine(E + 1);
+                Console.WriteLine("这组结果是:\t" + (E + 1));
                 if ((E + 1) != ss.Length)
                 {
                     string ssss = sss.Remove(0, E + 1);
+                    Console.WriteLine(ssss);
+                    constructure(ssss);
+                    return ssss;
                 }
+
+                return null;
             }
 
-            constructure(S);
+
+            S = constructure(S);
+
+
             return EE;
         }
     }
@@ -67,3 +117,24 @@ Note:
 S will have length in range [1, 500].
 S will consist of lowercase letters ('a' to 'z') only.
 */
+
+
+////看看人家的Java代码 1 ms 耶
+//class Solution {
+//    public List<Integer> partitionLabels(String S) {
+//        int[] last = new int[26];
+//        for (int i = 0; i < S.length(); ++i)
+//            last[S.charAt(i) - 'a'] = i;
+//        
+//        int j = 0, anchor = 0;
+//        List<Integer> ans = new ArrayList();
+//        for (int i = 0; i < S.length(); ++i) {
+//            j = Math.max(j, last[S.charAt(i) - 'a']);
+//            if (i == j) {
+//                ans.add(i - anchor + 1);
+//                anchor = i + 1;
+//            }
+//        }
+//        return ans;
+//    }
+//}
