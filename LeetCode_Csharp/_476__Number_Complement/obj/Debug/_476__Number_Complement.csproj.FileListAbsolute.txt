@@ -1,0 +1,6 @@
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_476__Number_Complement/bin/Debug/_476__Number_Complement.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_476__Number_Complement/bin/Debug/_476__Number_Complement.pdb
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_476__Number_Complement/obj/Debug/_476__Number_Complement.csprojResolveAssemblyReference.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_476__Number_Complement/obj/Debug/_476__Number_Complement.csproj.CoreCompileInputs.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_476__Number_Complement/obj/Debug/_476__Number_Complement.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_476__Number_Complement/obj/Debug/_476__Number_Complement.pdb

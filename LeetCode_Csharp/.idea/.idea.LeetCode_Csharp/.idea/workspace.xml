@@ -18,59 +18,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_763__Partition_Labels/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="30" column="35" lean-forward="false" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
-              <folding>
-                <marker date="1519665133000" expanded="false" signature="6:74" ph="..." />
-                <marker date="1519665133000" expanded="true" signature="108:2754" ph="{...}" />
-                <marker date="1519665133000" expanded="true" signature="137:2752" ph="{...}" />
-                <marker date="1519665133000" expanded="true" signature="190:312" ph="{...}" />
-                <marker date="1519665133000" expanded="true" signature="372:2746" ph="{...}" />
-                <marker date="1519665133000" expanded="true" signature="702:882" ph="{...}" />
-                <marker date="1519665133000" expanded="true" signature="764:860" ph="{...}" />
-                <marker date="1519665133000" expanded="true" signature="977:1159" ph="{...}" />
-                <marker date="1519665133000" expanded="true" signature="1044:1137" ph="{...}" />
-                <marker date="1519665133000" expanded="true" signature="1360:1728" ph="{...}" />
-                <marker date="1519665133000" expanded="true" signature="1449:1567" ph="{...}" />
-                <marker date="1519665133000" expanded="true" signature="1604:1710" ph="{...}" />
-                <marker date="1519665133000" expanded="true" signature="1858:2215" ph="{...}" />
-                <marker date="1519665133000" expanded="true" signature="1907:2097" ph="{...}" />
-                <marker date="1519665133000" expanded="true" signature="1976:2075" ph="{...}" />
-                <marker date="1519665133000" expanded="true" signature="2122:2197" ph="{...}" />
-                <marker date="1519665133000" expanded="true" signature="2422:2632" ph="{...}" />
-                <marker date="1519665133000" expanded="true" signature="2755:3382" ph="/* A string S of lowercase letters is given. We want to partition this string into as many parts as possible so t ... */" />
-                <marker date="1519665133000" expanded="true" signature="3385:3970" ph="/* 看看人家的Java代码 1 ms 耶 ... */" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_771__Jewels_and_Stones/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="25" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="32" selection-end-column="25" />
-              <folding>
-                <marker date="1519732849000" expanded="true" signature="6:66" ph="..." />
-                <marker date="1519732849000" expanded="true" signature="101:828" ph="{...}" />
-                <marker date="1519732849000" expanded="true" signature="130:826" ph="{...}" />
-                <marker date="1519732849000" expanded="true" signature="183:321" ph="{...}" />
-                <marker date="1519732849000" expanded="true" signature="387:820" ph="{...}" />
-                <marker date="1519732849000" expanded="true" signature="551:783" ph="{...}" />
-                <marker date="1519732849000" expanded="true" signature="616:769" ph="{...}" />
-                <marker date="1519732849000" expanded="true" signature="674:751" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/命名小工具/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+            <state relative-caret-position="390">
+              <caret line="26" column="9" lean-forward="false" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
               <folding>
                 <marker date="1519704862000" expanded="true" signature="6:92" ph="..." />
                 <marker date="1519704862000" expanded="true" signature="109:646" ph="{...}" />
@@ -78,6 +29,63 @@
                 <marker date="1519704862000" expanded="true" signature="191:638" ph="{...}" />
                 <marker date="1519704862000" expanded="true" signature="377:518" ph="{...}" />
                 <marker date="1519704862000" expanded="true" signature="559:628" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_557__Reverse_Words_in_a_String_III/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" column="8" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+              <folding>
+                <marker date="1519924142000" expanded="true" signature="6:93" ph="..." />
+                <marker date="1519924142000" expanded="true" signature="140:706" ph="{...}" />
+                <marker date="1519924142000" expanded="true" signature="169:704" ph="{...}" />
+                <marker date="1519924142000" expanded="true" signature="222:317" ph="{...}" />
+                <marker date="1519924142000" expanded="true" signature="370:698" ph="{...}" />
+                <marker date="1519924142000" expanded="true" signature="497:646" ph="{...}" />
+                <marker date="1519924142000" expanded="true" signature="708:1149" ph="/* Given a string, you need to reverse the order of characters in each word within a sentence while still preserv ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_344__Reverse_String/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+              <folding>
+                <marker date="1519921146000" expanded="true" signature="6:73" ph="..." />
+                <marker date="1519921146000" expanded="true" signature="105:595" ph="{...}" />
+                <marker date="1519921146000" expanded="true" signature="134:593" ph="{...}" />
+                <marker date="1519921146000" expanded="true" signature="187:267" ph="{...}" />
+                <marker date="1519921146000" expanded="true" signature="321:587" ph="{...}" />
+                <marker date="1519921146000" expanded="true" signature="463:536" ph="{...}" />
+                <marker date="1519921146000" expanded="true" signature="596:723" ph="/* Write a function that takes a string as input and returns the string reversed. ... */" />
+                <marker date="1519921146000" expanded="true" signature="725:930" ph="/* 大神的代码看看哦 ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_476__Number_Complement/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="34" column="69" lean-forward="false" selection-start-line="17" selection-start-column="11" selection-end-line="34" selection-end-column="69" />
+              <folding>
+                <marker date="1519918812000" expanded="true" signature="6:66" ph="..." />
+                <marker date="1519918812000" expanded="true" signature="101:828" ph="{...}" />
+                <marker date="1519918812000" expanded="true" signature="130:826" ph="{...}" />
+                <marker date="1519918812000" expanded="true" signature="216:286" ph="{...}" />
+                <marker date="1519918812000" expanded="true" signature="337:820" ph="{...}" />
+                <marker date="1519918812000" expanded="true" signature="497:738" ph="{...}" />
+                <marker date="1519918812000" expanded="true" signature="548:617" ph="{...}" />
+                <marker date="1519918812000" expanded="true" signature="655:724" ph="{...}" />
+                <marker date="1519918812000" expanded="true" signature="829:1441" ph="/* Given a positive integer, output its complement number. The complement strategy is to flip the bits of its bin ... */" />
               </folding>
             </state>
           </provider>
@@ -117,18 +125,21 @@
     </replaceStrings>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/_557__Reverse_Words_in_a_String_III/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/命名小工具/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_537__Complex_Number_Multiplication/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_617__Merge_Two_Binary_Trees/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_728__Self_Dividing_Numbers/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_760_Find_Anagram_Mappings/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_654_Maximum_Binary_Tree/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_763__Partition_Labels/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_344__Reverse_String/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_728__Self_Dividing_Numbers/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_657__Judge_Route_Circle/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_791__Custom Sort String/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_771__Jewels_and_Stones/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_561__Array_Partition_I/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_654_Maximum_Binary_Tree/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_763__Partition_Labels/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_461__Hamming_Distance/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_476__Number_Complement/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -145,6 +156,9 @@
         <option value="$PROJECT_DIR$/命名小工具/Program.cs" />
         <option value="$PROJECT_DIR$/_537__Complex_Number_Multiplication/Program.cs" />
         <option value="$PROJECT_DIR$/_771__Jewels_and_Stones/Program.cs" />
+        <option value="$PROJECT_DIR$/_476__Number_Complement/Program.cs" />
+        <option value="$PROJECT_DIR$/_344__Reverse_String/Program.cs" />
+        <option value="$PROJECT_DIR$/_557__Reverse_Words_in_a_String_III/Program.cs" />
       </list>
     </option>
   </component>
@@ -156,9 +170,9 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1920" />
-    <option name="y" value="24" />
+    <option name="y" value="-87" />
     <option name="width" value="1080" />
-    <option name="height" value="1892" />
+    <option name="height" value="1897" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
@@ -180,31 +194,36 @@
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="LeetCode_Csharp (12 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="LeetCode_Csharp (15 projects)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="LeetCode_Csharp (12 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="LeetCode_Csharp (15 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="_344__Reverse_String" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="LeetCode_Csharp (15 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="_537__Complex_Number_Multiplication" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="LeetCode_Csharp (12 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="LeetCode_Csharp (15 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="_561__Array_Partition_I" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="LeetCode_Csharp (12 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="LeetCode_Csharp (15 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="_763__Partition_Labels" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="LeetCode_Csharp (12 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="LeetCode_Csharp (15 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="_791__Custom Sort String" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="LeetCode_Csharp (12 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="LeetCode_Csharp (15 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="命名小工具" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
@@ -219,6 +238,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -232,7 +252,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Project.命名小工具">
+  <component name="RunManager" selected=".NET Project._557__Reverse_Words_in_a_String_III">
     <configuration name="命名小工具" type="DotNetProject" factoryName=".NET Project" temporary="true">
       <option name="EXE_PATH" value="$PROJECT_DIR$/命名小工具/bin/Debug/命名小工具.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -263,15 +283,45 @@
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7" />
     </configuration>
-    <configuration name="_537__Complex_Number_Multiplication" type="DotNetProject" factoryName=".NET Project" temporary="true">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/_537__Complex_Number_Multiplication/bin/Debug/_537__Complex_Number_Multiplication.exe" />
+    <configuration name="_344__Reverse_String" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/_344__Reverse_String/bin/Debug/_344__Reverse_String.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_537__Complex_Number_Multiplication/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_344__Reverse_String/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <envs />
       <option name="USE_MONO" value="0" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_537__Complex_Number_Multiplication/_537__Complex_Number_Multiplication.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_344__Reverse_String/_344__Reverse_String.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7" />
+    </configuration>
+    <configuration name="_476__Number_Complement" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/_476__Number_Complement/bin/Debug/_476__Number_Complement.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_476__Number_Complement/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_476__Number_Complement/_476__Number_Complement.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7" />
+    </configuration>
+    <configuration name="_557__Reverse_Words_in_a_String_III" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/_557__Reverse_Words_in_a_String_III/bin/Debug/_557__Reverse_Words_in_a_String_III.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_557__Reverse_Words_in_a_String_III/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_557__Reverse_Words_in_a_String_III/_557__Reverse_Words_in_a_String_III.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -293,21 +343,6 @@
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7" />
     </configuration>
-    <configuration name="_763__Partition_Labels" type="DotNetProject" factoryName=".NET Project" temporary="true">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/_763__Partition_Labels/bin/Debug/_763__Partition_Labels.exe" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_763__Partition_Labels/bin/Debug" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <envs />
-      <option name="USE_MONO" value="0" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_763__Partition_Labels/_763__Partition_Labels.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="Console" />
-      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7" />
-    </configuration>
     <configuration name="_771__Jewels_and_Stones" type="DotNetProject" factoryName=".NET Project" temporary="true">
       <option name="EXE_PATH" value="$PROJECT_DIR$/_771__Jewels_and_Stones/bin/Debug/_771__Jewels_and_Stones.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -323,37 +358,22 @@
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7" />
     </configuration>
-    <configuration name="_791__Custom Sort String" type="DotNetProject" factoryName=".NET Project" temporary="true">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/_791__Custom Sort String/bin/Debug/_791__Custom_Sort_String.exe" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_791__Custom Sort String/bin/Debug" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <envs />
-      <option name="USE_MONO" value="0" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_791__Custom Sort String/_791__Custom Sort String.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="Console" />
-      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7" />
-    </configuration>
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
       <item index="1" class="java.lang.String" itemvalue=".NET Project._654_Maximum_Binary_Tree" />
-      <item index="2" class="java.lang.String" itemvalue=".NET Project._763__Partition_Labels" />
-      <item index="3" class="java.lang.String" itemvalue=".NET Project._791__Custom Sort String" />
-      <item index="4" class="java.lang.String" itemvalue=".NET Project.命名小工具" />
-      <item index="5" class="java.lang.String" itemvalue=".NET Project._537__Complex_Number_Multiplication" />
-      <item index="6" class="java.lang.String" itemvalue=".NET Project._771__Jewels_and_Stones" />
+      <item index="2" class="java.lang.String" itemvalue=".NET Project.命名小工具" />
+      <item index="3" class="java.lang.String" itemvalue=".NET Project._771__Jewels_and_Stones" />
+      <item index="4" class="java.lang.String" itemvalue=".NET Project._476__Number_Complement" />
+      <item index="5" class="java.lang.String" itemvalue=".NET Project._344__Reverse_String" />
+      <item index="6" class="java.lang.String" itemvalue=".NET Project._557__Reverse_Words_in_a_String_III" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue=".NET Project.命名小工具" />
-        <item index="1" class="java.lang.String" itemvalue=".NET Project._771__Jewels_and_Stones" />
-        <item index="2" class="java.lang.String" itemvalue=".NET Project._537__Complex_Number_Multiplication" />
-        <item index="3" class="java.lang.String" itemvalue=".NET Project._763__Partition_Labels" />
-        <item index="4" class="java.lang.String" itemvalue=".NET Project._791__Custom Sort String" />
+        <item index="0" class="java.lang.String" itemvalue=".NET Project._557__Reverse_Words_in_a_String_III" />
+        <item index="1" class="java.lang.String" itemvalue=".NET Project.命名小工具" />
+        <item index="2" class="java.lang.String" itemvalue=".NET Project._344__Reverse_String" />
+        <item index="3" class="java.lang.String" itemvalue=".NET Project._476__Number_Complement" />
+        <item index="4" class="java.lang.String" itemvalue=".NET Project._771__Jewels_and_Stones" />
       </list>
     </recent_temporary>
   </component>
@@ -374,12 +394,12 @@
       <workItem from="1516814235011" duration="4976000" />
       <workItem from="1519654639095" duration="6901000" />
       <workItem from="1519661951872" duration="3141000" />
-      <workItem from="1519704787922" duration="7554000" />
+      <workItem from="1519704787922" duration="13926000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58726000" />
+    <option name="totallyTimeSpent" value="65098000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -391,7 +411,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="23" width="1080" height="1893" extended-state="6" />
+    <frame x="1920" y="-87" width="1080" height="1893" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
@@ -536,6 +556,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding>
+            <marker date="1516700869000" expanded="false" signature="6:66" ph="..." />
+            <marker date="1516700869000" expanded="true" signature="102:3277" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="131:3275" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="184:726" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="328:716" ph="/* TreeNode b1 = new TreeNode(00); ... */" />
+            <marker date="1516700869000" expanded="true" signature="758:1024" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="902:1014" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="1034:2043" ph="搬来自己写的树的层次遍历" />
+            <marker date="1516700869000" expanded="true" signature="1064:1132" ph="/// 层次遍历，我自己写的，完了对比对比能不能用 ... " />
+            <marker date="1516700869000" expanded="true" signature="1261:2023" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="1355:1777" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="1501:1611" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="1652:1763" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="1808:2013" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="1872:1999" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="2114:3069" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="2230:2398" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="2279:2384" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="2497:2706" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="2773:3033" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="3122:3269" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="3183:3259" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="3279:3305" ph="/* 总结 ... */" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -585,6 +630,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="37" column="22" lean-forward="false" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+          <folding>
+            <marker date="1516700869000" expanded="false" signature="6:66" ph="..." />
+            <marker date="1516700869000" expanded="true" signature="102:3277" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="131:3275" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="184:726" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="328:716" ph="/* TreeNode b1 = new TreeNode(00); ... */" />
+            <marker date="1516700869000" expanded="true" signature="758:1024" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="902:1014" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="1034:2043" ph="搬来自己写的树的层次遍历" />
+            <marker date="1516700869000" expanded="true" signature="1064:1132" ph="/// 层次遍历，我自己写的，完了对比对比能不能用 ... " />
+            <marker date="1516700869000" expanded="true" signature="1261:2023" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="1355:1777" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="1501:1611" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="1652:1763" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="1808:2013" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="1872:1999" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="2114:3069" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="2230:2398" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="2279:2384" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="2497:2706" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="2773:3033" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="3122:3269" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="3183:3259" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="3279:3305" ph="/* 总结 ... */" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -655,6 +725,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding>
+            <marker date="1516700869000" expanded="false" signature="6:66" ph="..." />
+            <marker date="1516700869000" expanded="true" signature="102:3277" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="131:3275" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="184:726" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="328:716" ph="/* TreeNode b1 = new TreeNode(00); ... */" />
+            <marker date="1516700869000" expanded="true" signature="758:1024" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="902:1014" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="1034:2043" ph="搬来自己写的树的层次遍历" />
+            <marker date="1516700869000" expanded="true" signature="1064:1132" ph="/// 层次遍历，我自己写的，完了对比对比能不能用 ... " />
+            <marker date="1516700869000" expanded="true" signature="1261:2023" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="1355:1777" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="1501:1611" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="1652:1763" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="1808:2013" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="1872:1999" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="2114:3069" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="2230:2398" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="2279:2384" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="2497:2706" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="2773:3033" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="3122:3269" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="3183:3259" ph="{...}" />
+            <marker date="1516700869000" expanded="true" signature="3279:3305" ph="/* 总结 ... */" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -725,9 +820,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_476__Number_Complement/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="69" lean-forward="false" selection-start-line="17" selection-start-column="11" selection-end-line="34" selection-end-column="69" />
+          <folding>
+            <marker date="1519918812000" expanded="true" signature="6:66" ph="..." />
+            <marker date="1519918812000" expanded="true" signature="101:828" ph="{...}" />
+            <marker date="1519918812000" expanded="true" signature="130:826" ph="{...}" />
+            <marker date="1519918812000" expanded="true" signature="216:286" ph="{...}" />
+            <marker date="1519918812000" expanded="true" signature="337:820" ph="{...}" />
+            <marker date="1519918812000" expanded="true" signature="497:738" ph="{...}" />
+            <marker date="1519918812000" expanded="true" signature="548:617" ph="{...}" />
+            <marker date="1519918812000" expanded="true" signature="655:724" ph="{...}" />
+            <marker date="1519918812000" expanded="true" signature="829:1441" ph="/* Given a positive integer, output its complement number. The complement strategy is to flip the bits of its bin ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_771__Jewels_and_Stones/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <marker date="1519732849000" expanded="true" signature="6:66" ph="..." />
+            <marker date="1519732849000" expanded="true" signature="101:828" ph="{...}" />
+            <marker date="1519732849000" expanded="true" signature="130:826" ph="{...}" />
+            <marker date="1519732849000" expanded="true" signature="183:321" ph="{...}" />
+            <marker date="1519732849000" expanded="true" signature="387:820" ph="{...}" />
+            <marker date="1519732849000" expanded="true" signature="551:783" ph="{...}" />
+            <marker date="1519732849000" expanded="true" signature="616:769" ph="{...}" />
+            <marker date="1519732849000" expanded="true" signature="674:751" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_763__Partition_Labels/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="-262">
           <caret line="30" column="35" lean-forward="false" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
           <folding>
             <marker date="1519665133000" expanded="false" signature="6:74" ph="..." />
@@ -753,27 +883,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_771__Jewels_and_Stones/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="25" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="32" selection-end-column="25" />
-          <folding>
-            <marker date="1519732849000" expanded="true" signature="6:66" ph="..." />
-            <marker date="1519732849000" expanded="true" signature="101:828" ph="{...}" />
-            <marker date="1519732849000" expanded="true" signature="130:826" ph="{...}" />
-            <marker date="1519732849000" expanded="true" signature="183:321" ph="{...}" />
-            <marker date="1519732849000" expanded="true" signature="387:820" ph="{...}" />
-            <marker date="1519732849000" expanded="true" signature="551:783" ph="{...}" />
-            <marker date="1519732849000" expanded="true" signature="616:769" ph="{...}" />
-            <marker date="1519732849000" expanded="true" signature="674:751" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/命名小工具/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        <state relative-caret-position="390">
+          <caret line="26" column="9" lean-forward="false" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
           <folding>
             <marker date="1519704862000" expanded="true" signature="6:92" ph="..." />
             <marker date="1519704862000" expanded="true" signature="109:646" ph="{...}" />
@@ -781,6 +894,39 @@
             <marker date="1519704862000" expanded="true" signature="191:638" ph="{...}" />
             <marker date="1519704862000" expanded="true" signature="377:518" ph="{...}" />
             <marker date="1519704862000" expanded="true" signature="559:628" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_344__Reverse_String/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <marker date="1519921146000" expanded="true" signature="6:73" ph="..." />
+            <marker date="1519921146000" expanded="true" signature="105:595" ph="{...}" />
+            <marker date="1519921146000" expanded="true" signature="134:593" ph="{...}" />
+            <marker date="1519921146000" expanded="true" signature="187:267" ph="{...}" />
+            <marker date="1519921146000" expanded="true" signature="321:587" ph="{...}" />
+            <marker date="1519921146000" expanded="true" signature="463:536" ph="{...}" />
+            <marker date="1519921146000" expanded="true" signature="596:723" ph="/* Write a function that takes a string as input and returns the string reversed. ... */" />
+            <marker date="1519921146000" expanded="true" signature="725:930" ph="/* 大神的代码看看哦 ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_557__Reverse_Words_in_a_String_III/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="8" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+          <folding>
+            <marker date="1519924142000" expanded="true" signature="6:93" ph="..." />
+            <marker date="1519924142000" expanded="true" signature="140:706" ph="{...}" />
+            <marker date="1519924142000" expanded="true" signature="169:704" ph="{...}" />
+            <marker date="1519924142000" expanded="true" signature="222:317" ph="{...}" />
+            <marker date="1519924142000" expanded="true" signature="370:698" ph="{...}" />
+            <marker date="1519924142000" expanded="true" signature="497:646" ph="{...}" />
+            <marker date="1519924142000" expanded="true" signature="708:1149" ph="/* Given a string, you need to reverse the order of characters in each word within a sentence while still preserv ... */" />
           </folding>
         </state>
       </provider>
