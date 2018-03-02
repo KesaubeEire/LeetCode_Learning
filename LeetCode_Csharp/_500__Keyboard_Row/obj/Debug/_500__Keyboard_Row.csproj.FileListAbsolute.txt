@@ -1,0 +1,6 @@
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_500__Keyboard_Row/bin/Debug/_500__Keyboard_Row.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_500__Keyboard_Row/bin/Debug/_500__Keyboard_Row.pdb
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_500__Keyboard_Row/obj/Debug/_500__Keyboard_Row.csprojResolveAssemblyReference.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_500__Keyboard_Row/obj/Debug/_500__Keyboard_Row.csproj.CoreCompileInputs.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_500__Keyboard_Row/obj/Debug/_500__Keyboard_Row.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_500__Keyboard_Row/obj/Debug/_500__Keyboard_Row.pdb

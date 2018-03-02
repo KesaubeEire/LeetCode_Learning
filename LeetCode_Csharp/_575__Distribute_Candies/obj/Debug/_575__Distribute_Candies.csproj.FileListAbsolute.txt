@@ -1,0 +1,6 @@
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_575__Distribute_Candies/bin/Debug/_575__Distribute_Candies.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_575__Distribute_Candies/bin/Debug/_575__Distribute_Candies.pdb
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_575__Distribute_Candies/obj/Debug/_575__Distribute_Candies.csprojResolveAssemblyReference.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_575__Distribute_Candies/obj/Debug/_575__Distribute_Candies.csproj.CoreCompileInputs.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_575__Distribute_Candies/obj/Debug/_575__Distribute_Candies.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_575__Distribute_Candies/obj/Debug/_575__Distribute_Candies.pdb
