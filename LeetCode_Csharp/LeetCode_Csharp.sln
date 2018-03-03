@@ -38,6 +38,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_682__Baseball_Game", "_682
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_575__Distribute_Candies", "_575__Distribute_Candies\_575__Distribute_Candies.csproj", "{6EA4F1A3-46BC-4E35-82E4-9857057B3EC0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_463__Island_Perimeter", "_463__Island_Perimeter\_463__Island_Perimeter.csproj", "{D8377526-BDFC-4461-A78C-CB3E54DD6777}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -120,5 +122,9 @@ Global
 		{6EA4F1A3-46BC-4E35-82E4-9857057B3EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EA4F1A3-46BC-4E35-82E4-9857057B3EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EA4F1A3-46BC-4E35-82E4-9857057B3EC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8377526-BDFC-4461-A78C-CB3E54DD6777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8377526-BDFC-4461-A78C-CB3E54DD6777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8377526-BDFC-4461-A78C-CB3E54DD6777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8377526-BDFC-4461-A78C-CB3E54DD6777}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

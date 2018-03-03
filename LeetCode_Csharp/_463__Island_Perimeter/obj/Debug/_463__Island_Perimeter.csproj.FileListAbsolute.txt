@@ -1,0 +1,6 @@
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_463__Island_Perimeter/bin/Debug/_463__Island_Perimeter.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_463__Island_Perimeter/bin/Debug/_463__Island_Perimeter.pdb
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_463__Island_Perimeter/obj/Debug/_463__Island_Perimeter.csprojResolveAssemblyReference.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_463__Island_Perimeter/obj/Debug/_463__Island_Perimeter.csproj.CoreCompileInputs.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_463__Island_Perimeter/obj/Debug/_463__Island_Perimeter.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_463__Island_Perimeter/obj/Debug/_463__Island_Perimeter.pdb

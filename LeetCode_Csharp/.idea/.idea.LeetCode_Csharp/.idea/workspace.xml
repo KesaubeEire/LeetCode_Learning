@@ -49,7 +49,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_575__Distribute_Candies/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1080">
@@ -64,6 +64,36 @@
                 <marker date="1520039729000" expanded="true" signature="1242:1577" ph="{...}" />
                 <marker date="1520039729000" expanded="true" signature="1437:1504" ph="{...}" />
                 <marker date="1520039729000" expanded="true" signature="1587:2665" ph="/* Given an integer array with even length, where different numbers in this array represent different kinds of ca ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_463__Island_Perimeter/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1374">
+              <caret line="95" column="23" lean-forward="true" selection-start-line="65" selection-start-column="11" selection-end-line="95" selection-end-column="23" />
+              <folding>
+                <marker date="1520042991000" expanded="true" signature="47:3175" ph="{...}" />
+                <marker date="1520042991000" expanded="true" signature="76:3173" ph="{...}" />
+                <marker date="1520042991000" expanded="true" signature="129:283" ph="{...}" />
+                <marker date="1520042991000" expanded="true" signature="293:497" ph="/// 我的答案是看一个格子的上下左右四个格子是否有其他岛 然后用 每个格子输出 (4 - 邻居数) ... " />
+                <marker date="1520042991000" expanded="true" signature="552:2084" ph="{...}" />
+                <marker date="1520042991000" expanded="true" signature="743:2049" ph="{...}" />
+                <marker date="1520042991000" expanded="true" signature="817:2035" ph="{...}" />
+                <marker date="1520042991000" expanded="true" signature="876:2017" ph="{...}" />
+                <marker date="1520042991000" expanded="true" signature="1068:1215" ph="{...}" />
+                <marker date="1520042991000" expanded="true" signature="1294:1444" ph="{...}" />
+                <marker date="1520042991000" expanded="true" signature="1503:1651" ph="{...}" />
+                <marker date="1520042991000" expanded="true" signature="1730:1879" ph="{...}" />
+                <marker date="1520042991000" expanded="true" signature="2141:3167" ph="{...}" />
+                <marker date="1520042991000" expanded="true" signature="2232:3132" ph="{...}" />
+                <marker date="1520042991000" expanded="true" signature="2306:3118" ph="{...}" />
+                <marker date="1520042991000" expanded="true" signature="2365:3100" ph="{...}" />
+                <marker date="1520042991000" expanded="true" signature="2579:2729" ph="{...}" />
+                <marker date="1520042991000" expanded="true" signature="2809:2958" ph="{...}" />
+                <marker date="1520042991000" expanded="true" signature="3177:3859" ph="/* You are given a map in form of a two-dimensional integer grid where 1 represents land and 0 represents water.  ... */" />
               </folding>
             </state>
           </provider>
@@ -106,6 +136,7 @@
     <setting file="file://$PROJECT_DIR$/_654_Maximum_Binary_Tree/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_682__Baseball_Game/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_763__Partition_Labels/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_463__Island_Perimeter/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_500__Keyboard_Row/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_344__Reverse_String/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_728__Self_Dividing_Numbers/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -141,6 +172,7 @@
         <option value="$PROJECT_DIR$/_682__Baseball_Game/Program.cs" />
         <option value="$PROJECT_DIR$/v/Program.cs" />
         <option value="$PROJECT_DIR$/_575__Distribute_Candies/Program.cs" />
+        <option value="$PROJECT_DIR$/_463__Island_Perimeter/Program.cs" />
       </list>
     </option>
   </component>
@@ -176,12 +208,7 @@
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="LeetCode_Csharp (19 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="LeetCode_Csharp (19 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="_575__Distribute_Candies" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="LeetCode_Csharp (20 projects)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -209,7 +236,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Project._575__Distribute_Candies">
+  <component name="RunManager" selected=".NET Project._463__Island_Perimeter">
     <configuration name="命名小工具" type="DotNetProject" factoryName=".NET Project" temporary="true">
       <option name="EXE_PATH" value="$PROJECT_DIR$/命名小工具/bin/Debug/命名小工具.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -240,15 +267,30 @@
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7" />
     </configuration>
-    <configuration name="_344__Reverse_String" type="DotNetProject" factoryName=".NET Project" temporary="true">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/_344__Reverse_String/bin/Debug/_344__Reverse_String.exe" />
+    <configuration name="_461__Hamming_Distance" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/_461__Hamming_Distance/bin/Debug/_461__Hamming_Distance.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_344__Reverse_String/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_461__Hamming_Distance/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <envs />
       <option name="USE_MONO" value="0" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_344__Reverse_String/_344__Reverse_String.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_461__Hamming_Distance/_461__Hamming_Distance.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7" />
+    </configuration>
+    <configuration name="_463__Island_Perimeter" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/_463__Island_Perimeter/bin/Debug/_463__Island_Perimeter.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_463__Island_Perimeter/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_463__Island_Perimeter/_463__Island_Perimeter.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -264,21 +306,6 @@
       <option name="USE_MONO" value="0" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/_500__Keyboard_Row/_500__Keyboard_Row.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="Console" />
-      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7" />
-    </configuration>
-    <configuration name="_557__Reverse_Words_in_a_String_III" type="DotNetProject" factoryName=".NET Project" temporary="true">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/_557__Reverse_Words_in_a_String_III/bin/Debug/_557__Reverse_Words_in_a_String_III.exe" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_557__Reverse_Words_in_a_String_III/bin/Debug" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <envs />
-      <option name="USE_MONO" value="0" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_557__Reverse_Words_in_a_String_III/_557__Reverse_Words_in_a_String_III.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -319,18 +346,18 @@
       <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
       <item index="1" class="java.lang.String" itemvalue=".NET Project._654_Maximum_Binary_Tree" />
       <item index="2" class="java.lang.String" itemvalue=".NET Project.命名小工具" />
-      <item index="3" class="java.lang.String" itemvalue=".NET Project._344__Reverse_String" />
-      <item index="4" class="java.lang.String" itemvalue=".NET Project._557__Reverse_Words_in_a_String_III" />
-      <item index="5" class="java.lang.String" itemvalue=".NET Project._500__Keyboard_Row" />
-      <item index="6" class="java.lang.String" itemvalue=".NET Project._575__Distribute_Candies" />
+      <item index="3" class="java.lang.String" itemvalue=".NET Project._500__Keyboard_Row" />
+      <item index="4" class="java.lang.String" itemvalue=".NET Project._575__Distribute_Candies" />
+      <item index="5" class="java.lang.String" itemvalue=".NET Project._461__Hamming_Distance" />
+      <item index="6" class="java.lang.String" itemvalue=".NET Project._463__Island_Perimeter" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue=".NET Project._575__Distribute_Candies" />
-        <item index="1" class="java.lang.String" itemvalue=".NET Project.命名小工具" />
-        <item index="2" class="java.lang.String" itemvalue=".NET Project._500__Keyboard_Row" />
-        <item index="3" class="java.lang.String" itemvalue=".NET Project._557__Reverse_Words_in_a_String_III" />
-        <item index="4" class="java.lang.String" itemvalue=".NET Project._344__Reverse_String" />
+        <item index="0" class="java.lang.String" itemvalue=".NET Project._463__Island_Perimeter" />
+        <item index="1" class="java.lang.String" itemvalue=".NET Project._461__Hamming_Distance" />
+        <item index="2" class="java.lang.String" itemvalue=".NET Project.命名小工具" />
+        <item index="3" class="java.lang.String" itemvalue=".NET Project._575__Distribute_Candies" />
+        <item index="4" class="java.lang.String" itemvalue=".NET Project._500__Keyboard_Row" />
       </list>
     </recent_temporary>
   </component>
@@ -351,12 +378,12 @@
       <workItem from="1516814235011" duration="4976000" />
       <workItem from="1519654639095" duration="6901000" />
       <workItem from="1519661951872" duration="3141000" />
-      <workItem from="1519704787922" duration="22768000" />
+      <workItem from="1519704787922" duration="25668000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73940000" />
+    <option name="totallyTimeSpent" value="76840000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -983,6 +1010,34 @@
             <marker date="1520039729000" expanded="true" signature="1242:1577" ph="{...}" />
             <marker date="1520039729000" expanded="true" signature="1437:1504" ph="{...}" />
             <marker date="1520039729000" expanded="true" signature="1587:2665" ph="/* Given an integer array with even length, where different numbers in this array represent different kinds of ca ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_463__Island_Perimeter/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1374">
+          <caret line="95" column="23" lean-forward="true" selection-start-line="65" selection-start-column="11" selection-end-line="95" selection-end-column="23" />
+          <folding>
+            <marker date="1520042991000" expanded="true" signature="47:3175" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="76:3173" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="129:283" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="293:497" ph="/// 我的答案是看一个格子的上下左右四个格子是否有其他岛 然后用 每个格子输出 (4 - 邻居数) ... " />
+            <marker date="1520042991000" expanded="true" signature="552:2084" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="743:2049" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="817:2035" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="876:2017" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="1068:1215" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="1294:1444" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="1503:1651" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="1730:1879" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="2141:3167" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="2232:3132" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="2306:3118" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="2365:3100" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="2579:2729" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="2809:2958" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="3177:3859" ph="/* You are given a map in form of a two-dimensional integer grid where 1 represents land and 0 represents water.  ... */" />
           </folding>
         </state>
       </provider>
