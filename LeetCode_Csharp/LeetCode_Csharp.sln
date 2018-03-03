@@ -40,6 +40,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_575__Distribute_Candies", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_463__Island_Perimeter", "_463__Island_Perimeter\_463__Island_Perimeter.csproj", "{D8377526-BDFC-4461-A78C-CB3E54DD6777}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_442__Find_All_Duplicates_in_an_Array", "_442__Find_All_Duplicates_in_an_Array\_442__Find_All_Duplicates_in_an_Array.csproj", "{0FCD549D-B93F-45EE-935F-87C82C7DD782}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_406__Queue_Reconstruction_by_Height", "_406__Queue_Reconstruction_by_Height\_406__Queue_Reconstruction_by_Height.csproj", "{FC57B916-B858-4BE3-8082-D81BF3B05B60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -126,5 +130,13 @@ Global
 		{D8377526-BDFC-4461-A78C-CB3E54DD6777}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8377526-BDFC-4461-A78C-CB3E54DD6777}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8377526-BDFC-4461-A78C-CB3E54DD6777}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FCD549D-B93F-45EE-935F-87C82C7DD782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FCD549D-B93F-45EE-935F-87C82C7DD782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FCD549D-B93F-45EE-935F-87C82C7DD782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FCD549D-B93F-45EE-935F-87C82C7DD782}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC57B916-B858-4BE3-8082-D81BF3B05B60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC57B916-B858-4BE3-8082-D81BF3B05B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC57B916-B858-4BE3-8082-D81BF3B05B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC57B916-B858-4BE3-8082-D81BF3B05B60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -69,7 +69,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_463__Island_Perimeter/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="174">
@@ -94,6 +94,41 @@
                 <marker date="1520042991000" expanded="true" signature="2579:2729" ph="{...}" />
                 <marker date="1520042991000" expanded="true" signature="2809:2958" ph="{...}" />
                 <marker date="1520042991000" expanded="true" signature="3177:3859" ph="/* You are given a map in form of a two-dimensional integer grid where 1 represents land and 0 represents water.  ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_442__Find_All_Duplicates_in_an_Array/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+              <folding>
+                <marker date="1520053502000" expanded="true" signature="6:47" ph="..." />
+                <marker date="1520053502000" expanded="true" signature="96:715" ph="{...}" />
+                <marker date="1520053502000" expanded="true" signature="125:713" ph="{...}" />
+                <marker date="1520053502000" expanded="true" signature="178:300" ph="{...}" />
+                <marker date="1520053502000" expanded="true" signature="361:707" ph="{...}" />
+                <marker date="1520053502000" expanded="true" signature="516:672" ph="{...}" />
+                <marker date="1520053502000" expanded="true" signature="716:997" ph="/* Given an array of integers, 1 ≤ a[i] ≤ n (n = size of array), some elements appear twice and others appear onc ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_406__Queue_Reconstruction_by_Height/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+              <folding>
+                <marker date="1520055470000" expanded="true" signature="46:429" ph="{...}" />
+                <marker date="1520055470000" expanded="true" signature="75:427" ph="{...}" />
+                <marker date="1520055470000" expanded="true" signature="128:148" ph="{...}" />
+                <marker date="1520055470000" expanded="true" signature="210:421" ph="{...}" />
+                <marker date="1520055470000" expanded="true" signature="330:397" ph="{...}" />
+                <marker date="1520055470000" expanded="true" signature="430:893" ph="/* Suppose you have a random list of people standing in a queue. Each person is described by a pair of integers ( ... */" />
               </folding>
             </state>
           </provider>
@@ -133,6 +168,7 @@
     <setting file="file://$PROJECT_DIR$/_537__Complex_Number_Multiplication/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_617__Merge_Two_Binary_Trees/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_760_Find_Anagram_Mappings/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_406__Queue_Reconstruction_by_Height/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_654_Maximum_Binary_Tree/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_682__Baseball_Game/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_763__Partition_Labels/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -147,6 +183,7 @@
     <setting file="file://$PROJECT_DIR$/_461__Hamming_Distance/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_575__Distribute_Candies/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_476__Number_Complement/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_442__Find_All_Duplicates_in_an_Array/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_412__Fizz_Buzz/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -173,6 +210,8 @@
         <option value="$PROJECT_DIR$/v/Program.cs" />
         <option value="$PROJECT_DIR$/_575__Distribute_Candies/Program.cs" />
         <option value="$PROJECT_DIR$/_463__Island_Perimeter/Program.cs" />
+        <option value="$PROJECT_DIR$/_442__Find_All_Duplicates_in_an_Array/Program.cs" />
+        <option value="$PROJECT_DIR$/_406__Queue_Reconstruction_by_Height/Program.cs" />
       </list>
     </option>
   </component>
@@ -182,11 +221,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1920" />
-    <option name="y" value="-87" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1080" />
+    <option name="y" value="143" />
     <option name="width" value="1080" />
-    <option name="height" value="1897" />
+    <option name="height" value="1053" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
@@ -208,7 +247,7 @@
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="LeetCode_Csharp (20 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="LeetCode_Csharp (22 projects)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -236,7 +275,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Project._463__Island_Perimeter">
+  <component name="RunManager" selected=".NET Project.命名小工具">
     <configuration name="命名小工具" type="DotNetProject" factoryName=".NET Project" temporary="true">
       <option name="EXE_PATH" value="$PROJECT_DIR$/命名小工具/bin/Debug/命名小工具.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -353,9 +392,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue=".NET Project._463__Island_Perimeter" />
-        <item index="1" class="java.lang.String" itemvalue=".NET Project._461__Hamming_Distance" />
-        <item index="2" class="java.lang.String" itemvalue=".NET Project.命名小工具" />
+        <item index="0" class="java.lang.String" itemvalue=".NET Project.命名小工具" />
+        <item index="1" class="java.lang.String" itemvalue=".NET Project._463__Island_Perimeter" />
+        <item index="2" class="java.lang.String" itemvalue=".NET Project._461__Hamming_Distance" />
         <item index="3" class="java.lang.String" itemvalue=".NET Project._575__Distribute_Candies" />
         <item index="4" class="java.lang.String" itemvalue=".NET Project._500__Keyboard_Row" />
       </list>
@@ -378,12 +417,12 @@
       <workItem from="1516814235011" duration="4976000" />
       <workItem from="1519654639095" duration="6901000" />
       <workItem from="1519661951872" duration="3141000" />
-      <workItem from="1519704787922" duration="26096000" />
+      <workItem from="1519704787922" duration="28801000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77268000" />
+    <option name="totallyTimeSpent" value="79973000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -395,14 +434,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="23" width="1080" height="1893" extended-state="6" />
+    <frame x="-1080" y="143" width="1080" height="1053" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18082191" sideWeight="0.5037037" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18121912" sideWeight="0.4962963" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33639145" sideWeight="0.4962963" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -411,7 +450,7 @@
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894015" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27402526" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27319062" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1038,6 +1077,37 @@
             <marker date="1520042991000" expanded="true" signature="2579:2729" ph="{...}" />
             <marker date="1520042991000" expanded="true" signature="2809:2958" ph="{...}" />
             <marker date="1520042991000" expanded="true" signature="3177:3859" ph="/* You are given a map in form of a two-dimensional integer grid where 1 represents land and 0 represents water.  ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_442__Find_All_Duplicates_in_an_Array/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+          <folding>
+            <marker date="1520053502000" expanded="true" signature="6:47" ph="..." />
+            <marker date="1520053502000" expanded="true" signature="96:715" ph="{...}" />
+            <marker date="1520053502000" expanded="true" signature="125:713" ph="{...}" />
+            <marker date="1520053502000" expanded="true" signature="178:300" ph="{...}" />
+            <marker date="1520053502000" expanded="true" signature="361:707" ph="{...}" />
+            <marker date="1520053502000" expanded="true" signature="516:672" ph="{...}" />
+            <marker date="1520053502000" expanded="true" signature="716:997" ph="/* Given an array of integers, 1 ≤ a[i] ≤ n (n = size of array), some elements appear twice and others appear onc ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_406__Queue_Reconstruction_by_Height/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding>
+            <marker date="1520055470000" expanded="true" signature="46:429" ph="{...}" />
+            <marker date="1520055470000" expanded="true" signature="75:427" ph="{...}" />
+            <marker date="1520055470000" expanded="true" signature="128:148" ph="{...}" />
+            <marker date="1520055470000" expanded="true" signature="210:421" ph="{...}" />
+            <marker date="1520055470000" expanded="true" signature="330:397" ph="{...}" />
+            <marker date="1520055470000" expanded="true" signature="430:893" ph="/* Suppose you have a random list of people standing in a queue. Each person is described by a pair of integers ( ... */" />
           </folding>
         </state>
       </provider>
