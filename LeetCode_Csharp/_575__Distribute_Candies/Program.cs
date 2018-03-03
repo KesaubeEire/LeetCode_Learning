@@ -9,24 +9,48 @@ namespace _575__Distribute_Candies
         {
             int[] candle =
                 {1, 1, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 2, 3, 4, 5, 6, 7, 6, 5, 4, 8};
-            Console.WriteLine(DistributeCandies(candle));
+            Console.WriteLine(DistributeCandies2(candle));
         }
 
-        static public int DistributeCandies(int[] candies)
+        //我的方法时间复杂度超了
+//        static public int DistributeCandies(int[] candies)
+//        {
+//            List<int> kind = new List<int>();
+//            for (int i = 0; i < candies.Length; i++)
+//            {
+//                if (!kind.Contains(candies[i]))
+//                {
+//                    kind.Add(candies[i]);
+//                }
+//
+//                if (kind.Count == candies.Length / 2)
+//                    return kind.Count;
+//            }
+//
+//            if (kind.Count > candies.Length / 2)
+//                return candies.Length / 2;
+//            else
+//                return kind.Count;
+//        }
+
+        /// <summary>
+        /// 还是人家的方法好啊,学到了 Hashset智能储存不重复的元素
+        /// </summary>
+        /// <param name="candies"></param>
+        /// <returns></returns>
+        static public int DistributeCandies2(int[] candies)
         {
+            HashSet<int> kinds = new HashSet<int>();
+
             List<int> kind = new List<int>();
-            for (int i = 0; i < candies.Length; i++)
+            for (int i = 0;
+                i < candies.Length;
+                i++)
             {
-                if (!kind.Contains(candies[i]))
-                {
-                    kind.Add(candies[i]);
-                }
+                kinds.Add(candies[i]);
             }
 
-            if (kind.Count > candies.Length / 2)
-                return candies.Length / 2;
-            else
-                return kind.Count;
+            return Math.Min(kinds.Count, candies.Length / 2);
         }
     }
 }
@@ -48,3 +72,7 @@ namespace _575__Distribute_Candies
 //
 //The length of the given array is in range [2, 10,000], and will be even.
 //The number in given array is in range [-100,000, 100,000].
+
+//finai
+
+/// tips: Hashset 只能储存不重复的元素,非常便利的东西,减少时间复杂度的大杀器

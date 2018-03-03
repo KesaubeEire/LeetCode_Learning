@@ -17,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_537__Complex_Number_Multiplication/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1200">
-              <caret line="80" column="42" lean-forward="false" selection-start-line="80" selection-start-column="42" selection-end-line="80" selection-end-column="42" />
+            <state relative-caret-position="210">
+              <caret line="14" column="59" lean-forward="false" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
               <folding>
                 <marker date="1519732221000" expanded="true" signature="6:122" ph="..." />
                 <marker date="1519732221000" expanded="true" signature="169:1945" ph="{...}" />
@@ -34,6 +34,36 @@
                 <marker date="1519732221000" expanded="true" signature="1566:1677" ph="{...}" />
                 <marker date="1519732221000" expanded="true" signature="1679:1784" ph="/* Console.WriteLine(&quot;preB:\t&quot; + preB); ... */" />
                 <marker date="1519732221000" expanded="true" signature="1947:2641" ph="/* Given two strings representing two complex numbers. ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_575__Distribute_Candies.csproj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_575__Distribute_Candies/_575__Distribute_Candies.csproj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_575__Distribute_Candies/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1080">
+              <caret line="77" column="48" lean-forward="false" selection-start-line="77" selection-start-column="48" selection-end-line="77" selection-end-column="48" />
+              <folding>
+                <marker date="1520039729000" expanded="false" signature="6:47" ph="..." />
+                <marker date="1520039729000" expanded="true" signature="83:1585" ph="{...}" />
+                <marker date="1520039729000" expanded="true" signature="112:1583" ph="{...}" />
+                <marker date="1520039729000" expanded="true" signature="165:385" ph="{...}" />
+                <marker date="1520039729000" expanded="true" signature="395:1017" ph="/* 我的方法时间复杂度超了 ... */" />
+                <marker date="1520039729000" expanded="false" signature="1027:1182" ph="/// 还是人家的方法好啊,学到了 Hashset智能储存不重复的元素 ... " />
+                <marker date="1520039729000" expanded="true" signature="1242:1577" ph="{...}" />
+                <marker date="1520039729000" expanded="true" signature="1437:1504" ph="{...}" />
+                <marker date="1520039729000" expanded="true" signature="1587:2665" ph="/* Given an integer array with even length, where different numbers in this array represent different kinds of ca ... */" />
               </folding>
             </state>
           </provider>
@@ -147,6 +177,11 @@
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="LeetCode_Csharp (19 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="LeetCode_Csharp (19 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="_575__Distribute_Candies" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -316,12 +351,12 @@
       <workItem from="1516814235011" duration="4976000" />
       <workItem from="1519654639095" duration="6901000" />
       <workItem from="1519661951872" duration="3141000" />
-      <workItem from="1519704787922" duration="21792000" />
+      <workItem from="1519704787922" duration="22768000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72964000" />
+    <option name="totallyTimeSpent" value="73940000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -333,7 +368,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="-87" width="1080" height="1893" extended-state="6" />
+    <frame x="1920" y="23" width="1080" height="1893" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
@@ -344,7 +379,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14907408" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19907407" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894015" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -858,23 +893,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_575__Distribute_Candies/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-          <folding>
-            <marker date="1519971089000" expanded="true" signature="6:47" ph="..." />
-            <marker date="1519971089000" expanded="true" signature="83:870" ph="{...}" />
-            <marker date="1519971089000" expanded="true" signature="112:868" ph="{...}" />
-            <marker date="1519971089000" expanded="true" signature="165:384" ph="{...}" />
-            <marker date="1519971089000" expanded="true" signature="444:862" ph="{...}" />
-            <marker date="1519971089000" expanded="true" signature="553:707" ph="{...}" />
-            <marker date="1519971089000" expanded="true" signature="615:693" ph="{...}" />
-            <marker date="1519971089000" expanded="true" signature="872:1891" ph="/* Given an integer array with even length, where different numbers in this array represent different kinds of ca ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_557__Reverse_Words_in_a_String_III/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
@@ -925,8 +943,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_537__Complex_Number_Multiplication/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="80" column="42" lean-forward="false" selection-start-line="80" selection-start-column="42" selection-end-line="80" selection-end-column="42" />
+        <state relative-caret-position="210">
+          <caret line="14" column="59" lean-forward="false" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
           <folding>
             <marker date="1519732221000" expanded="true" signature="6:122" ph="..." />
             <marker date="1519732221000" expanded="true" signature="169:1945" ph="{...}" />
@@ -939,6 +957,32 @@
             <marker date="1519732221000" expanded="true" signature="1566:1677" ph="{...}" />
             <marker date="1519732221000" expanded="true" signature="1679:1784" ph="/* Console.WriteLine(&quot;preB:\t&quot; + preB); ... */" />
             <marker date="1519732221000" expanded="true" signature="1947:2641" ph="/* Given two strings representing two complex numbers. ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_575__Distribute_Candies/_575__Distribute_Candies.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_575__Distribute_Candies/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="77" column="48" lean-forward="false" selection-start-line="77" selection-start-column="48" selection-end-line="77" selection-end-column="48" />
+          <folding>
+            <marker date="1520039729000" expanded="false" signature="6:47" ph="..." />
+            <marker date="1520039729000" expanded="true" signature="83:1585" ph="{...}" />
+            <marker date="1520039729000" expanded="true" signature="112:1583" ph="{...}" />
+            <marker date="1520039729000" expanded="true" signature="165:385" ph="{...}" />
+            <marker date="1520039729000" expanded="true" signature="395:1017" ph="/* 我的方法时间复杂度超了 ... */" />
+            <marker date="1520039729000" expanded="false" signature="1027:1182" ph="/// 还是人家的方法好啊,学到了 Hashset智能储存不重复的元素 ... " />
+            <marker date="1520039729000" expanded="true" signature="1242:1577" ph="{...}" />
+            <marker date="1520039729000" expanded="true" signature="1437:1504" ph="{...}" />
+            <marker date="1520039729000" expanded="true" signature="1587:2665" ph="/* Given an integer array with even length, where different numbers in this array represent different kinds of ca ... */" />
           </folding>
         </state>
       </provider>
