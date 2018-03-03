@@ -72,8 +72,8 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_463__Island_Perimeter/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1374">
-              <caret line="95" column="23" lean-forward="true" selection-start-line="65" selection-start-column="11" selection-end-line="95" selection-end-column="23" />
+            <state relative-caret-position="174">
+              <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
               <folding>
                 <marker date="1520042991000" expanded="true" signature="47:3175" ph="{...}" />
                 <marker date="1520042991000" expanded="true" signature="76:3173" ph="{...}" />
@@ -378,12 +378,12 @@
       <workItem from="1516814235011" duration="4976000" />
       <workItem from="1519654639095" duration="6901000" />
       <workItem from="1519661951872" duration="3141000" />
-      <workItem from="1519704787922" duration="25668000" />
+      <workItem from="1519704787922" duration="26096000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76840000" />
+    <option name="totallyTimeSpent" value="77268000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1016,8 +1016,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_463__Island_Perimeter/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1374">
-          <caret line="95" column="23" lean-forward="true" selection-start-line="65" selection-start-column="11" selection-end-line="95" selection-end-column="23" />
+        <state relative-caret-position="174">
+          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
           <folding>
             <marker date="1520042991000" expanded="true" signature="47:3175" ph="{...}" />
             <marker date="1520042991000" expanded="true" signature="76:3173" ph="{...}" />
