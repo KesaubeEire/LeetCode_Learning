@@ -1,0 +1,6 @@
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_496__Next_Greater_Element_I/bin/Debug/_496__Next_Greater_Element_I.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_496__Next_Greater_Element_I/bin/Debug/_496__Next_Greater_Element_I.pdb
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_496__Next_Greater_Element_I/obj/Debug/_496__Next_Greater_Element_I.csprojResolveAssemblyReference.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_496__Next_Greater_Element_I/obj/Debug/_496__Next_Greater_Element_I.csproj.CoreCompileInputs.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_496__Next_Greater_Element_I/obj/Debug/_496__Next_Greater_Element_I.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_496__Next_Greater_Element_I/obj/Debug/_496__Next_Greater_Element_I.pdb

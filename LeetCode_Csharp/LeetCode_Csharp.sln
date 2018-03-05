@@ -44,6 +44,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_442__Find_All_Duplicates_i
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_406__Queue_Reconstruction_by_Height", "_406__Queue_Reconstruction_by_Height\_406__Queue_Reconstruction_by_Height.csproj", "{FC57B916-B858-4BE3-8082-D81BF3B05B60}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_496__Next_Greater_Element_I", "_496__Next_Greater_Element_I\_496__Next_Greater_Element_I.csproj", "{017927A0-D09E-4582-9353-B88BCA41EBB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -138,5 +140,9 @@ Global
 		{FC57B916-B858-4BE3-8082-D81BF3B05B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC57B916-B858-4BE3-8082-D81BF3B05B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC57B916-B858-4BE3-8082-D81BF3B05B60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{017927A0-D09E-4582-9353-B88BCA41EBB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{017927A0-D09E-4582-9353-B88BCA41EBB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{017927A0-D09E-4582-9353-B88BCA41EBB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{017927A0-D09E-4582-9353-B88BCA41EBB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

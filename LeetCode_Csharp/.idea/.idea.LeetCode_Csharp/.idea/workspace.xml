@@ -18,117 +18,36 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_537__Complex_Number_Multiplication/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="59" lean-forward="false" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
-              <folding>
-                <marker date="1519732221000" expanded="true" signature="6:122" ph="..." />
-                <marker date="1519732221000" expanded="true" signature="169:1945" ph="{...}" />
-                <marker date="1519732221000" expanded="true" signature="205:1943" ph="{...}" />
-                <marker date="1519732221000" expanded="true" signature="258:400" ph="{...}" />
-                <marker date="1519732221000" expanded="true" signature="472:1937" ph="{...}" />
-                <marker date="1519732221000" expanded="true" signature="509:697" ph="/* Console.WriteLine(a.ToList().IndexOf('+')); ... */" />
-                <marker date="1519732221000" expanded="true" signature="1009:1120" ph="{...}" />
-                <marker date="1519732221000" expanded="true" signature="1122:1227" ph="/* Console.WriteLine(&quot;preA:\t&quot; + preA); ... */" />
-                <marker date="1519732221000" expanded="true" signature="1566:1677" ph="{...}" />
-                <marker date="1519732221000" expanded="true" signature="1679:1784" ph="/* Console.WriteLine(&quot;preB:\t&quot; + preB); ... */" />
-                <marker date="1519732221000" expanded="true" signature="1947:2641" ph="/* Given two strings representing two complex numbers. ... */" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_575__Distribute_Candies.csproj" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_575__Distribute_Candies/_575__Distribute_Candies.csproj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_575__Distribute_Candies/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1080">
-              <caret line="77" column="48" lean-forward="false" selection-start-line="77" selection-start-column="48" selection-end-line="77" selection-end-column="48" />
-              <folding>
-                <marker date="1520039729000" expanded="false" signature="6:47" ph="..." />
-                <marker date="1520039729000" expanded="true" signature="83:1585" ph="{...}" />
-                <marker date="1520039729000" expanded="true" signature="112:1583" ph="{...}" />
-                <marker date="1520039729000" expanded="true" signature="165:385" ph="{...}" />
-                <marker date="1520039729000" expanded="true" signature="395:1017" ph="/* 我的方法时间复杂度超了 ... */" />
-                <marker date="1520039729000" expanded="false" signature="1027:1182" ph="/// 还是人家的方法好啊,学到了 Hashset智能储存不重复的元素 ... " />
-                <marker date="1520039729000" expanded="true" signature="1242:1577" ph="{...}" />
-                <marker date="1520039729000" expanded="true" signature="1437:1504" ph="{...}" />
-                <marker date="1520039729000" expanded="true" signature="1587:2665" ph="/* Given an integer array with even length, where different numbers in this array represent different kinds of ca ... */" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_463__Island_Perimeter/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-              <folding>
-                <marker date="1520042991000" expanded="true" signature="47:3175" ph="{...}" />
-                <marker date="1520042991000" expanded="true" signature="76:3173" ph="{...}" />
-                <marker date="1520042991000" expanded="true" signature="129:283" ph="{...}" />
-                <marker date="1520042991000" expanded="true" signature="293:497" ph="/// 我的答案是看一个格子的上下左右四个格子是否有其他岛 然后用 每个格子输出 (4 - 邻居数) ... " />
-                <marker date="1520042991000" expanded="true" signature="552:2084" ph="{...}" />
-                <marker date="1520042991000" expanded="true" signature="743:2049" ph="{...}" />
-                <marker date="1520042991000" expanded="true" signature="817:2035" ph="{...}" />
-                <marker date="1520042991000" expanded="true" signature="876:2017" ph="{...}" />
-                <marker date="1520042991000" expanded="true" signature="1068:1215" ph="{...}" />
-                <marker date="1520042991000" expanded="true" signature="1294:1444" ph="{...}" />
-                <marker date="1520042991000" expanded="true" signature="1503:1651" ph="{...}" />
-                <marker date="1520042991000" expanded="true" signature="1730:1879" ph="{...}" />
-                <marker date="1520042991000" expanded="true" signature="2141:3167" ph="{...}" />
-                <marker date="1520042991000" expanded="true" signature="2232:3132" ph="{...}" />
-                <marker date="1520042991000" expanded="true" signature="2306:3118" ph="{...}" />
-                <marker date="1520042991000" expanded="true" signature="2365:3100" ph="{...}" />
-                <marker date="1520042991000" expanded="true" signature="2579:2729" ph="{...}" />
-                <marker date="1520042991000" expanded="true" signature="2809:2958" ph="{...}" />
-                <marker date="1520042991000" expanded="true" signature="3177:3859" ph="/* You are given a map in form of a two-dimensional integer grid where 1 represents land and 0 represents water.  ... */" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_442__Find_All_Duplicates_in_an_Array/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
-              <folding>
-                <marker date="1520053502000" expanded="true" signature="6:47" ph="..." />
-                <marker date="1520053502000" expanded="true" signature="96:715" ph="{...}" />
-                <marker date="1520053502000" expanded="true" signature="125:713" ph="{...}" />
-                <marker date="1520053502000" expanded="true" signature="178:300" ph="{...}" />
-                <marker date="1520053502000" expanded="true" signature="361:707" ph="{...}" />
-                <marker date="1520053502000" expanded="true" signature="516:672" ph="{...}" />
-                <marker date="1520053502000" expanded="true" signature="716:997" ph="/* Given an array of integers, 1 ≤ a[i] ≤ n (n = size of array), some elements appear twice and others appear onc ... */" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_406__Queue_Reconstruction_by_Height/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            <state relative-caret-position="270">
+              <caret line="18" column="11" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
               <folding>
-                <marker date="1520055470000" expanded="true" signature="46:429" ph="{...}" />
-                <marker date="1520055470000" expanded="true" signature="75:427" ph="{...}" />
-                <marker date="1520055470000" expanded="true" signature="128:148" ph="{...}" />
-                <marker date="1520055470000" expanded="true" signature="210:421" ph="{...}" />
-                <marker date="1520055470000" expanded="true" signature="330:397" ph="{...}" />
-                <marker date="1520055470000" expanded="true" signature="430:893" ph="/* Suppose you have a random list of people standing in a queue. Each person is described by a pair of integers ( ... */" />
+                <marker date="1520262053000" expanded="true" signature="46:449" ph="{...}" />
+                <marker date="1520262053000" expanded="true" signature="75:447" ph="{...}" />
+                <marker date="1520262053000" expanded="true" signature="128:148" ph="{...}" />
+                <marker date="1520262053000" expanded="true" signature="150:441" ph="/* static public int[,] ReconstructQueue(int[,] people) ... */" />
+                <marker date="1520262053000" expanded="true" signature="450:913" ph="/* Suppose you have a random list of people standing in a queue. Each person is described by a pair of integers ( ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_476__Number_Complement/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+              <folding>
+                <marker date="1519918812000" expanded="false" signature="6:66" ph="..." />
+                <marker date="1519918812000" expanded="true" signature="101:828" ph="{...}" />
+                <marker date="1519918812000" expanded="true" signature="130:826" ph="{...}" />
+                <marker date="1519918812000" expanded="true" signature="216:286" ph="{...}" />
+                <marker date="1519918812000" expanded="true" signature="337:820" ph="{...}" />
+                <marker date="1519918812000" expanded="true" signature="497:738" ph="{...}" />
+                <marker date="1519918812000" expanded="true" signature="548:617" ph="{...}" />
+                <marker date="1519918812000" expanded="true" signature="655:724" ph="{...}" />
+                <marker date="1519918812000" expanded="true" signature="829:1441" ph="/* Given a positive integer, output its complement number. The complement strategy is to flip the bits of its bin ... */" />
               </folding>
             </state>
           </provider>
@@ -151,6 +70,28 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_496__Next_Greater_Element_I/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="14">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding>
+                <marker date="1520263611000" expanded="true" signature="6:66" ph="..." />
+                <marker date="1520263611000" expanded="true" signature="106:2197" ph="{...}" />
+                <marker date="1520263611000" expanded="true" signature="135:2195" ph="{...}" />
+                <marker date="1520263611000" expanded="true" signature="188:348" ph="{...}" />
+                <marker date="1520263611000" expanded="true" signature="424:2189" ph="{...}" />
+                <marker date="1520263611000" expanded="true" signature="578:1227" ph="{...}" />
+                <marker date="1520263611000" expanded="true" signature="728:1213" ph="{...}" />
+                <marker date="1520263611000" expanded="true" signature="853:1124" ph="{...}" />
+                <marker date="1520263611000" expanded="true" signature="926:1102" ph="{...}" />
+                <marker date="1520263611000" expanded="true" signature="1277:2179" ph="/* List&lt;int&gt; numss = nums.ToList(); ... */" />
+                <marker date="1520263611000" expanded="true" signature="2198:3351" ph="/* You are given two arrays (without duplicates) nums1 and nums2 where nums1’s elements are subset of nums2. Find ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -164,6 +105,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/_557__Reverse_Words_in_a_String_III/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_496__Next_Greater_Element_I/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/命名小工具/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_537__Complex_Number_Multiplication/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_617__Merge_Two_Binary_Trees/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -198,7 +140,6 @@
         <option value="$PROJECT_DIR$/_561__Array_Partition_I/Program.cs" />
         <option value="$PROJECT_DIR$/_791__Custom Sort String/Program.cs" />
         <option value="$PROJECT_DIR$/_763__Partition_Labels/Program.cs" />
-        <option value="$PROJECT_DIR$/命名小工具/Program.cs" />
         <option value="$PROJECT_DIR$/_537__Complex_Number_Multiplication/Program.cs" />
         <option value="$PROJECT_DIR$/_771__Jewels_and_Stones/Program.cs" />
         <option value="$PROJECT_DIR$/_476__Number_Complement/Program.cs" />
@@ -212,6 +153,8 @@
         <option value="$PROJECT_DIR$/_463__Island_Perimeter/Program.cs" />
         <option value="$PROJECT_DIR$/_442__Find_All_Duplicates_in_an_Array/Program.cs" />
         <option value="$PROJECT_DIR$/_406__Queue_Reconstruction_by_Height/Program.cs" />
+        <option value="$PROJECT_DIR$/命名小工具/Program.cs" />
+        <option value="$PROJECT_DIR$/_496__Next_Greater_Element_I/Program.cs" />
       </list>
     </option>
   </component>
@@ -221,11 +164,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-1080" />
-    <option name="y" value="143" />
-    <option name="width" value="1080" />
-    <option name="height" value="1053" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="24" />
+    <option name="width" value="960" />
+    <option name="height" value="1172" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
@@ -247,7 +189,12 @@
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="LeetCode_Csharp (22 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="LeetCode_Csharp (23 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="LeetCode_Csharp (23 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="_476__Number_Complement" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -275,7 +222,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Project.命名小工具">
+  <component name="RunManager" selected=".NET Project._496__Next_Greater_Element_I">
     <configuration name="命名小工具" type="DotNetProject" factoryName=".NET Project" temporary="true">
       <option name="EXE_PATH" value="$PROJECT_DIR$/命名小工具/bin/Debug/命名小工具.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -336,15 +283,15 @@
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7" />
     </configuration>
-    <configuration name="_500__Keyboard_Row" type="DotNetProject" factoryName=".NET Project" temporary="true">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/_500__Keyboard_Row/bin/Debug/_500__Keyboard_Row.exe" />
+    <configuration name="_496__Next_Greater_Element_I" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/_496__Next_Greater_Element_I/bin/Debug/_496__Next_Greater_Element_I.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_500__Keyboard_Row/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_496__Next_Greater_Element_I/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <envs />
       <option name="USE_MONO" value="0" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_500__Keyboard_Row/_500__Keyboard_Row.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_496__Next_Greater_Element_I/_496__Next_Greater_Element_I.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -385,18 +332,18 @@
       <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
       <item index="1" class="java.lang.String" itemvalue=".NET Project._654_Maximum_Binary_Tree" />
       <item index="2" class="java.lang.String" itemvalue=".NET Project.命名小工具" />
-      <item index="3" class="java.lang.String" itemvalue=".NET Project._500__Keyboard_Row" />
-      <item index="4" class="java.lang.String" itemvalue=".NET Project._575__Distribute_Candies" />
-      <item index="5" class="java.lang.String" itemvalue=".NET Project._461__Hamming_Distance" />
-      <item index="6" class="java.lang.String" itemvalue=".NET Project._463__Island_Perimeter" />
+      <item index="3" class="java.lang.String" itemvalue=".NET Project._575__Distribute_Candies" />
+      <item index="4" class="java.lang.String" itemvalue=".NET Project._461__Hamming_Distance" />
+      <item index="5" class="java.lang.String" itemvalue=".NET Project._463__Island_Perimeter" />
+      <item index="6" class="java.lang.String" itemvalue=".NET Project._496__Next_Greater_Element_I" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue=".NET Project.命名小工具" />
-        <item index="1" class="java.lang.String" itemvalue=".NET Project._463__Island_Perimeter" />
-        <item index="2" class="java.lang.String" itemvalue=".NET Project._461__Hamming_Distance" />
-        <item index="3" class="java.lang.String" itemvalue=".NET Project._575__Distribute_Candies" />
-        <item index="4" class="java.lang.String" itemvalue=".NET Project._500__Keyboard_Row" />
+        <item index="0" class="java.lang.String" itemvalue=".NET Project._496__Next_Greater_Element_I" />
+        <item index="1" class="java.lang.String" itemvalue=".NET Project.命名小工具" />
+        <item index="2" class="java.lang.String" itemvalue=".NET Project._463__Island_Perimeter" />
+        <item index="3" class="java.lang.String" itemvalue=".NET Project._461__Hamming_Distance" />
+        <item index="4" class="java.lang.String" itemvalue=".NET Project._575__Distribute_Candies" />
       </list>
     </recent_temporary>
   </component>
@@ -417,12 +364,14 @@
       <workItem from="1516814235011" duration="4976000" />
       <workItem from="1519654639095" duration="6901000" />
       <workItem from="1519661951872" duration="3141000" />
-      <workItem from="1519704787922" duration="28801000" />
+      <workItem from="1519704787922" duration="29084000" />
+      <workItem from="1520090215783" duration="2506000" />
+      <workItem from="1520261967688" duration="1765000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79973000" />
+    <option name="totallyTimeSpent" value="84527000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -434,18 +383,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1080" y="143" width="1080" height="1053" extended-state="0" />
+    <frame x="0" y="26" width="1920" height="1172" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18082191" sideWeight="0.5037037" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33639145" sideWeight="0.4962963" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33454546" sideWeight="0.4962963" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19907407" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14114584" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894015" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -498,31 +447,228 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_575__Distribute_Candies/_575__Distribute_Candies.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_575__Distribute_Candies/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="77" column="48" lean-forward="false" selection-start-line="77" selection-start-column="48" selection-end-line="77" selection-end-column="48" />
+          <folding>
+            <marker date="1520039729000" expanded="false" signature="6:47" ph="..." />
+            <marker date="1520039729000" expanded="true" signature="83:1585" ph="{...}" />
+            <marker date="1520039729000" expanded="true" signature="112:1583" ph="{...}" />
+            <marker date="1520039729000" expanded="true" signature="165:385" ph="{...}" />
+            <marker date="1520039729000" expanded="true" signature="395:1017" ph="/* 我的方法时间复杂度超了 ... */" />
+            <marker date="1520039729000" expanded="true" signature="1027:1182" ph="/// 还是人家的方法好啊,学到了 Hashset智能储存不重复的元素 ... " />
+            <marker date="1520039729000" expanded="true" signature="1242:1577" ph="{...}" />
+            <marker date="1520039729000" expanded="true" signature="1437:1504" ph="{...}" />
+            <marker date="1520039729000" expanded="true" signature="1587:2665" ph="/* Given an integer array with even length, where different numbers in this array represent different kinds of ca ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_463__Island_Perimeter/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <marker date="1520042991000" expanded="true" signature="47:3175" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="76:3173" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="129:283" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="293:497" ph="/// 我的答案是看一个格子的上下左右四个格子是否有其他岛 然后用 每个格子输出 (4 - 邻居数) ... " />
+            <marker date="1520042991000" expanded="true" signature="552:2084" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="743:2049" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="817:2035" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="876:2017" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="1068:1215" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="1294:1444" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="1503:1651" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="1730:1879" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="2141:3167" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="2232:3132" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="2306:3118" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="2365:3100" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="2579:2729" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="2809:2958" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="3177:3859" ph="/* You are given a map in form of a two-dimensional integer grid where 1 represents land and 0 represents water.  ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_442__Find_All_Duplicates_in_an_Array/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+          <folding>
+            <marker date="1520053502000" expanded="false" signature="6:47" ph="..." />
+            <marker date="1520053502000" expanded="true" signature="96:715" ph="{...}" />
+            <marker date="1520053502000" expanded="true" signature="125:713" ph="{...}" />
+            <marker date="1520053502000" expanded="true" signature="178:300" ph="{...}" />
+            <marker date="1520053502000" expanded="true" signature="361:707" ph="{...}" />
+            <marker date="1520053502000" expanded="true" signature="516:672" ph="{...}" />
+            <marker date="1520053502000" expanded="true" signature="716:997" ph="/* Given an array of integers, 1 ≤ a[i] ≤ n (n = size of array), some elements appear twice and others appear onc ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/命名小工具/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+          <folding>
+            <marker date="1519704862000" expanded="false" signature="6:92" ph="..." />
+            <marker date="1519704862000" expanded="true" signature="109:646" ph="{...}" />
+            <marker date="1519704862000" expanded="true" signature="138:644" ph="{...}" />
+            <marker date="1519704862000" expanded="true" signature="191:638" ph="{...}" />
+            <marker date="1519704862000" expanded="true" signature="377:518" ph="{...}" />
+            <marker date="1519704862000" expanded="true" signature="559:628" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_406__Queue_Reconstruction_by_Height/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding>
+            <marker date="1520262053000" expanded="true" signature="46:449" ph="{...}" />
+            <marker date="1520262053000" expanded="true" signature="75:447" ph="{...}" />
+            <marker date="1520262053000" expanded="true" signature="128:148" ph="{...}" />
+            <marker date="1520262053000" expanded="true" signature="150:441" ph="/* static public int[,] ReconstructQueue(int[,] people) ... */" />
+            <marker date="1520262053000" expanded="true" signature="450:913" ph="/* Suppose you have a random list of people standing in a queue. Each person is described by a pair of integers ( ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_537__Complex_Number_Multiplication/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="59" lean-forward="false" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
+          <folding>
+            <marker date="1519732221000" expanded="false" signature="6:122" ph="..." />
+            <marker date="1519732221000" expanded="true" signature="169:1945" ph="{...}" />
+            <marker date="1519732221000" expanded="true" signature="205:1943" ph="{...}" />
+            <marker date="1519732221000" expanded="true" signature="258:400" ph="{...}" />
+            <marker date="1519732221000" expanded="true" signature="472:1937" ph="{...}" />
+            <marker date="1519732221000" expanded="true" signature="509:697" ph="/* Console.WriteLine(a.ToList().IndexOf('+')); ... */" />
+            <marker date="1519732221000" expanded="true" signature="1009:1120" ph="{...}" />
+            <marker date="1519732221000" expanded="true" signature="1122:1227" ph="/* Console.WriteLine(&quot;preA:\t&quot; + preA); ... */" />
+            <marker date="1519732221000" expanded="true" signature="1566:1677" ph="{...}" />
+            <marker date="1519732221000" expanded="true" signature="1679:1784" ph="/* Console.WriteLine(&quot;preB:\t&quot; + preB); ... */" />
+            <marker date="1519732221000" expanded="true" signature="1947:2641" ph="/* Given two strings representing two complex numbers. ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_575__Distribute_Candies/_575__Distribute_Candies.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_575__Distribute_Candies/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="77" column="48" lean-forward="false" selection-start-line="77" selection-start-column="48" selection-end-line="77" selection-end-column="48" />
+          <folding>
+            <marker date="1520039729000" expanded="false" signature="6:47" ph="..." />
+            <marker date="1520039729000" expanded="true" signature="83:1585" ph="{...}" />
+            <marker date="1520039729000" expanded="true" signature="112:1583" ph="{...}" />
+            <marker date="1520039729000" expanded="true" signature="165:385" ph="{...}" />
+            <marker date="1520039729000" expanded="true" signature="395:1017" ph="/* 我的方法时间复杂度超了 ... */" />
+            <marker date="1520039729000" expanded="true" signature="1027:1182" ph="/// 还是人家的方法好啊,学到了 Hashset智能储存不重复的元素 ... " />
+            <marker date="1520039729000" expanded="true" signature="1242:1577" ph="{...}" />
+            <marker date="1520039729000" expanded="true" signature="1437:1504" ph="{...}" />
+            <marker date="1520039729000" expanded="true" signature="1587:2665" ph="/* Given an integer array with even length, where different numbers in this array represent different kinds of ca ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_463__Island_Perimeter/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <marker date="1520042991000" expanded="true" signature="47:3175" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="76:3173" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="129:283" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="293:497" ph="/// 我的答案是看一个格子的上下左右四个格子是否有其他岛 然后用 每个格子输出 (4 - 邻居数) ... " />
+            <marker date="1520042991000" expanded="true" signature="552:2084" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="743:2049" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="817:2035" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="876:2017" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="1068:1215" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="1294:1444" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="1503:1651" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="1730:1879" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="2141:3167" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="2232:3132" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="2306:3118" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="2365:3100" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="2579:2729" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="2809:2958" ph="{...}" />
+            <marker date="1520042991000" expanded="true" signature="3177:3859" ph="/* You are given a map in form of a two-dimensional integer grid where 1 represents land and 0 represents water.  ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/命名小工具/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+          <folding>
+            <marker date="1519704862000" expanded="false" signature="6:92" ph="..." />
+            <marker date="1519704862000" expanded="true" signature="109:646" ph="{...}" />
+            <marker date="1519704862000" expanded="true" signature="138:644" ph="{...}" />
+            <marker date="1519704862000" expanded="true" signature="191:638" ph="{...}" />
+            <marker date="1519704862000" expanded="true" signature="377:518" ph="{...}" />
+            <marker date="1519704862000" expanded="true" signature="559:628" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_442__Find_All_Duplicates_in_an_Array/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+          <folding>
+            <marker date="1520053502000" expanded="false" signature="6:47" ph="..." />
+            <marker date="1520053502000" expanded="true" signature="96:715" ph="{...}" />
+            <marker date="1520053502000" expanded="true" signature="125:713" ph="{...}" />
+            <marker date="1520053502000" expanded="true" signature="178:300" ph="{...}" />
+            <marker date="1520053502000" expanded="true" signature="361:707" ph="{...}" />
+            <marker date="1520053502000" expanded="true" signature="516:672" ph="{...}" />
+            <marker date="1520053502000" expanded="true" signature="716:997" ph="/* Given an array of integers, 1 ≤ a[i] ≤ n (n = size of array), some elements appear twice and others appear onc ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_406__Queue_Reconstruction_by_Height/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding>
+            <marker date="1520262053000" expanded="true" signature="46:449" ph="{...}" />
+            <marker date="1520262053000" expanded="true" signature="75:447" ph="{...}" />
+            <marker date="1520262053000" expanded="true" signature="128:148" ph="{...}" />
+            <marker date="1520262053000" expanded="true" signature="150:441" ph="/* static public int[,] ReconstructQueue(int[,] people) ... */" />
+            <marker date="1520262053000" expanded="true" signature="450:913" ph="/* Suppose you have a random list of people standing in a queue. Each person is described by a pair of integers ( ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_763__Partition_Labels/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1519665133000" expanded="false" signature="6:74" ph="..." />
-            <marker date="1519665133000" expanded="true" signature="108:2754" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="137:2752" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="190:312" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="372:2746" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="702:882" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="764:860" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="977:1159" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="1044:1137" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="1360:1728" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="1449:1567" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="1604:1710" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="1858:2215" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="1907:2097" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="1976:2075" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="2122:2197" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="2422:2632" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="2755:3382" ph="/* A string S of lowercase letters is given. We want to partition this string into as many parts as possible so t ... */" />
-            <marker date="1519665133000" expanded="true" signature="3385:3970" ph="/* 看看人家的Java代码 1 ms 耶 ... */" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -530,27 +676,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
           <caret line="47" column="44" lean-forward="false" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="44" />
-          <folding>
-            <marker date="1519665133000" expanded="false" signature="6:74" ph="..." />
-            <marker date="1519665133000" expanded="true" signature="108:2754" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="137:2752" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="190:312" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="372:2746" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="702:882" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="764:860" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="977:1159" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="1044:1137" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="1360:1728" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="1449:1567" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="1604:1710" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="1858:2215" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="1907:2097" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="1976:2075" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="2122:2197" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="2422:2632" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="2755:3382" ph="/* A string S of lowercase letters is given. We want to partition this string into as many parts as possible so t ... */" />
-            <marker date="1519665133000" expanded="true" signature="3385:3970" ph="/* 看看人家的Java代码 1 ms 耶 ... */" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -558,20 +683,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="750">
           <caret line="50" column="43" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="50" selection-end-column="43" />
-          <folding>
-            <marker date="1519659671000" expanded="true" signature="6:92" ph="..." />
-            <marker date="1519659671000" expanded="true" signature="128:1493" ph="{...}" />
-            <marker date="1519659671000" expanded="true" signature="164:1491" ph="{...}" />
-            <marker date="1519659671000" expanded="true" signature="217:365" ph="{...}" />
-            <marker date="1519659671000" expanded="true" signature="433:1485" ph="{...}" />
-            <marker date="1519659671000" expanded="true" signature="692:1012" ph="{...}" />
-            <marker date="1519659671000" expanded="true" signature="755:832" ph="{...}" />
-            <marker date="1519659671000" expanded="true" signature="853:998" ph="{...}" />
-            <marker date="1519659671000" expanded="true" signature="1107:1320" ph="{...}" />
-            <marker date="1519659671000" expanded="true" signature="1227:1306" ph="{...}" />
-            <marker date="1519659671000" expanded="true" signature="1364:1430" ph="{...}" />
-            <marker date="1519659671000" expanded="true" signature="1494:2423" ph="/* S and T are strings composed of lowercase letters. In S, no letter occurs more than once. ... */" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -579,31 +690,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding>
-            <marker date="1516700869000" expanded="false" signature="6:66" ph="..." />
-            <marker date="1516700869000" expanded="true" signature="102:3277" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="131:3275" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="184:726" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="328:716" ph="/* TreeNode b1 = new TreeNode(00); ... */" />
-            <marker date="1516700869000" expanded="true" signature="758:1024" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="902:1014" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="1034:2043" ph="搬来自己写的树的层次遍历" />
-            <marker date="1516700869000" expanded="true" signature="1064:1132" ph="/// 层次遍历，我自己写的，完了对比对比能不能用 ... " />
-            <marker date="1516700869000" expanded="true" signature="1261:2023" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="1355:1777" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="1501:1611" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="1652:1763" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="1808:2013" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="1872:1999" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="2114:3069" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="2230:2398" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="2279:2384" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="2497:2706" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="2773:3033" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="3122:3269" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="3183:3259" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="3279:3305" ph="/* 总结 ... */" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -611,27 +697,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
           <caret line="40" column="17" lean-forward="false" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
-          <folding>
-            <marker date="1519665133000" expanded="false" signature="6:74" ph="..." />
-            <marker date="1519665133000" expanded="true" signature="108:2754" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="137:2752" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="190:312" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="372:2746" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="702:882" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="764:860" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="977:1159" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="1044:1137" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="1360:1728" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="1449:1567" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="1604:1710" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="1858:2215" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="1907:2097" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="1976:2075" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="2122:2197" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="2422:2632" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="2755:3382" ph="/* A string S of lowercase letters is given. We want to partition this string into as many parts as possible so t ... */" />
-            <marker date="1519665133000" expanded="true" signature="3385:3970" ph="/* 看看人家的Java代码 1 ms 耶 ... */" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -653,31 +718,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="37" column="22" lean-forward="false" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
-          <folding>
-            <marker date="1516700869000" expanded="false" signature="6:66" ph="..." />
-            <marker date="1516700869000" expanded="true" signature="102:3277" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="131:3275" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="184:726" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="328:716" ph="/* TreeNode b1 = new TreeNode(00); ... */" />
-            <marker date="1516700869000" expanded="true" signature="758:1024" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="902:1014" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="1034:2043" ph="搬来自己写的树的层次遍历" />
-            <marker date="1516700869000" expanded="true" signature="1064:1132" ph="/// 层次遍历，我自己写的，完了对比对比能不能用 ... " />
-            <marker date="1516700869000" expanded="true" signature="1261:2023" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="1355:1777" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="1501:1611" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="1652:1763" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="1808:2013" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="1872:1999" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="2114:3069" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="2230:2398" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="2279:2384" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="2497:2706" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="2773:3033" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="3122:3269" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="3183:3259" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="3279:3305" ph="/* 总结 ... */" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -748,31 +788,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding>
-            <marker date="1516700869000" expanded="false" signature="6:66" ph="..." />
-            <marker date="1516700869000" expanded="true" signature="102:3277" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="131:3275" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="184:726" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="328:716" ph="/* TreeNode b1 = new TreeNode(00); ... */" />
-            <marker date="1516700869000" expanded="true" signature="758:1024" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="902:1014" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="1034:2043" ph="搬来自己写的树的层次遍历" />
-            <marker date="1516700869000" expanded="true" signature="1064:1132" ph="/// 层次遍历，我自己写的，完了对比对比能不能用 ... " />
-            <marker date="1516700869000" expanded="true" signature="1261:2023" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="1355:1777" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="1501:1611" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="1652:1763" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="1808:2013" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="1872:1999" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="2114:3069" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="2230:2398" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="2279:2384" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="2497:2706" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="2773:3033" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="3122:3269" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="3183:3259" ph="{...}" />
-            <marker date="1516700869000" expanded="true" signature="3279:3305" ph="/* 总结 ... */" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -780,20 +795,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="18" />
-          <folding>
-            <marker date="1519659671000" expanded="true" signature="6:92" ph="..." />
-            <marker date="1519659671000" expanded="true" signature="128:1493" ph="{...}" />
-            <marker date="1519659671000" expanded="true" signature="164:1491" ph="{...}" />
-            <marker date="1519659671000" expanded="true" signature="217:365" ph="{...}" />
-            <marker date="1519659671000" expanded="true" signature="433:1485" ph="{...}" />
-            <marker date="1519659671000" expanded="true" signature="692:1012" ph="{...}" />
-            <marker date="1519659671000" expanded="true" signature="755:832" ph="{...}" />
-            <marker date="1519659671000" expanded="true" signature="853:998" ph="{...}" />
-            <marker date="1519659671000" expanded="true" signature="1107:1320" ph="{...}" />
-            <marker date="1519659671000" expanded="true" signature="1227:1306" ph="{...}" />
-            <marker date="1519659671000" expanded="true" signature="1364:1430" ph="{...}" />
-            <marker date="1519659671000" expanded="true" signature="1494:2423" ph="/* S and T are strings composed of lowercase letters. In S, no letter occurs more than once. ... */" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -801,25 +802,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1433">
           <caret line="630" column="34" lean-forward="false" selection-start-line="630" selection-start-column="34" selection-end-line="630" selection-end-column="34" />
-          <folding>
-            <marker date="1516813506000" expanded="false" signature="6:66" ph="..." />
-            <marker date="1516813506000" expanded="true" signature="101:76034" ph="{...}" />
-            <marker date="1516813506000" expanded="true" signature="130:76032" ph="{...}" />
-            <marker date="1516813506000" expanded="true" signature="183:74492" ph="{...}" />
-            <marker date="1516813506000" expanded="true" signature="194:74345" ph="/* int[] nu = ... */" />
-            <marker date="1516813506000" expanded="true" signature="74544:75621" ph="{...}" />
-            <marker date="1516813506000" expanded="true" signature="74672:75586" ph="{...}" />
-            <marker date="1516813506000" expanded="true" signature="74687:74864" ph="/* foreach (var VARIABLE in ans) ... */" />
-            <marker date="1516813506000" expanded="true" signature="74984:75177" ph="{...}" />
-            <marker date="1516813506000" expanded="true" signature="75040:75159" ph="{...}" />
-            <marker date="1516813506000" expanded="true" signature="75179:75267" ph="/* Console.WriteLine(&quot;\\&quot;); ... */" />
-            <marker date="1516813506000" expanded="true" signature="75302:75493" ph="{...}" />
-            <marker date="1516813506000" expanded="true" signature="75321:75443" ph="/* Console.WriteLine(&quot;time:\t&quot; + (i + 1) / 2 + &quot;\t&quot; + max); ... */" />
-            <marker date="1516813506000" expanded="true" signature="75631:75753" ph="/* 自己的代码是对的，但是效率低下没有过审 ... */" />
-            <marker date="1516813506000" expanded="true" signature="75804:76026" ph="{...}" />
-            <marker date="1516813506000" expanded="true" signature="75925:75988" ph="{...}" />
-            <marker date="1516813506000" expanded="true" signature="76035:76504" ph="/* Given an array of 2n integers, your task is to group these integers into n pairs of integer, say (a1, b1), (a2 ... */" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -827,16 +809,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-          <folding>
-            <marker date="1519732849000" expanded="true" signature="6:66" ph="..." />
-            <marker date="1519732849000" expanded="true" signature="101:828" ph="{...}" />
-            <marker date="1519732849000" expanded="true" signature="130:826" ph="{...}" />
-            <marker date="1519732849000" expanded="true" signature="183:321" ph="{...}" />
-            <marker date="1519732849000" expanded="true" signature="387:820" ph="{...}" />
-            <marker date="1519732849000" expanded="true" signature="551:783" ph="{...}" />
-            <marker date="1519732849000" expanded="true" signature="616:769" ph="{...}" />
-            <marker date="1519732849000" expanded="true" signature="674:751" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -844,65 +816,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-262">
           <caret line="30" column="35" lean-forward="false" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
-          <folding>
-            <marker date="1519665133000" expanded="false" signature="6:74" ph="..." />
-            <marker date="1519665133000" expanded="true" signature="108:2754" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="137:2752" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="190:312" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="372:2746" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="702:882" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="764:860" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="977:1159" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="1044:1137" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="1360:1728" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="1449:1567" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="1604:1710" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="1858:2215" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="1907:2097" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="1976:2075" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="2122:2197" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="2422:2632" ph="{...}" />
-            <marker date="1519665133000" expanded="true" signature="2755:3382" ph="/* A string S of lowercase letters is given. We want to partition this string into as many parts as possible so t ... */" />
-            <marker date="1519665133000" expanded="true" signature="3385:3970" ph="/* 看看人家的Java代码 1 ms 耶 ... */" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/v/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_476__Number_Complement/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding>
-            <marker date="1519918812000" expanded="true" signature="6:66" ph="..." />
-            <marker date="1519918812000" expanded="true" signature="101:828" ph="{...}" />
-            <marker date="1519918812000" expanded="true" signature="130:826" ph="{...}" />
-            <marker date="1519918812000" expanded="true" signature="216:286" ph="{...}" />
-            <marker date="1519918812000" expanded="true" signature="337:820" ph="{...}" />
-            <marker date="1519918812000" expanded="true" signature="497:738" ph="{...}" />
-            <marker date="1519918812000" expanded="true" signature="548:617" ph="{...}" />
-            <marker date="1519918812000" expanded="true" signature="655:724" ph="{...}" />
-            <marker date="1519918812000" expanded="true" signature="829:1441" ph="/* Given a positive integer, output its complement number. The complement strategy is to flip the bits of its bin ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/v/Program.cs" />
     <entry file="file://$PROJECT_DIR$/_682__Baseball_Game/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-          <folding>
-            <marker date="1519970340000" expanded="true" signature="29:166" ph="{...}" />
-            <marker date="1519970340000" expanded="true" signature="58:164" ph="{...}" />
-            <marker date="1519970340000" expanded="true" signature="111:131" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -910,18 +831,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="32" lean-forward="false" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
-          <folding>
-            <marker date="1519966672000" expanded="true" signature="60:832" ph="{...}" />
-            <marker date="1519966672000" expanded="true" signature="89:830" ph="{...}" />
-            <marker date="1519966672000" expanded="true" signature="142:162" ph="{...}" />
-            <marker date="1519966672000" expanded="true" signature="208:824" ph="{...}" />
-            <marker date="1519966672000" expanded="true" signature="310:789" ph="{...}" />
-            <marker date="1519966672000" expanded="true" signature="374:451" ph="{...}" />
-            <marker date="1519966672000" expanded="true" signature="490:563" ph="{...}" />
-            <marker date="1519966672000" expanded="true" signature="602:675" ph="{...}" />
-            <marker date="1519966672000" expanded="true" signature="696:775" ph="{...}" />
-            <marker date="1519966672000" expanded="true" signature="833:1309" ph="/* Write a program that outputs the string representation of numbers from 1 to n. ... */" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -929,25 +838,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1358">
           <caret line="110" column="0" lean-forward="false" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
-          <folding>
-            <marker date="1519965996000" expanded="true" signature="6:47" ph="..." />
-            <marker date="1519965996000" expanded="true" signature="77:3171" ph="{...}" />
-            <marker date="1519965996000" expanded="true" signature="106:3169" ph="{...}" />
-            <marker date="1519965996000" expanded="true" signature="159:290" ph="{...}" />
-            <marker date="1519965996000" expanded="true" signature="348:3163" ph="{...}" />
-            <marker date="1519965996000" expanded="true" signature="882:999" ph="{...}" />
-            <marker date="1519965996000" expanded="true" signature="1312:1429" ph="{...}" />
-            <marker date="1519965996000" expanded="true" signature="1650:1767" ph="{...}" />
-            <marker date="1519965996000" expanded="true" signature="1904:2925" ph="{...}" />
-            <marker date="1519965996000" expanded="true" signature="2102:2634" ph="{...}" />
-            <marker date="1519965996000" expanded="true" signature="2152:2304" ph="{...}" />
-            <marker date="1519965996000" expanded="true" signature="2329:2616" ph="{...}" />
-            <marker date="1519965996000" expanded="true" signature="2412:2594" ph="{...}" />
-            <marker date="1519965996000" expanded="true" signature="2718:2911" ph="{...}" />
-            <marker date="1519965996000" expanded="true" signature="2737:2820" ph="/* intintint++; ... */" />
-            <marker date="1519965996000" expanded="true" signature="3025:3127" ph="{...}" />
-            <marker date="1519965996000" expanded="true" signature="3173:3565" ph="/* Given a List of words, return the words that can be typed using letters of alphabet on only one row's of Ameri ... */" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -955,7 +845,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -963,15 +852,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="38" column="8" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
-          <folding>
-            <marker date="1519924142000" expanded="true" signature="6:93" ph="..." />
-            <marker date="1519924142000" expanded="true" signature="140:706" ph="{...}" />
-            <marker date="1519924142000" expanded="true" signature="169:704" ph="{...}" />
-            <marker date="1519924142000" expanded="true" signature="222:317" ph="{...}" />
-            <marker date="1519924142000" expanded="true" signature="370:698" ph="{...}" />
-            <marker date="1519924142000" expanded="true" signature="497:646" ph="{...}" />
-            <marker date="1519924142000" expanded="true" signature="708:1149" ph="/* Given a string, you need to reverse the order of characters in each word within a sentence while still preserv ... */" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -979,40 +859,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-          <folding>
-            <marker date="1519921146000" expanded="true" signature="6:73" ph="..." />
-            <marker date="1519921146000" expanded="true" signature="105:595" ph="{...}" />
-            <marker date="1519921146000" expanded="true" signature="134:593" ph="{...}" />
-            <marker date="1519921146000" expanded="true" signature="187:267" ph="{...}" />
-            <marker date="1519921146000" expanded="true" signature="321:587" ph="{...}" />
-            <marker date="1519921146000" expanded="true" signature="463:536" ph="{...}" />
-            <marker date="1519921146000" expanded="true" signature="596:723" ph="/* Write a function that takes a string as input and returns the string reversed. ... */" />
-            <marker date="1519921146000" expanded="true" signature="725:930" ph="/* 大神的代码看看哦 ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/命名小工具/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
-          <folding>
-            <marker date="1519704862000" expanded="false" signature="6:92" ph="..." />
-            <marker date="1519704862000" expanded="true" signature="109:646" ph="{...}" />
-            <marker date="1519704862000" expanded="true" signature="138:644" ph="{...}" />
-            <marker date="1519704862000" expanded="true" signature="191:638" ph="{...}" />
-            <marker date="1519704862000" expanded="true" signature="377:518" ph="{...}" />
-            <marker date="1519704862000" expanded="true" signature="559:628" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_537__Complex_Number_Multiplication/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
+        <state relative-caret-position="150">
           <caret line="14" column="59" lean-forward="false" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
           <folding>
-            <marker date="1519732221000" expanded="true" signature="6:122" ph="..." />
+            <marker date="1519732221000" expanded="false" signature="6:122" ph="..." />
             <marker date="1519732221000" expanded="true" signature="169:1945" ph="{...}" />
             <marker date="1519732221000" expanded="true" signature="205:1943" ph="{...}" />
             <marker date="1519732221000" expanded="true" signature="258:400" ph="{...}" />
@@ -1037,7 +892,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_575__Distribute_Candies/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
+        <state relative-caret-position="1042">
           <caret line="77" column="48" lean-forward="false" selection-start-line="77" selection-start-column="48" selection-end-line="77" selection-end-column="48" />
           <folding>
             <marker date="1520039729000" expanded="false" signature="6:47" ph="..." />
@@ -1045,7 +900,7 @@
             <marker date="1520039729000" expanded="true" signature="112:1583" ph="{...}" />
             <marker date="1520039729000" expanded="true" signature="165:385" ph="{...}" />
             <marker date="1520039729000" expanded="true" signature="395:1017" ph="/* 我的方法时间复杂度超了 ... */" />
-            <marker date="1520039729000" expanded="false" signature="1027:1182" ph="/// 还是人家的方法好啊,学到了 Hashset智能储存不重复的元素 ... " />
+            <marker date="1520039729000" expanded="true" signature="1027:1182" ph="/// 还是人家的方法好啊,学到了 Hashset智能储存不重复的元素 ... " />
             <marker date="1520039729000" expanded="true" signature="1242:1577" ph="{...}" />
             <marker date="1520039729000" expanded="true" signature="1437:1504" ph="{...}" />
             <marker date="1520039729000" expanded="true" signature="1587:2665" ph="/* Given an integer array with even length, where different numbers in this array represent different kinds of ca ... */" />
@@ -1055,7 +910,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_463__Island_Perimeter/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
+        <state relative-caret-position="225">
           <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
           <folding>
             <marker date="1520042991000" expanded="true" signature="47:3175" ph="{...}" />
@@ -1083,10 +938,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_442__Find_All_Duplicates_in_an_Array/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
+        <state relative-caret-position="465">
           <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
           <folding>
-            <marker date="1520053502000" expanded="true" signature="6:47" ph="..." />
+            <marker date="1520053502000" expanded="false" signature="6:47" ph="..." />
             <marker date="1520053502000" expanded="true" signature="96:715" ph="{...}" />
             <marker date="1520053502000" expanded="true" signature="125:713" ph="{...}" />
             <marker date="1520053502000" expanded="true" signature="178:300" ph="{...}" />
@@ -1099,15 +954,67 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_406__Queue_Reconstruction_by_Height/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        <state relative-caret-position="270">
+          <caret line="18" column="11" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
           <folding>
-            <marker date="1520055470000" expanded="true" signature="46:429" ph="{...}" />
-            <marker date="1520055470000" expanded="true" signature="75:427" ph="{...}" />
-            <marker date="1520055470000" expanded="true" signature="128:148" ph="{...}" />
-            <marker date="1520055470000" expanded="true" signature="210:421" ph="{...}" />
-            <marker date="1520055470000" expanded="true" signature="330:397" ph="{...}" />
-            <marker date="1520055470000" expanded="true" signature="430:893" ph="/* Suppose you have a random list of people standing in a queue. Each person is described by a pair of integers ( ... */" />
+            <marker date="1520262053000" expanded="true" signature="46:449" ph="{...}" />
+            <marker date="1520262053000" expanded="true" signature="75:447" ph="{...}" />
+            <marker date="1520262053000" expanded="true" signature="128:148" ph="{...}" />
+            <marker date="1520262053000" expanded="true" signature="150:441" ph="/* static public int[,] ReconstructQueue(int[,] people) ... */" />
+            <marker date="1520262053000" expanded="true" signature="450:913" ph="/* Suppose you have a random list of people standing in a queue. Each person is described by a pair of integers ( ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_476__Number_Complement/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <marker date="1519918812000" expanded="false" signature="6:66" ph="..." />
+            <marker date="1519918812000" expanded="true" signature="101:828" ph="{...}" />
+            <marker date="1519918812000" expanded="true" signature="130:826" ph="{...}" />
+            <marker date="1519918812000" expanded="true" signature="216:286" ph="{...}" />
+            <marker date="1519918812000" expanded="true" signature="337:820" ph="{...}" />
+            <marker date="1519918812000" expanded="true" signature="497:738" ph="{...}" />
+            <marker date="1519918812000" expanded="true" signature="548:617" ph="{...}" />
+            <marker date="1519918812000" expanded="true" signature="655:724" ph="{...}" />
+            <marker date="1519918812000" expanded="true" signature="829:1441" ph="/* Given a positive integer, output its complement number. The complement strategy is to flip the bits of its bin ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/命名小工具/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+          <folding>
+            <marker date="1519704862000" expanded="false" signature="6:92" ph="..." />
+            <marker date="1519704862000" expanded="true" signature="109:646" ph="{...}" />
+            <marker date="1519704862000" expanded="true" signature="138:644" ph="{...}" />
+            <marker date="1519704862000" expanded="true" signature="191:638" ph="{...}" />
+            <marker date="1519704862000" expanded="true" signature="377:518" ph="{...}" />
+            <marker date="1519704862000" expanded="true" signature="559:628" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_496__Next_Greater_Element_I/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <marker date="1520263611000" expanded="true" signature="6:66" ph="..." />
+            <marker date="1520263611000" expanded="true" signature="106:2197" ph="{...}" />
+            <marker date="1520263611000" expanded="true" signature="135:2195" ph="{...}" />
+            <marker date="1520263611000" expanded="true" signature="188:348" ph="{...}" />
+            <marker date="1520263611000" expanded="true" signature="424:2189" ph="{...}" />
+            <marker date="1520263611000" expanded="true" signature="578:1227" ph="{...}" />
+            <marker date="1520263611000" expanded="true" signature="728:1213" ph="{...}" />
+            <marker date="1520263611000" expanded="true" signature="853:1124" ph="{...}" />
+            <marker date="1520263611000" expanded="true" signature="926:1102" ph="{...}" />
+            <marker date="1520263611000" expanded="true" signature="1277:2179" ph="/* List&lt;int&gt; numss = nums.ToList(); ... */" />
+            <marker date="1520263611000" expanded="true" signature="2198:3351" ph="/* You are given two arrays (without duplicates) nums1 and nums2 where nums1’s elements are subset of nums2. Find ... */" />
           </folding>
         </state>
       </provider>
