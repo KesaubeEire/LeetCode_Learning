@@ -54,6 +54,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_693__Binary_Number_with_Al
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_292__Nim_Game", "_292__Nim_Game\_292__Nim_Game.csproj", "{4768ACD6-F259-417B-BE95-DF6E3BC8EA5D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_136__Single_Number", "_136__Single_Number\_136__Single_Number.csproj", "{71F185B5-3F2A-4373-82BB-516BA3ADD890}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -168,5 +170,9 @@ Global
 		{4768ACD6-F259-417B-BE95-DF6E3BC8EA5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4768ACD6-F259-417B-BE95-DF6E3BC8EA5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4768ACD6-F259-417B-BE95-DF6E3BC8EA5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71F185B5-3F2A-4373-82BB-516BA3ADD890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71F185B5-3F2A-4373-82BB-516BA3ADD890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71F185B5-3F2A-4373-82BB-516BA3ADD890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71F185B5-3F2A-4373-82BB-516BA3ADD890}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

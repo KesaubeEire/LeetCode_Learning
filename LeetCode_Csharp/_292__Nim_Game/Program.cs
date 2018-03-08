@@ -8,7 +8,22 @@
 
         public bool CanWinNim(int n)
         {
-            
+            if (n <= 3)
+            {
+                return true;
+            }
+            else if (n % 4 == 0)
+            {
+                return false;
+            }
+            else
+            {
+                return true;
+            }
+
+            //最厉害的答案最屌
+            //一旦想通了这个答案就非常轻松了哟
+//            return (n%4!=0);     
         }
     }
 }
