@@ -2,6 +2,15 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="_104__Maximum_Depth_of_Binary_Tree" t="IncludeRecursive">
+        <e p="_104__Maximum_Depth_of_Binary_Tree.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
       <e p="_136__Single_Number" t="IncludeRecursive">
         <e p="_136__Single_Number.csproj" t="IncludeRecursive" />
         <e p="bin" t="ExcludeRecursive" />
@@ -128,6 +137,15 @@
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
       </e>
+      <e p="_553__Optimal_Division" t="IncludeRecursive">
+        <e p="_553__Optimal_Division.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
       <e p="_557__Reverse_Words_in_a_String_III" t="IncludeRecursive">
         <e p="_557__Reverse_Words_in_a_String_III.csproj" t="IncludeRecursive" />
         <e p="bin" t="ExcludeRecursive" />
@@ -157,6 +175,15 @@
       </e>
       <e p="_617__Merge_Two_Binary_Trees" t="IncludeRecursive">
         <e p="_617__Merge_Two_Binary_Trees.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="_647__Palindromic_Substrings" t="IncludeRecursive">
+        <e p="_647__Palindromic_Substrings.csproj" t="IncludeRecursive" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive" />
         <e p="Program.cs" t="Include" />

@@ -1,0 +1,6 @@
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_647__Palindromic_Substrings/bin/Debug/_647__Palindromic_Substrings.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_647__Palindromic_Substrings/bin/Debug/_647__Palindromic_Substrings.pdb
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_647__Palindromic_Substrings/obj/Debug/_647__Palindromic_Substrings.csprojResolveAssemblyReference.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_647__Palindromic_Substrings/obj/Debug/_647__Palindromic_Substrings.csproj.CoreCompileInputs.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_647__Palindromic_Substrings/obj/Debug/_647__Palindromic_Substrings.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_647__Palindromic_Substrings/obj/Debug/_647__Palindromic_Substrings.pdb

@@ -1,0 +1,6 @@
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_553__Optimal_Division/obj/Debug/_553__Optimal_Division.csprojResolveAssemblyReference.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_553__Optimal_Division/obj/Debug/_553__Optimal_Division.csproj.CoreCompileInputs.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_553__Optimal_Division/bin/Debug/_553__Optimal_Division.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_553__Optimal_Division/bin/Debug/_553__Optimal_Division.pdb
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_553__Optimal_Division/obj/Debug/_553__Optimal_Division.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_553__Optimal_Division/obj/Debug/_553__Optimal_Division.pdb

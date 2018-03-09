@@ -56,6 +56,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_292__Nim_Game", "_292__Nim
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_136__Single_Number", "_136__Single_Number\_136__Single_Number.csproj", "{71F185B5-3F2A-4373-82BB-516BA3ADD890}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_553__Optimal_Division", "_553__Optimal_Division\_553__Optimal_Division.csproj", "{1746E88A-C1E3-4611-8BEB-010C1595FF29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_647__Palindromic_Substrings", "_647__Palindromic_Substrings\_647__Palindromic_Substrings.csproj", "{98DBF0B7-3934-4E5F-B83F-575F3CECB225}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_104__Maximum_Depth_of_Binary_Tree", "_104__Maximum_Depth_of_Binary_Tree\_104__Maximum_Depth_of_Binary_Tree.csproj", "{0E503A48-C93F-4F45-92E2-48FCCED9C274}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -174,5 +180,17 @@ Global
 		{71F185B5-3F2A-4373-82BB-516BA3ADD890}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71F185B5-3F2A-4373-82BB-516BA3ADD890}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71F185B5-3F2A-4373-82BB-516BA3ADD890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1746E88A-C1E3-4611-8BEB-010C1595FF29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1746E88A-C1E3-4611-8BEB-010C1595FF29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1746E88A-C1E3-4611-8BEB-010C1595FF29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1746E88A-C1E3-4611-8BEB-010C1595FF29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98DBF0B7-3934-4E5F-B83F-575F3CECB225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98DBF0B7-3934-4E5F-B83F-575F3CECB225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98DBF0B7-3934-4E5F-B83F-575F3CECB225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98DBF0B7-3934-4E5F-B83F-575F3CECB225}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E503A48-C93F-4F45-92E2-48FCCED9C274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E503A48-C93F-4F45-92E2-48FCCED9C274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E503A48-C93F-4F45-92E2-48FCCED9C274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E503A48-C93F-4F45-92E2-48FCCED9C274}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

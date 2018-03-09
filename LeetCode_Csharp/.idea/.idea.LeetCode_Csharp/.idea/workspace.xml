@@ -103,11 +103,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_540__Single_Element_in_a_Sorted_Array/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="42" lean-forward="false" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
+            <state relative-caret-position="285">
+              <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
               <folding>
                 <marker date="1520491724000" expanded="true" signature="63:493" ph="{...}" />
                 <marker date="1520491724000" expanded="true" signature="92:491" ph="{...}" />
@@ -116,6 +116,63 @@
                 <marker date="1520491724000" expanded="true" signature="275:314" ph="/* 别人家的优秀算法 ... */" />
                 <marker date="1520491724000" expanded="true" signature="394:452" ph="{...}" />
                 <marker date="1520491724000" expanded="true" signature="494:847" ph="/* Given a sorted array consisting of only integers where every element appears twice except for one element whic ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_553__Optimal_Division/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+              <folding>
+                <marker date="1520556302000" expanded="true" signature="32:239" ph="{...}" />
+                <marker date="1520556302000" expanded="true" signature="61:237" ph="{...}" />
+                <marker date="1520556302000" expanded="true" signature="114:134" ph="{...}" />
+                <marker date="1520556302000" expanded="true" signature="185:231" ph="{...}" />
+                <marker date="1520556302000" expanded="true" signature="240:1195" ph="/* Given a list of positive integers, the adjacent integers will perform the float division. For example, [2,3,4] ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_647__Palindromic_Substrings/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="45" lean-forward="false" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+              <folding>
+                <marker date="1520559904000" expanded="true" signature="53:1548" ph="{...}" />
+                <marker date="1520559904000" expanded="true" signature="82:1546" ph="{...}" />
+                <marker date="1520559904000" expanded="true" signature="135:262" ph="{...}" />
+                <marker date="1520559904000" expanded="true" signature="321:1540" ph="{...}" />
+                <marker date="1520559904000" expanded="true" signature="425:495" ph="{...}" />
+                <marker date="1520559904000" expanded="true" signature="648:762" ph="{...}" />
+                <marker date="1520559904000" expanded="true" signature="873:1505" ph="{...}" />
+                <marker date="1520559904000" expanded="true" signature="1066:1283" ph="{...}" />
+                <marker date="1520559904000" expanded="true" signature="1124:1198" ph="{...}" />
+                <marker date="1520559904000" expanded="true" signature="1285:1397" ph="/* Console.WriteLine(&quot;pp:&quot; + pp); ... */" />
+                <marker date="1520559904000" expanded="true" signature="1428:1491" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_104__Maximum_Depth_of_Binary_Tree/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="293">
+              <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <folding>
+                <marker date="1520562472000" expanded="true" signature="59:812" ph="{...}" />
+                <marker date="1520562472000" expanded="true" signature="88:810" ph="{...}" />
+                <marker date="1520562472000" expanded="true" signature="141:161" ph="{...}" />
+                <marker date="1520562472000" expanded="true" signature="193:399" ph="{...}" />
+                <marker date="1520562472000" expanded="true" signature="336:389" ph="{...}" />
+                <marker date="1520562472000" expanded="true" signature="451:804" ph="{...}" />
+                <marker date="1520562472000" expanded="true" signature="543:769" ph="{...}" />
+                <marker date="1520562472000" expanded="true" signature="813:1099" ph="/* Given a binary tree, find its maximum depth. ... */" />
               </folding>
             </state>
           </provider>
@@ -142,11 +199,13 @@
     <setting file="file://$PROJECT_DIR$/_682__Baseball_Game/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_344__Reverse_String/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_540__Single_Element_in_a_Sorted_Array/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_553__Optimal_Division/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_657__Judge_Route_Circle/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_791__Custom Sort String/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_521__Longest_Uncommon_Subsequence_I/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_461__Hamming_Distance/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_575__Distribute_Candies/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_647__Palindromic_Substrings/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_557__Reverse_Words_in_a_String_III/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_537__Complex_Number_Multiplication/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_693__Binary_Number_with_Alternating_Bits/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -155,6 +214,7 @@
     <setting file="file://$PROJECT_DIR$/_463__Island_Perimeter/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_292__Nim_Game/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_500__Keyboard_Row/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_104__Maximum_Depth_of_Binary_Tree/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_728__Self_Dividing_Numbers/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_771__Jewels_and_Stones/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_561__Array_Partition_I/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -195,6 +255,9 @@
         <option value="$PROJECT_DIR$/_292__Nim_Game/Program.cs" />
         <option value="$PROJECT_DIR$/_136__Single_Number/Program.cs" />
         <option value="$PROJECT_DIR$/_540__Single_Element_in_a_Sorted_Array/Program.cs" />
+        <option value="$PROJECT_DIR$/_553__Optimal_Division/Program.cs" />
+        <option value="$PROJECT_DIR$/_647__Palindromic_Substrings/Program.cs" />
+        <option value="$PROJECT_DIR$/_104__Maximum_Depth_of_Binary_Tree/Program.cs" />
       </list>
     </option>
   </component>
@@ -206,7 +269,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="900" />
+    <option name="width" value="960" />
     <option name="height" value="1173" />
   </component>
   <component name="ProjectView">
@@ -229,12 +292,7 @@
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="LeetCode_Csharp (28 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="LeetCode_Csharp (28 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="_540__Single_Element_in_a_Sorted_Array" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="LeetCode_Csharp (31 projects)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -293,21 +351,6 @@
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7" />
     </configuration>
-    <configuration name="_461__Hamming_Distance" type="DotNetProject" factoryName=".NET Project" temporary="true">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/_461__Hamming_Distance/bin/Debug/_461__Hamming_Distance.exe" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_461__Hamming_Distance/bin/Debug" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <envs />
-      <option name="USE_MONO" value="0" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_461__Hamming_Distance/_461__Hamming_Distance.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="Console" />
-      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7" />
-    </configuration>
     <configuration name="_463__Island_Perimeter" type="DotNetProject" factoryName=".NET Project" temporary="true">
       <option name="EXE_PATH" value="$PROJECT_DIR$/_463__Island_Perimeter/bin/Debug/_463__Island_Perimeter.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -338,15 +381,30 @@
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7" />
     </configuration>
-    <configuration name="_575__Distribute_Candies" type="DotNetProject" factoryName=".NET Project" temporary="true">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/_575__Distribute_Candies/bin/Debug/_575__Distribute_Candies.exe" />
+    <configuration name="_553__Optimal_Division" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/_553__Optimal_Division/bin/Debug/_553__Optimal_Division.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_575__Distribute_Candies/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_553__Optimal_Division/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <envs />
       <option name="USE_MONO" value="0" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_575__Distribute_Candies/_575__Distribute_Candies.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_553__Optimal_Division/_553__Optimal_Division.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7" />
+    </configuration>
+    <configuration name="_647__Palindromic_Substrings" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/_647__Palindromic_Substrings/bin/Debug/_647__Palindromic_Substrings.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_647__Palindromic_Substrings/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_647__Palindromic_Substrings/_647__Palindromic_Substrings.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -372,18 +430,18 @@
       <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
       <item index="1" class="java.lang.String" itemvalue=".NET Project._654_Maximum_Binary_Tree" />
       <item index="2" class="java.lang.String" itemvalue=".NET Project.命名小工具" />
-      <item index="3" class="java.lang.String" itemvalue=".NET Project._575__Distribute_Candies" />
-      <item index="4" class="java.lang.String" itemvalue=".NET Project._461__Hamming_Distance" />
-      <item index="5" class="java.lang.String" itemvalue=".NET Project._463__Island_Perimeter" />
-      <item index="6" class="java.lang.String" itemvalue=".NET Project._496__Next_Greater_Element_I" />
+      <item index="3" class="java.lang.String" itemvalue=".NET Project._463__Island_Perimeter" />
+      <item index="4" class="java.lang.String" itemvalue=".NET Project._496__Next_Greater_Element_I" />
+      <item index="5" class="java.lang.String" itemvalue=".NET Project._553__Optimal_Division" />
+      <item index="6" class="java.lang.String" itemvalue=".NET Project._647__Palindromic_Substrings" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue=".NET Project.命名小工具" />
-        <item index="1" class="java.lang.String" itemvalue=".NET Project._496__Next_Greater_Element_I" />
-        <item index="2" class="java.lang.String" itemvalue=".NET Project._463__Island_Perimeter" />
-        <item index="3" class="java.lang.String" itemvalue=".NET Project._461__Hamming_Distance" />
-        <item index="4" class="java.lang.String" itemvalue=".NET Project._575__Distribute_Candies" />
+        <item index="1" class="java.lang.String" itemvalue=".NET Project._647__Palindromic_Substrings" />
+        <item index="2" class="java.lang.String" itemvalue=".NET Project._553__Optimal_Division" />
+        <item index="3" class="java.lang.String" itemvalue=".NET Project._496__Next_Greater_Element_I" />
+        <item index="4" class="java.lang.String" itemvalue=".NET Project._463__Island_Perimeter" />
       </list>
     </recent_temporary>
   </component>
@@ -407,12 +465,12 @@
       <workItem from="1519704787922" duration="29084000" />
       <workItem from="1520090215783" duration="2506000" />
       <workItem from="1520261967688" duration="8427000" />
-      <workItem from="1520487877057" duration="3743000" />
+      <workItem from="1520487877057" duration="9524000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94932000" />
+    <option name="totallyTimeSpent" value="100713000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -424,7 +482,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="900" height="1173" extended-state="0" />
+    <frame x="0" y="23" width="960" height="1173" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
@@ -435,9 +493,9 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18444444" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17291667" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894015" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328792" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27319062" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -488,27 +546,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_575__Distribute_Candies/_575__Distribute_Candies.csproj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_575__Distribute_Candies/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="77" column="48" lean-forward="false" selection-start-line="77" selection-start-column="48" selection-end-line="77" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_463__Island_Perimeter/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/命名小工具/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -914,8 +951,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_540__Single_Element_in_a_Sorted_Array/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="42" lean-forward="false" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
+        <state relative-caret-position="285">
+          <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
           <folding>
             <marker date="1520491724000" expanded="true" signature="63:493" ph="{...}" />
             <marker date="1520491724000" expanded="true" signature="92:491" ph="{...}" />
@@ -924,6 +961,57 @@
             <marker date="1520491724000" expanded="true" signature="275:314" ph="/* 别人家的优秀算法 ... */" />
             <marker date="1520491724000" expanded="true" signature="394:452" ph="{...}" />
             <marker date="1520491724000" expanded="true" signature="494:847" ph="/* Given a sorted array consisting of only integers where every element appears twice except for one element whic ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_553__Optimal_Division/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <marker date="1520556302000" expanded="true" signature="32:239" ph="{...}" />
+            <marker date="1520556302000" expanded="true" signature="61:237" ph="{...}" />
+            <marker date="1520556302000" expanded="true" signature="114:134" ph="{...}" />
+            <marker date="1520556302000" expanded="true" signature="185:231" ph="{...}" />
+            <marker date="1520556302000" expanded="true" signature="240:1195" ph="/* Given a list of positive integers, the adjacent integers will perform the float division. For example, [2,3,4] ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_647__Palindromic_Substrings/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="45" lean-forward="false" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+          <folding>
+            <marker date="1520559904000" expanded="true" signature="53:1548" ph="{...}" />
+            <marker date="1520559904000" expanded="true" signature="82:1546" ph="{...}" />
+            <marker date="1520559904000" expanded="true" signature="135:262" ph="{...}" />
+            <marker date="1520559904000" expanded="true" signature="321:1540" ph="{...}" />
+            <marker date="1520559904000" expanded="true" signature="425:495" ph="{...}" />
+            <marker date="1520559904000" expanded="true" signature="648:762" ph="{...}" />
+            <marker date="1520559904000" expanded="true" signature="873:1505" ph="{...}" />
+            <marker date="1520559904000" expanded="true" signature="1066:1283" ph="{...}" />
+            <marker date="1520559904000" expanded="true" signature="1124:1198" ph="{...}" />
+            <marker date="1520559904000" expanded="true" signature="1285:1397" ph="/* Console.WriteLine(&quot;pp:&quot; + pp); ... */" />
+            <marker date="1520559904000" expanded="true" signature="1428:1491" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_104__Maximum_Depth_of_Binary_Tree/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <marker date="1520562472000" expanded="true" signature="59:812" ph="{...}" />
+            <marker date="1520562472000" expanded="true" signature="88:810" ph="{...}" />
+            <marker date="1520562472000" expanded="true" signature="141:161" ph="{...}" />
+            <marker date="1520562472000" expanded="true" signature="193:399" ph="{...}" />
+            <marker date="1520562472000" expanded="true" signature="336:389" ph="{...}" />
+            <marker date="1520562472000" expanded="true" signature="451:804" ph="{...}" />
+            <marker date="1520562472000" expanded="true" signature="543:769" ph="{...}" />
+            <marker date="1520562472000" expanded="true" signature="813:1099" ph="/* Given a binary tree, find its maximum depth. ... */" />
           </folding>
         </state>
       </provider>
