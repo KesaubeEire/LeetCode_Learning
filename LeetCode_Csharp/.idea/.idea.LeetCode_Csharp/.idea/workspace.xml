@@ -23,10 +23,10 @@
             <file leaf-file-name="Lid.cs" pinned="false" current-in-tab="true">
               <entry file="file:///Kesa/Dasan/学业活动/2018srtp项目/Project/Steel/Pro for Steel/Assets/Scripts/Lid.cs">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="390">
-                    <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+                  <state relative-caret-position="315">
+                    <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
                     <folding>
-                      <marker date="1520588674000" expanded="false" signature="6:78" ph="..." />
+                      <marker date="1520588674000" expanded="true" signature="6:78" ph="..." />
                       <marker date="1520588674000" expanded="true" signature="112:1585" ph="{...}" />
                       <marker date="1520588674000" expanded="true" signature="416:455" ph="{...}" />
                       <marker date="1520588674000" expanded="true" signature="474:632" ph="{...}" />
@@ -48,11 +48,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/命名小工具/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+              <caret line="28" column="1" lean-forward="false" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
               <folding>
                 <marker date="1519704862000" expanded="false" signature="6:92" ph="..." />
                 <marker date="1519704862000" expanded="true" signature="109:646" ph="{...}" />
@@ -66,144 +66,72 @@
         </entry>
       </file>
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_693__Binary_Number_with_Alternating_Bits/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
-              <caret line="64" column="43" lean-forward="false" selection-start-line="64" selection-start-column="43" selection-end-line="64" selection-end-column="43" />
-              <folding>
-                <marker date="1520332738000" expanded="true" signature="66:953" ph="{...}" />
-                <marker date="1520332738000" expanded="true" signature="95:951" ph="{...}" />
-                <marker date="1520332738000" expanded="true" signature="148:168" ph="{...}" />
-                <marker date="1520332738000" expanded="true" signature="215:606" ph="{...}" />
-                <marker date="1520332738000" expanded="true" signature="400:571" ph="{...}" />
-                <marker date="1520332738000" expanded="true" signature="442:557" ph="{...}" />
-                <marker date="1520332738000" expanded="true" signature="616:945" ph="/* 别人的,没看懂 ... */" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_292__Nim_Game/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
-              <folding>
-                <marker date="1520488396000" expanded="true" signature="24:529" ph="{...}" />
-                <marker date="1520488396000" expanded="true" signature="53:527" ph="{...}" />
-                <marker date="1520488396000" expanded="true" signature="106:126" ph="{...}" />
-                <marker date="1520488396000" expanded="true" signature="164:521" ph="{...}" />
-                <marker date="1520488396000" expanded="true" signature="198:255" ph="{...}" />
-                <marker date="1520488396000" expanded="true" signature="288:346" ph="{...}" />
-                <marker date="1520488396000" expanded="true" signature="363:420" ph="{...}" />
-                <marker date="1520488396000" expanded="true" signature="434:511" ph="/* 最厉害的答案最屌 ... */" />
-                <marker date="1520488396000" expanded="true" signature="530:1244" ph="/* You are playing the following Nim Game with your friend: There is a heap of stones on the table, each time one ... */" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_136__Single_Number/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="25" lean-forward="false" selection-start-line="30" selection-start-column="15" selection-end-line="36" selection-end-column="25" />
-              <folding>
-                <marker date="1520491572000" expanded="true" signature="6:92" ph="..." />
-                <marker date="1520491572000" expanded="true" signature="123:854" ph="{...}" />
-                <marker date="1520491572000" expanded="true" signature="152:852" ph="{...}" />
-                <marker date="1520491572000" expanded="true" signature="205:225" ph="{...}" />
-                <marker date="1520491572000" expanded="true" signature="270:516" ph="{...}" />
-                <marker date="1520491572000" expanded="true" signature="389:472" ph="{...}" />
-                <marker date="1520491572000" expanded="true" signature="566:846" ph="{...}" />
-                <marker date="1520491572000" expanded="true" signature="624:836" ph="{...}" />
-                <marker date="1520491572000" expanded="true" signature="725:795" ph="{...}" />
-                <marker date="1520491572000" expanded="true" signature="855:1068" ph="/* Given an array of integers, every element appears twice except for one. Find that single one. ... */" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_540__Single_Element_in_a_Sorted_Array.csproj" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_540__Single_Element_in_a_Sorted_Array/_540__Single_Element_in_a_Sorted_Array.csproj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_540__Single_Element_in_a_Sorted_Array/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-              <folding>
-                <marker date="1520491724000" expanded="true" signature="63:493" ph="{...}" />
-                <marker date="1520491724000" expanded="true" signature="92:491" ph="{...}" />
-                <marker date="1520491724000" expanded="true" signature="145:201" ph="{...}" />
-                <marker date="1520491724000" expanded="true" signature="252:485" ph="{...}" />
-                <marker date="1520491724000" expanded="true" signature="275:314" ph="/* 别人家的优秀算法 ... */" />
-                <marker date="1520491724000" expanded="true" signature="394:452" ph="{...}" />
-                <marker date="1520491724000" expanded="true" signature="494:847" ph="/* Given a sorted array consisting of only integers where every element appears twice except for one element whic ... */" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_553__Optimal_Division/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-              <folding>
-                <marker date="1520556302000" expanded="true" signature="32:239" ph="{...}" />
-                <marker date="1520556302000" expanded="true" signature="61:237" ph="{...}" />
-                <marker date="1520556302000" expanded="true" signature="114:134" ph="{...}" />
-                <marker date="1520556302000" expanded="true" signature="185:231" ph="{...}" />
-                <marker date="1520556302000" expanded="true" signature="240:1195" ph="/* Given a list of positive integers, the adjacent integers will perform the float division. For example, [2,3,4] ... */" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_647__Palindromic_Substrings/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="45" lean-forward="false" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
-              <folding>
-                <marker date="1520559904000" expanded="true" signature="53:1548" ph="{...}" />
-                <marker date="1520559904000" expanded="true" signature="82:1546" ph="{...}" />
-                <marker date="1520559904000" expanded="true" signature="135:262" ph="{...}" />
-                <marker date="1520559904000" expanded="true" signature="321:1540" ph="{...}" />
-                <marker date="1520559904000" expanded="true" signature="425:495" ph="{...}" />
-                <marker date="1520559904000" expanded="true" signature="648:762" ph="{...}" />
-                <marker date="1520559904000" expanded="true" signature="873:1505" ph="{...}" />
-                <marker date="1520559904000" expanded="true" signature="1066:1283" ph="{...}" />
-                <marker date="1520559904000" expanded="true" signature="1124:1198" ph="{...}" />
-                <marker date="1520559904000" expanded="true" signature="1285:1397" ph="/* Console.WriteLine(&quot;pp:&quot; + pp); ... */" />
-                <marker date="1520559904000" expanded="true" signature="1428:1491" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_104__Maximum_Depth_of_Binary_Tree/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="49" lean-forward="true" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+            <state relative-caret-position="390">
+              <caret line="26" column="24" lean-forward="false" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
               <folding>
-                <marker date="1520562472000" expanded="true" signature="59:812" ph="{...}" />
-                <marker date="1520562472000" expanded="true" signature="88:810" ph="{...}" />
-                <marker date="1520562472000" expanded="true" signature="141:161" ph="{...}" />
-                <marker date="1520562472000" expanded="true" signature="193:399" ph="{...}" />
-                <marker date="1520562472000" expanded="true" signature="336:389" ph="{...}" />
-                <marker date="1520562472000" expanded="true" signature="451:804" ph="{...}" />
-                <marker date="1520562472000" expanded="true" signature="543:769" ph="{...}" />
-                <marker date="1520562472000" expanded="true" signature="813:1099" ph="/* Given a binary tree, find its maximum depth. ... */" />
+                <marker date="1520688745000" expanded="true" signature="59:925" ph="{...}" />
+                <marker date="1520688745000" expanded="true" signature="88:923" ph="{...}" />
+                <marker date="1520688745000" expanded="true" signature="141:161" ph="{...}" />
+                <marker date="1520688745000" expanded="true" signature="193:399" ph="{...}" />
+                <marker date="1520688745000" expanded="true" signature="336:389" ph="{...}" />
+                <marker date="1520688745000" expanded="true" signature="451:917" ph="{...}" />
+                <marker date="1520688745000" expanded="true" signature="543:882" ph="{...}" />
+                <marker date="1520688745000" expanded="true" signature="672:749" ph="{...}" />
+                <marker date="1520688745000" expanded="true" signature="790:868" ph="{...}" />
+                <marker date="1520688745000" expanded="true" signature="926:1212" ph="/* Given a binary tree, find its maximum depth. ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_485__Max_Consecutive_Ones/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="855">
+              <caret line="57" column="17" lean-forward="false" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
+              <folding>
+                <marker date="1520690701000" expanded="true" signature="51:1607" ph="{...}" />
+                <marker date="1520690701000" expanded="true" signature="80:1605" ph="{...}" />
+                <marker date="1520690701000" expanded="true" signature="133:255" ph="{...}" />
+                <marker date="1520690701000" expanded="true" signature="317:607" ph="{...}" />
+                <marker date="1520690701000" expanded="true" signature="471:571" ph="{...}" />
+                <marker date="1520690701000" expanded="true" signature="677:1130" ph="{...}" />
+                <marker date="1520690701000" expanded="true" signature="791:1054" ph="{...}" />
+                <marker date="1520690701000" expanded="true" signature="839:904" ph="{...}" />
+                <marker date="1520690701000" expanded="true" signature="925:1040" ph="{...}" />
+                <marker date="1520690701000" expanded="true" signature="1201:1599" ph="{...}" />
+                <marker date="1520690701000" expanded="true" signature="1301:1564" ph="{...}" />
+                <marker date="1520690701000" expanded="true" signature="1343:1460" ph="{...}" />
+                <marker date="1520690701000" expanded="true" signature="1481:1550" ph="{...}" />
+                <marker date="1520690701000" expanded="true" signature="1608:1984" ph="/* Given a binary array, find the maximum number of consecutive 1s in this array. ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_784__Letter_Case_Permutation/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+              <folding>
+                <marker date="1520745763000" expanded="true" signature="6:47" ph="..." />
+                <marker date="1520745763000" expanded="true" signature="88:2167" ph="{...}" />
+                <marker date="1520745763000" expanded="true" signature="117:2165" ph="{...}" />
+                <marker date="1520745763000" expanded="true" signature="170:278" ph="{...}" />
+                <marker date="1520745763000" expanded="true" signature="368:2159" ph="{...}" />
+                <marker date="1520745763000" expanded="true" signature="643:1343" ph="{...}" />
+                <marker date="1520745763000" expanded="true" signature="740:1329" ph="{...}" />
+                <marker date="1520745763000" expanded="true" signature="837:934" ph="{...}" />
+                <marker date="1520745763000" expanded="true" signature="979:1076" ph="{...}" />
+                <marker date="1520745763000" expanded="true" signature="1444:2124" ph="{...}" />
+                <marker date="1520745763000" expanded="true" signature="1560:1882" ph="{...}" />
+                <marker date="1520745763000" expanded="true" signature="1619:1732" ph="{...}" />
+                <marker date="1520745763000" expanded="true" signature="1757:1864" ph="{...}" />
+                <marker date="1520745763000" expanded="true" signature="1935:2030" ph="{...}" />
+                <marker date="1520745763000" expanded="true" signature="2168:2585" ph="/* Given a string S, we can transform every letter individually to be lowercase or uppercase to create another st ... */" />
               </folding>
             </state>
           </provider>
@@ -223,6 +151,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/_496__Next_Greater_Element_I/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/命名小工具/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file:///Kesa/Dasan/学业活动/2018srtp项目/Project/Steel/Pro for Steel/Assets/Scripts/MainCharacter.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/_617__Merge_Two_Binary_Trees/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_406__Queue_Reconstruction_by_Height/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_136__Single_Number/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -233,6 +162,7 @@
     <setting file="file://$PROJECT_DIR$/_553__Optimal_Division/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_657__Judge_Route_Circle/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_791__Custom Sort String/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_485__Max_Consecutive_Ones/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_521__Longest_Uncommon_Subsequence_I/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_461__Hamming_Distance/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_575__Distribute_Candies/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -240,6 +170,7 @@
     <setting file="file://$PROJECT_DIR$/_557__Reverse_Words_in_a_String_III/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_537__Complex_Number_Multiplication/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_693__Binary_Number_with_Alternating_Bits/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_784__Letter_Case_Permutation/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_760_Find_Anagram_Mappings/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_763__Partition_Labels/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_463__Island_Perimeter/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -248,6 +179,7 @@
     <setting file="file://$PROJECT_DIR$/_104__Maximum_Depth_of_Binary_Tree/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_728__Self_Dividing_Numbers/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_771__Jewels_and_Stones/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4FDC5ED6-1A07-4CAF-B49F-A42DEB20D521/14/e91e39f9/Char.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/_561__Array_Partition_I/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file:///Kesa/Dasan/学业活动/2018srtp项目/Project/Steel/Pro for Steel/Assets/Scripts/Lid.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/_476__Number_Complement/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -289,8 +221,10 @@
         <option value="$PROJECT_DIR$/_540__Single_Element_in_a_Sorted_Array/Program.cs" />
         <option value="$PROJECT_DIR$/_553__Optimal_Division/Program.cs" />
         <option value="$PROJECT_DIR$/_647__Palindromic_Substrings/Program.cs" />
-        <option value="$PROJECT_DIR$/_104__Maximum_Depth_of_Binary_Tree/Program.cs" />
         <option value="/Kesa/Dasan/学业活动/2018srtp项目/Project/Steel/Pro for Steel/Assets/Scripts/Lid.cs" />
+        <option value="$PROJECT_DIR$/_104__Maximum_Depth_of_Binary_Tree/Program.cs" />
+        <option value="$PROJECT_DIR$/_485__Max_Consecutive_Ones/Program.cs" />
+        <option value="$PROJECT_DIR$/_784__Letter_Case_Permutation/Program.cs" />
       </list>
     </option>
   </component>
@@ -300,11 +234,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1920" />
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="900" />
-    <option name="height" value="1413" />
+    <option name="width" value="960" />
+    <option name="height" value="1173" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
@@ -326,7 +259,12 @@
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="LeetCode_Csharp (31 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="LeetCode_Csharp (33 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="LeetCode_Csharp (33 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="_784__Letter_Case_Permutation" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -354,7 +292,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Project.命名小工具">
+  <component name="RunManager" selected=".NET Project._784__Letter_Case_Permutation">
     <configuration name="命名小工具" type="DotNetProject" factoryName=".NET Project" temporary="true">
       <option name="EXE_PATH" value="$PROJECT_DIR$/命名小工具/bin/Debug/命名小工具.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -385,30 +323,15 @@
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7" />
     </configuration>
-    <configuration name="_463__Island_Perimeter" type="DotNetProject" factoryName=".NET Project" temporary="true">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/_463__Island_Perimeter/bin/Debug/_463__Island_Perimeter.exe" />
+    <configuration name="_485__Max_Consecutive_Ones" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/_485__Max_Consecutive_Ones/bin/Debug/_485__Max_Consecutive_Ones.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_463__Island_Perimeter/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_485__Max_Consecutive_Ones/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <envs />
       <option name="USE_MONO" value="0" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_463__Island_Perimeter/_463__Island_Perimeter.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="Console" />
-      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7" />
-    </configuration>
-    <configuration name="_496__Next_Greater_Element_I" type="DotNetProject" factoryName=".NET Project" temporary="true">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/_496__Next_Greater_Element_I/bin/Debug/_496__Next_Greater_Element_I.exe" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_496__Next_Greater_Element_I/bin/Debug" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <envs />
-      <option name="USE_MONO" value="0" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_496__Next_Greater_Element_I/_496__Next_Greater_Element_I.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_485__Max_Consecutive_Ones/_485__Max_Consecutive_Ones.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -460,22 +383,37 @@
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7" />
     </configuration>
+    <configuration name="_784__Letter_Case_Permutation" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/_784__Letter_Case_Permutation/bin/Debug/_784__Letter_Case_Permutation.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_784__Letter_Case_Permutation/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_784__Letter_Case_Permutation/_784__Letter_Case_Permutation.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7" />
+    </configuration>
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
       <item index="1" class="java.lang.String" itemvalue=".NET Project._654_Maximum_Binary_Tree" />
       <item index="2" class="java.lang.String" itemvalue=".NET Project.命名小工具" />
-      <item index="3" class="java.lang.String" itemvalue=".NET Project._463__Island_Perimeter" />
-      <item index="4" class="java.lang.String" itemvalue=".NET Project._496__Next_Greater_Element_I" />
-      <item index="5" class="java.lang.String" itemvalue=".NET Project._553__Optimal_Division" />
-      <item index="6" class="java.lang.String" itemvalue=".NET Project._647__Palindromic_Substrings" />
+      <item index="3" class="java.lang.String" itemvalue=".NET Project._553__Optimal_Division" />
+      <item index="4" class="java.lang.String" itemvalue=".NET Project._647__Palindromic_Substrings" />
+      <item index="5" class="java.lang.String" itemvalue=".NET Project._485__Max_Consecutive_Ones" />
+      <item index="6" class="java.lang.String" itemvalue=".NET Project._784__Letter_Case_Permutation" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue=".NET Project.命名小工具" />
-        <item index="1" class="java.lang.String" itemvalue=".NET Project._647__Palindromic_Substrings" />
-        <item index="2" class="java.lang.String" itemvalue=".NET Project._553__Optimal_Division" />
-        <item index="3" class="java.lang.String" itemvalue=".NET Project._496__Next_Greater_Element_I" />
-        <item index="4" class="java.lang.String" itemvalue=".NET Project._463__Island_Perimeter" />
+        <item index="0" class="java.lang.String" itemvalue=".NET Project._784__Letter_Case_Permutation" />
+        <item index="1" class="java.lang.String" itemvalue=".NET Project.命名小工具" />
+        <item index="2" class="java.lang.String" itemvalue=".NET Project._485__Max_Consecutive_Ones" />
+        <item index="3" class="java.lang.String" itemvalue=".NET Project._647__Palindromic_Substrings" />
+        <item index="4" class="java.lang.String" itemvalue=".NET Project._553__Optimal_Division" />
       </list>
     </recent_temporary>
   </component>
@@ -499,12 +437,12 @@
       <workItem from="1519704787922" duration="29084000" />
       <workItem from="1520090215783" duration="2506000" />
       <workItem from="1520261967688" duration="8427000" />
-      <workItem from="1520487877057" duration="10853000" />
+      <workItem from="1520487877057" duration="19790000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102042000" />
+    <option name="totallyTimeSpent" value="110979000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -516,21 +454,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="23" width="900" height="1413" extended-state="6" />
+    <frame x="0" y="23" width="960" height="1173" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18082191" sideWeight="0.5037037" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17897092" sideWeight="0.4962963" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21798365" sideWeight="0.4962963" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18444444" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17291667" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328792" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27319062" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -539,7 +478,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -575,39 +513,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="7" />
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_442__Find_All_Duplicates_in_an_Array/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_406__Queue_Reconstruction_by_Height/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_763__Partition_Labels/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_763__Partition_Labels/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="47" column="44" lean-forward="false" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_791__Custom Sort String/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="750">
@@ -870,62 +780,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///Kesa/Dasan/学业活动/2018srtp项目/Project/Steel/Pro for Steel/Assets/Scripts/GameControl.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="841">
-          <caret line="174" column="22" lean-forward="false" selection-start-line="174" selection-start-column="22" selection-end-line="174" selection-end-column="22" />
-          <folding>
-            <marker date="1519017701000" expanded="false" signature="6:78" ph="..." />
-            <marker date="1519017701000" expanded="true" signature="292:362" ph="/* ------------------------------------------------------ ... */" />
-            <marker date="1519017701000" expanded="true" signature="468:538" ph="/* ------------------------------------------------------ ... */" />
-            <marker date="1519017701000" expanded="true" signature="563:946" ph="{...}" />
-            <marker date="1519017701000" expanded="true" signature="804:890" ph="/* ------------------------------------------------------ ... */" />
-            <marker date="1519017701000" expanded="true" signature="1389:4220" ph="{...}" />
-            <marker date="1519017701000" expanded="true" signature="1447:1695" ph="{...}" />
-            <marker date="1519017701000" expanded="true" signature="1505:1685" ph="{...}" />
-            <marker date="1519017701000" expanded="true" signature="1740:2059" ph="{...}" />
-            <marker date="1519017701000" expanded="true" signature="1802:2049" ph="{...}" />
-            <marker date="1519017701000" expanded="true" signature="2119:2295" ph="{...}" />
-            <marker date="1519017701000" expanded="true" signature="2378:2541" ph="{...}" />
-            <marker date="1519017701000" expanded="true" signature="2636:2939" ph="{...}" />
-            <marker date="1519017701000" expanded="true" signature="2682:2929" ph="{...}" />
-            <marker date="1519017701000" expanded="true" signature="3008:3189" ph="{...}" />
-            <marker date="1519017701000" expanded="true" signature="3286:3450" ph="{...}" />
-            <marker date="1519017701000" expanded="true" signature="3523:3682" ph="{...}" />
-            <marker date="1519017701000" expanded="true" signature="3749:3930" ph="{...}" />
-            <marker date="1519017701000" expanded="true" signature="4028:4214" ph="{...}" />
-            <marker date="1519017701000" expanded="true" signature="4226:4304" ph="/* ------------------------------------------------------都是拖时间的协程 ... */" />
-            <marker date="1519017701000" expanded="true" signature="4333:4448" ph="{...}" />
-            <marker date="1519017701000" expanded="true" signature="4498:4662" ph="{...}" />
-            <marker date="1519017701000" expanded="true" signature="4708:4815" ph="{...}" />
-            <marker date="1519017701000" expanded="true" signature="4862:4995" ph="{...}" />
-            <marker date="1519017701000" expanded="true" signature="5041:5150" ph="{...}" />
-            <marker date="1519017701000" expanded="true" signature="5190:5463" ph="{...}" />
-            <marker date="1519017701000" expanded="true" signature="5502:5712" ph="{...}" />
-            <marker date="1519017701000" expanded="true" signature="5756:5870" ph="{...}" />
-            <marker date="1519017701000" expanded="true" signature="5914:6140" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_292__Nim_Game/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
-          <folding>
-            <marker date="1520488396000" expanded="true" signature="24:529" ph="{...}" />
-            <marker date="1520488396000" expanded="true" signature="53:527" ph="{...}" />
-            <marker date="1520488396000" expanded="true" signature="106:126" ph="{...}" />
-            <marker date="1520488396000" expanded="true" signature="164:521" ph="{...}" />
-            <marker date="1520488396000" expanded="true" signature="198:255" ph="{...}" />
-            <marker date="1520488396000" expanded="true" signature="288:346" ph="{...}" />
-            <marker date="1520488396000" expanded="true" signature="363:420" ph="{...}" />
-            <marker date="1520488396000" expanded="true" signature="434:511" ph="/* 最厉害的答案最屌 ... */" />
-            <marker date="1520488396000" expanded="true" signature="530:1244" ph="/* You are playing the following Nim Game with your friend: There is a heap of stones on the table, each time one ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_136__Single_Number/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -1003,27 +857,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_104__Maximum_Depth_of_Binary_Tree/Program.cs">
+    <entry file="file:///Kesa/Dasan/学业活动/2018srtp项目/Project/Steel/Pro for Steel/Assets/Scripts/GameControl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding>
+            <marker date="1519017701000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1519017701000" expanded="true" signature="292:362" ph="/* ------------------------------------------------------ ... */" />
+            <marker date="1519017701000" expanded="true" signature="468:538" ph="/* ------------------------------------------------------ ... */" />
+            <marker date="1519017701000" expanded="true" signature="563:946" ph="{...}" />
+            <marker date="1519017701000" expanded="true" signature="804:890" ph="/* ------------------------------------------------------ ... */" />
+            <marker date="1519017701000" expanded="true" signature="1389:4220" ph="{...}" />
+            <marker date="1519017701000" expanded="true" signature="1447:1695" ph="{...}" />
+            <marker date="1519017701000" expanded="true" signature="1505:1685" ph="{...}" />
+            <marker date="1519017701000" expanded="true" signature="1740:2059" ph="{...}" />
+            <marker date="1519017701000" expanded="true" signature="1802:2049" ph="{...}" />
+            <marker date="1519017701000" expanded="true" signature="2119:2295" ph="{...}" />
+            <marker date="1519017701000" expanded="true" signature="2378:2541" ph="{...}" />
+            <marker date="1519017701000" expanded="true" signature="2636:2939" ph="{...}" />
+            <marker date="1519017701000" expanded="true" signature="2682:2929" ph="{...}" />
+            <marker date="1519017701000" expanded="true" signature="3008:3189" ph="{...}" />
+            <marker date="1519017701000" expanded="true" signature="3286:3450" ph="{...}" />
+            <marker date="1519017701000" expanded="true" signature="3523:3682" ph="{...}" />
+            <marker date="1519017701000" expanded="true" signature="3749:3930" ph="{...}" />
+            <marker date="1519017701000" expanded="true" signature="4028:4214" ph="{...}" />
+            <marker date="1519017701000" expanded="true" signature="4226:4304" ph="/* ------------------------------------------------------都是拖时间的协程 ... */" />
+            <marker date="1519017701000" expanded="true" signature="4333:4448" ph="{...}" />
+            <marker date="1519017701000" expanded="true" signature="4498:4662" ph="{...}" />
+            <marker date="1519017701000" expanded="true" signature="4708:4815" ph="{...}" />
+            <marker date="1519017701000" expanded="true" signature="4862:4995" ph="{...}" />
+            <marker date="1519017701000" expanded="true" signature="5041:5150" ph="{...}" />
+            <marker date="1519017701000" expanded="true" signature="5190:5463" ph="{...}" />
+            <marker date="1519017701000" expanded="true" signature="5502:5712" ph="{...}" />
+            <marker date="1519017701000" expanded="true" signature="5756:5870" ph="{...}" />
+            <marker date="1519017701000" expanded="true" signature="5914:6140" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_292__Nim_Game/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="24" column="49" lean-forward="true" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+          <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
           <folding>
-            <marker date="1520562472000" expanded="true" signature="59:812" ph="{...}" />
-            <marker date="1520562472000" expanded="true" signature="88:810" ph="{...}" />
-            <marker date="1520562472000" expanded="true" signature="141:161" ph="{...}" />
-            <marker date="1520562472000" expanded="true" signature="193:399" ph="{...}" />
-            <marker date="1520562472000" expanded="true" signature="336:389" ph="{...}" />
-            <marker date="1520562472000" expanded="true" signature="451:804" ph="{...}" />
-            <marker date="1520562472000" expanded="true" signature="543:769" ph="{...}" />
-            <marker date="1520562472000" expanded="true" signature="813:1099" ph="/* Given a binary tree, find its maximum depth. ... */" />
+            <marker date="1520488396000" expanded="true" signature="24:529" ph="{...}" />
+            <marker date="1520488396000" expanded="true" signature="53:527" ph="{...}" />
+            <marker date="1520488396000" expanded="true" signature="106:126" ph="{...}" />
+            <marker date="1520488396000" expanded="true" signature="164:521" ph="{...}" />
+            <marker date="1520488396000" expanded="true" signature="198:255" ph="{...}" />
+            <marker date="1520488396000" expanded="true" signature="288:346" ph="{...}" />
+            <marker date="1520488396000" expanded="true" signature="363:420" ph="{...}" />
+            <marker date="1520488396000" expanded="true" signature="434:511" ph="/* 最厉害的答案最屌 ... */" />
+            <marker date="1520488396000" expanded="true" signature="530:1244" ph="/* You are playing the following Nim Game with your friend: There is a heap of stones on the table, each time one ... */" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Kesa/Dasan/学业活动/2018srtp项目/Project/Steel/Pro for Steel/Assets/Scripts/MainCharacter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/命名小工具/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+          <caret line="28" column="1" lean-forward="false" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
           <folding>
             <marker date="1519704862000" expanded="false" signature="6:92" ph="..." />
             <marker date="1519704862000" expanded="true" signature="109:646" ph="{...}" />
@@ -1035,12 +936,179 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///Kesa/Dasan/学业活动/2018srtp项目/Project/Steel/Pro for Steel/Assets/Scripts/Lid.cs">
+    <entry file="file://$PROJECT_DIR$/_104__Maximum_Depth_of_Binary_Tree/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
-          <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+          <caret line="26" column="24" lean-forward="false" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
           <folding>
-            <marker date="1520588674000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1520688745000" expanded="true" signature="59:925" ph="{...}" />
+            <marker date="1520688745000" expanded="true" signature="88:923" ph="{...}" />
+            <marker date="1520688745000" expanded="true" signature="141:161" ph="{...}" />
+            <marker date="1520688745000" expanded="true" signature="193:399" ph="{...}" />
+            <marker date="1520688745000" expanded="true" signature="336:389" ph="{...}" />
+            <marker date="1520688745000" expanded="true" signature="451:917" ph="{...}" />
+            <marker date="1520688745000" expanded="true" signature="543:882" ph="{...}" />
+            <marker date="1520688745000" expanded="true" signature="672:749" ph="{...}" />
+            <marker date="1520688745000" expanded="true" signature="790:868" ph="{...}" />
+            <marker date="1520688745000" expanded="true" signature="926:1212" ph="/* Given a binary tree, find its maximum depth. ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_485__Max_Consecutive_Ones/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" column="17" lean-forward="false" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
+          <folding>
+            <marker date="1520690701000" expanded="true" signature="51:1607" ph="{...}" />
+            <marker date="1520690701000" expanded="true" signature="80:1605" ph="{...}" />
+            <marker date="1520690701000" expanded="true" signature="133:255" ph="{...}" />
+            <marker date="1520690701000" expanded="true" signature="317:607" ph="{...}" />
+            <marker date="1520690701000" expanded="true" signature="471:571" ph="{...}" />
+            <marker date="1520690701000" expanded="true" signature="677:1130" ph="{...}" />
+            <marker date="1520690701000" expanded="true" signature="791:1054" ph="{...}" />
+            <marker date="1520690701000" expanded="true" signature="839:904" ph="{...}" />
+            <marker date="1520690701000" expanded="true" signature="925:1040" ph="{...}" />
+            <marker date="1520690701000" expanded="true" signature="1201:1599" ph="{...}" />
+            <marker date="1520690701000" expanded="true" signature="1301:1564" ph="{...}" />
+            <marker date="1520690701000" expanded="true" signature="1343:1460" ph="{...}" />
+            <marker date="1520690701000" expanded="true" signature="1481:1550" ph="{...}" />
+            <marker date="1520690701000" expanded="true" signature="1608:1984" ph="/* Given a binary array, find the maximum number of consecutive 1s in this array. ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4FDC5ED6-1A07-4CAF-B49F-A42DEB20D521/14/e91e39f9/Char.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4661">
+          <caret line="397" column="28" lean-forward="false" selection-start-line="397" selection-start-column="28" selection-end-line="397" selection-end-column="28" />
+          <folding>
+            <marker date="1520693444000" expanded="true" signature="0:295" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1520693444000" expanded="false" signature="303:362" ph="..." />
+            <marker date="1520693444000" expanded="true" signature="380:25657" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="506:25655" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="584:4815" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="5231:5289" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="5331:5390" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="5460:5537" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="5576:5632" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="5677:5782" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="5816:5866" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="5906:6135" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="6173:6224" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="6263:6309" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="6363:6409" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="6452:6495" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="6535:6777" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="6837:6979" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="7019:7227" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="7285:7327" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="7368:7668" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="7720:7831" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="7876:8005" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="8045:8362" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="8402:8720" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="8783:8832" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="8878:9065" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="9130:9514" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="9154:9508" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="9562:9753" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="9814:9954" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="9994:10064" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="10113:10185" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="10246:10386" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="10426:10496" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="10545:10617" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="10652:10692" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="10751:10913" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="10969:11000" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="11058:11106" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="11162:11209" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="11267:11315" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="11375:11424" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="11480:11528" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="11586:11635" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="11692:11740" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="11799:11848" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="11907:12068" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="12128:12289" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="12351:12513" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="12577:12740" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="12809:12894" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="12936:13131" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="13186:13596" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="13649:14073" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="14127:14679" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="14740:15146" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="15199:15735" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="15793:15841" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="15882:16165" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="16219:16720" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="16779:17181" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="17242:17291" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="17342:17429" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="17473:17628" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="17685:18055" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="18099:18192" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="18249:18482" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="18540:18589" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="18630:18807" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="18861:19239" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="19292:19827" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="19885:20215" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="20277:20432" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="20507:20857" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="20907:20968" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="21031:21279" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="21327:21420" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="21481:21717" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="21764:21857" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="21917:22152" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="22213:22517" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="22596:22775" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="22829:23374" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="23280:23366" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="23451:24003" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="24062:25651" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="24499:25340" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="24541:25019" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="24954:24994" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="25281:25317" ph="{...}" />
+            <marker date="1520693444000" expanded="true" signature="25598:25630" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_784__Letter_Case_Permutation/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+          <folding>
+            <marker date="1520745763000" expanded="true" signature="6:47" ph="..." />
+            <marker date="1520745763000" expanded="true" signature="88:2167" ph="{...}" />
+            <marker date="1520745763000" expanded="true" signature="117:2165" ph="{...}" />
+            <marker date="1520745763000" expanded="true" signature="170:278" ph="{...}" />
+            <marker date="1520745763000" expanded="true" signature="368:2159" ph="{...}" />
+            <marker date="1520745763000" expanded="true" signature="643:1343" ph="{...}" />
+            <marker date="1520745763000" expanded="true" signature="740:1329" ph="{...}" />
+            <marker date="1520745763000" expanded="true" signature="837:934" ph="{...}" />
+            <marker date="1520745763000" expanded="true" signature="979:1076" ph="{...}" />
+            <marker date="1520745763000" expanded="true" signature="1444:2124" ph="{...}" />
+            <marker date="1520745763000" expanded="true" signature="1560:1882" ph="{...}" />
+            <marker date="1520745763000" expanded="true" signature="1619:1732" ph="{...}" />
+            <marker date="1520745763000" expanded="true" signature="1757:1864" ph="{...}" />
+            <marker date="1520745763000" expanded="true" signature="1935:2030" ph="{...}" />
+            <marker date="1520745763000" expanded="true" signature="2168:2585" ph="/* Given a string S, we can transform every letter individually to be lowercase or uppercase to create another st ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Kesa/Dasan/学业活动/2018srtp项目/Project/Steel/Pro for Steel/Assets/Scripts/Lid.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+          <folding>
+            <marker date="1520588674000" expanded="true" signature="6:78" ph="..." />
             <marker date="1520588674000" expanded="true" signature="112:1585" ph="{...}" />
             <marker date="1520588674000" expanded="true" signature="416:455" ph="{...}" />
             <marker date="1520588674000" expanded="true" signature="474:632" ph="{...}" />

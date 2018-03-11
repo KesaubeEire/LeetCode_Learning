@@ -1,0 +1,6 @@
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_784__Letter_Case_Permutation/bin/Debug/_784__Letter_Case_Permutation.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_784__Letter_Case_Permutation/bin/Debug/_784__Letter_Case_Permutation.pdb
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_784__Letter_Case_Permutation/obj/Debug/_784__Letter_Case_Permutation.csprojResolveAssemblyReference.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_784__Letter_Case_Permutation/obj/Debug/_784__Letter_Case_Permutation.csproj.CoreCompileInputs.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_784__Letter_Case_Permutation/obj/Debug/_784__Letter_Case_Permutation.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_784__Letter_Case_Permutation/obj/Debug/_784__Letter_Case_Permutation.pdb
