@@ -24,7 +24,7 @@
               <entry file="file:///Kesa/Dasan/学业活动/2018srtp项目/Project/Steel/Pro for Steel/Assets/Scripts/Lid.cs">
                 <provider selected="true" editor-type-id="text-editor">
                   <state relative-caret-position="315">
-                    <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+                    <caret line="21" column="23" lean-forward="false" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
                     <folding>
                       <marker date="1520588674000" expanded="true" signature="6:78" ph="..." />
                       <marker date="1520588674000" expanded="true" signature="112:1585" ph="{...}" />
@@ -114,8 +114,8 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_784__Letter_Case_Permutation/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+            <state relative-caret-position="-124">
+              <caret line="35" column="21" lean-forward="false" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
               <folding>
                 <marker date="1520745763000" expanded="true" signature="6:47" ph="..." />
                 <marker date="1520745763000" expanded="true" signature="88:2167" ph="{...}" />
@@ -1079,10 +1079,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file:///Kesa/Dasan/学业活动/2018srtp项目/Project/Steel/Pro for Steel/Assets/Scripts/Lid.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="23" lean-forward="false" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+          <folding>
+            <marker date="1520588674000" expanded="true" signature="6:78" ph="..." />
+            <marker date="1520588674000" expanded="true" signature="112:1585" ph="{...}" />
+            <marker date="1520588674000" expanded="true" signature="416:455" ph="{...}" />
+            <marker date="1520588674000" expanded="true" signature="474:632" ph="{...}" />
+            <marker date="1520588674000" expanded="true" signature="504:554" ph="{...}" />
+            <marker date="1520588674000" expanded="true" signature="578:626" ph="{...}" />
+            <marker date="1520588674000" expanded="true" signature="693:1474" ph="{...}" />
+            <marker date="1520588674000" expanded="true" signature="719:1086" ph="{...}" />
+            <marker date="1520588674000" expanded="true" signature="1099:1468" ph="{...}" />
+            <marker date="1520588674000" expanded="true" signature="1526:1583" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_784__Letter_Case_Permutation/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        <state relative-caret-position="-124">
+          <caret line="35" column="21" lean-forward="false" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
           <folding>
             <marker date="1520745763000" expanded="true" signature="6:47" ph="..." />
             <marker date="1520745763000" expanded="true" signature="88:2167" ph="{...}" />
@@ -1099,25 +1118,6 @@
             <marker date="1520745763000" expanded="true" signature="1757:1864" ph="{...}" />
             <marker date="1520745763000" expanded="true" signature="1935:2030" ph="{...}" />
             <marker date="1520745763000" expanded="true" signature="2168:2585" ph="/* Given a string S, we can transform every letter individually to be lowercase or uppercase to create another st ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Kesa/Dasan/学业活动/2018srtp项目/Project/Steel/Pro for Steel/Assets/Scripts/Lid.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-          <folding>
-            <marker date="1520588674000" expanded="true" signature="6:78" ph="..." />
-            <marker date="1520588674000" expanded="true" signature="112:1585" ph="{...}" />
-            <marker date="1520588674000" expanded="true" signature="416:455" ph="{...}" />
-            <marker date="1520588674000" expanded="true" signature="474:632" ph="{...}" />
-            <marker date="1520588674000" expanded="true" signature="504:554" ph="{...}" />
-            <marker date="1520588674000" expanded="true" signature="578:626" ph="{...}" />
-            <marker date="1520588674000" expanded="true" signature="693:1474" ph="{...}" />
-            <marker date="1520588674000" expanded="true" signature="719:1086" ph="{...}" />
-            <marker date="1520588674000" expanded="true" signature="1099:1468" ph="{...}" />
-            <marker date="1520588674000" expanded="true" signature="1526:1583" ph="{...}" />
           </folding>
         </state>
       </provider>
