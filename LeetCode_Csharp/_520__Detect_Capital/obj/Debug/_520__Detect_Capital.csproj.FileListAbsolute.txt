@@ -1,0 +1,6 @@
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_520__Detect_Capital/bin/Debug/_520__Detect_Capital.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_520__Detect_Capital/bin/Debug/_520__Detect_Capital.pdb
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_520__Detect_Capital/obj/Debug/_520__Detect_Capital.csprojResolveAssemblyReference.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_520__Detect_Capital/obj/Debug/_520__Detect_Capital.csproj.CoreCompileInputs.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_520__Detect_Capital/obj/Debug/_520__Detect_Capital.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_520__Detect_Capital/obj/Debug/_520__Detect_Capital.pdb

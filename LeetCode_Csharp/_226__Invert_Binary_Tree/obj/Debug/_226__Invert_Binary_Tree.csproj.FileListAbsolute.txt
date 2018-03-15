@@ -1,0 +1,2 @@
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_226__Invert_Binary_Tree/obj/Debug/_226__Invert_Binary_Tree.csprojResolveAssemblyReference.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/_226__Invert_Binary_Tree/obj/Debug/_226__Invert_Binary_Tree.csproj.CoreCompileInputs.cache

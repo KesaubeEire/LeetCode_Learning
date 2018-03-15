@@ -28,19 +28,24 @@ namespace _104__Maximum_Depth_of_Binary_Tree
             if (root.left != null || root.right != null)
             {
                 res += Math.Max(MaxDepth(root.right), MaxDepth(root.left));
-                if (root.left != null)
-                {
-                    MaxDepth(root.left);
-                }
-
-                if (root.right != null)
-                {
-                    MaxDepth(root.right);
-                }
+//                if (root.left != null)
+//                {
+//                    MaxDepth(root.left);
+//                }
+//
+//                if (root.right != null)
+//                {
+//                    MaxDepth(root.right);
+//                }
             }
 
             return res;
         }
+
+        //好像是时间复杂度太高了
+//        static public int MaxDepth2(TreeNode root)
+//        {
+//        }
     }
 }
 /*Given a binary tree, find its maximum depth.
