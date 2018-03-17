@@ -23,8 +23,8 @@
             <file leaf-file-name="Lid.cs" pinned="false" current-in-tab="true">
               <entry file="file:///Kesa/Dasan/学业活动/2018srtp项目/Project/Steel/Pro for Steel/Assets/Scripts/Lid.cs">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="360">
-                    <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+                  <state relative-caret-position="255">
+                    <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
                     <folding>
                       <marker date="1520588674000" expanded="true" signature="6:78" ph="..." />
                       <marker date="1520588674000" expanded="true" signature="416:455" ph="{...}" />
@@ -47,6 +47,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Car.cs" pinned="false" current-in-tab="true">
+        <entry file="file:///Kesa/Dasan/学业活动/2018srtp项目/Project/Steel/Pro for Steel/Assets/Scripts/Carts/Car.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1320">
+              <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/命名小工具/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -90,11 +100,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_258__Add_Digits/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+            <state relative-caret-position="120">
+              <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
               <folding>
                 <marker date="1520940591000" expanded="true" signature="26:136" ph="{...}" />
                 <marker date="1520940591000" expanded="true" signature="55:134" ph="{...}" />
@@ -145,6 +155,7 @@
     <setting file="file://$PROJECT_DIR$/_463__Island_Perimeter/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_292__Nim_Game/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_226__Invert_Binary_Tree/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file:///Kesa/Dasan/学业活动/2018srtp项目/Project/Steel/Pro for Steel/Assets/Scripts/Carts/Car.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/_500__Keyboard_Row/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_104__Maximum_Depth_of_Binary_Tree/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_728__Self_Dividing_Numbers/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -208,10 +219,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="960" />
-    <option name="y" value="24" />
-    <option name="width" value="960" />
-    <option name="height" value="1172" />
+    <option name="x" value="1920" />
+    <option name="y" value="23" />
+    <option name="width" value="900" />
+    <option name="height" value="709" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
@@ -417,12 +428,12 @@
       <workItem from="1520090215783" duration="2506000" />
       <workItem from="1520261967688" duration="8427000" />
       <workItem from="1520487877057" duration="19976000" />
-      <workItem from="1520929629242" duration="4903000" />
+      <workItem from="1520929629242" duration="8118000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116068000" />
+    <option name="totallyTimeSpent" value="119283000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -434,18 +445,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="24" width="960" height="1172" extended-state="0" />
+    <frame x="1920" y="23" width="900" height="709" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18082191" sideWeight="0.5037037" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17818181" sideWeight="0.4962963" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14615959" sideWeight="0.4962963" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14583333" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15555556" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32818183" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -498,13 +509,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_728__Self_Dividing_Numbers/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_657__Judge_Route_Circle/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -911,17 +915,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/命名小工具/Program.cs">
+    <entry file="file://$PROJECT_DIR$/_258__Add_Digits/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="28" column="1" lean-forward="false" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
           <folding>
-            <marker date="1519704862000" expanded="false" signature="6:92" ph="..." />
-            <marker date="1519704862000" expanded="true" signature="109:646" ph="{...}" />
-            <marker date="1519704862000" expanded="true" signature="138:644" ph="{...}" />
-            <marker date="1519704862000" expanded="true" signature="191:638" ph="{...}" />
-            <marker date="1519704862000" expanded="true" signature="377:518" ph="{...}" />
-            <marker date="1519704862000" expanded="true" signature="559:628" ph="{...}" />
+            <marker date="1520940591000" expanded="true" signature="26:136" ph="{...}" />
+            <marker date="1520940591000" expanded="true" signature="55:134" ph="{...}" />
+            <marker date="1520940591000" expanded="true" signature="108:128" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -950,22 +951,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_258__Add_Digits/Program.cs">
+    <entry file="file://$PROJECT_DIR$/命名小工具/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        <state relative-caret-position="375">
+          <caret line="28" column="1" lean-forward="false" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
           <folding>
-            <marker date="1520940591000" expanded="true" signature="26:136" ph="{...}" />
-            <marker date="1520940591000" expanded="true" signature="55:134" ph="{...}" />
-            <marker date="1520940591000" expanded="true" signature="108:128" ph="{...}" />
+            <marker date="1519704862000" expanded="false" signature="6:92" ph="..." />
+            <marker date="1519704862000" expanded="true" signature="109:646" ph="{...}" />
+            <marker date="1519704862000" expanded="true" signature="138:644" ph="{...}" />
+            <marker date="1519704862000" expanded="true" signature="191:638" ph="{...}" />
+            <marker date="1519704862000" expanded="true" signature="377:518" ph="{...}" />
+            <marker date="1519704862000" expanded="true" signature="559:628" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file:///Kesa/Dasan/学业活动/2018srtp项目/Project/Steel/Pro for Steel/Assets/Scripts/Lid.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        <state relative-caret-position="255">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding>
             <marker date="1520588674000" expanded="true" signature="6:78" ph="..." />
             <marker date="1520588674000" expanded="true" signature="416:455" ph="{...}" />
@@ -977,6 +981,14 @@
             <marker date="1520588674000" expanded="true" signature="1099:1468" ph="{...}" />
             <marker date="1520588674000" expanded="true" signature="1526:1583" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Kesa/Dasan/学业活动/2018srtp项目/Project/Steel/Pro for Steel/Assets/Scripts/Carts/Car.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
