@@ -72,6 +72,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_520__Detect_Capital", "_52
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_258__Add_Digits", "_258__Add_Digits\_258__Add_Digits.csproj", "{49ADD5D0-9939-4928-983E-34FC4442496C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_807__Max_Increase_to_Keep_City_Skyline", "_807__Max_Increase_to_Keep_City_Skyline\_807__Max_Increase_to_Keep_City_Skyline.csproj", "{E928ADB3-3B73-4EBA-8FC6-92398BEC69F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_804__Unique_Morse_Code_Words", "_804__Unique_Morse_Code_Words\_804__Unique_Morse_Code_Words.csproj", "{5B9821AC-2704-430F-BB84-056FAFAB1694}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -222,5 +226,13 @@ Global
 		{49ADD5D0-9939-4928-983E-34FC4442496C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49ADD5D0-9939-4928-983E-34FC4442496C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49ADD5D0-9939-4928-983E-34FC4442496C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E928ADB3-3B73-4EBA-8FC6-92398BEC69F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E928ADB3-3B73-4EBA-8FC6-92398BEC69F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E928ADB3-3B73-4EBA-8FC6-92398BEC69F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E928ADB3-3B73-4EBA-8FC6-92398BEC69F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B9821AC-2704-430F-BB84-056FAFAB1694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B9821AC-2704-430F-BB84-056FAFAB1694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B9821AC-2704-430F-BB84-056FAFAB1694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B9821AC-2704-430F-BB84-056FAFAB1694}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
