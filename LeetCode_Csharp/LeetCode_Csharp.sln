@@ -76,6 +76,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_807__Max_Increase_to_Keep_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_804__Unique_Morse_Code_Words", "_804__Unique_Morse_Code_Words\_804__Unique_Morse_Code_Words.csproj", "{5B9821AC-2704-430F-BB84-056FAFAB1694}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "王佳敏_练习01", "王佳敏_练习01\王佳敏_练习01.csproj", "{47837C20-7CAD-4FDA-9F66-C0F42B296E58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestInBook", "TestInBook\TestInBook.csproj", "{B2001FDB-C314-462C-A467-929B01D59BCD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -234,5 +238,13 @@ Global
 		{5B9821AC-2704-430F-BB84-056FAFAB1694}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B9821AC-2704-430F-BB84-056FAFAB1694}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B9821AC-2704-430F-BB84-056FAFAB1694}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47837C20-7CAD-4FDA-9F66-C0F42B296E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47837C20-7CAD-4FDA-9F66-C0F42B296E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47837C20-7CAD-4FDA-9F66-C0F42B296E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47837C20-7CAD-4FDA-9F66-C0F42B296E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2001FDB-C314-462C-A467-929B01D59BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2001FDB-C314-462C-A467-929B01D59BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2001FDB-C314-462C-A467-929B01D59BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2001FDB-C314-462C-A467-929B01D59BCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

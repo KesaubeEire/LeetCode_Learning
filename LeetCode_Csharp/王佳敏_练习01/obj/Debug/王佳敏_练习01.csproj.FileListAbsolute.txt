@@ -1,0 +1,6 @@
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/王佳敏_练习01/bin/Debug/王佳敏_练习01.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/王佳敏_练习01/bin/Debug/王佳敏_练习01.pdb
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/王佳敏_练习01/obj/Debug/王佳敏_练习01.csprojResolveAssemblyReference.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/王佳敏_练习01/obj/Debug/王佳敏_练习01.csproj.CoreCompileInputs.cache
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/王佳敏_练习01/obj/Debug/王佳敏_练习01.exe
+/Users/w/GitSets/LeetCode_Learning/LeetCode_Csharp/王佳敏_练习01/obj/Debug/王佳敏_练习01.pdb
