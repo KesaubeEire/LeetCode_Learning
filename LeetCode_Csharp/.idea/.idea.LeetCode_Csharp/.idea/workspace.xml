@@ -8,20 +8,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61147a2e-a5e4-43ce-969d-8c52de138188" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.LeetCode_Csharp/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LeetCode_Csharp/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LeetCode_Csharp/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LeetCode_Csharp/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LeetCode_Csharp/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LeetCode_Csharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LeetCode_Csharp/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCode_Csharp.sln" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode_Csharp.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_760_Find_Anagram_Mappings/obj/Debug/_760_Find_Anagram_Mappings.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_760_Find_Anagram_Mappings/obj/Debug/_760_Find_Anagram_Mappings.csprojResolveAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/命名小工具/bin/Debug/命名小工具.exe" beforeDir="false" afterPath="$PROJECT_DIR$/命名小工具/bin/Debug/命名小工具.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/命名小工具/bin/Debug/命名小工具.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/命名小工具/bin/Debug/命名小工具.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/命名小工具/obj/Debug/命名小工具.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/命名小工具/obj/Debug/命名小工具.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/命名小工具/obj/Debug/命名小工具.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/命名小工具/obj/Debug/命名小工具.csprojResolveAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/命名小工具/obj/Debug/命名小工具.exe" beforeDir="false" afterPath="$PROJECT_DIR$/命名小工具/obj/Debug/命名小工具.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/命名小工具/obj/Debug/命名小工具.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/命名小工具/obj/Debug/命名小工具.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestInBook/obj/Debug/TestInBook.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestInBook/obj/Debug/TestInBook.csprojResolveAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,62 +24,54 @@
     <session id="725963179">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.4" value="4" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="71" />
+          <entry key="cs" value="1138" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="71" />
+          <entry key="C#" value="1138" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="5" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/命名小工具/Program.cs">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/测试专用Program1/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+            <state relative-caret-position="175">
+              <caret line="36" column="40" lean-forward="true" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
               <folding>
-                <marker date="1535798404000" expanded="false" signature="6:92" ph="..." />
-                <marker date="1535798404000" expanded="true" signature="109:646" ph="{...}" />
-                <marker date="1535798404000" expanded="true" signature="138:644" ph="{...}" />
-                <marker date="1535798404000" expanded="true" signature="191:638" ph="{...}" />
-                <marker date="1535798404000" expanded="true" signature="377:518" ph="{...}" />
-                <marker date="1535798404000" expanded="true" signature="559:628" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TestInBook/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="35" column="47" lean-forward="true" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
-              <folding>
-                <marker date="1535802518000" expanded="true" signature="6:63" ph="..." />
-                <marker date="1535802518000" expanded="true" signature="85:2719" ph="{...}" />
-                <marker date="1535802518000" expanded="true" signature="114:2717" ph="{...}" />
-                <marker date="1535802518000" expanded="true" signature="167:531" ph="{...}" />
-                <marker date="1535802518000" expanded="true" signature="178:237" ph="/* StopTimeTest(); ... */" />
-                <marker date="1535802518000" expanded="true" signature="870:1521" ph="{...}" />
-                <marker date="1535802518000" expanded="true" signature="905:1451" ph="{...}" />
-                <marker date="1535802518000" expanded="true" signature="1260:1437" ph="/* Console.WriteLine($&quot;SW平均计量时间:{_aveTimeSw}&quot;); ... */" />
-                <marker date="1535802518000" expanded="true" signature="1580:2502" ph="{...}" />
-                <marker date="1535802518000" expanded="true" signature="1615:2432" ph="{...}" />
-                <marker date="1535802518000" expanded="true" signature="1676:1783" ph="/* 打印时的时间格式 ... */" />
-                <marker date="1535802518000" expanded="true" signature="1956:2241" ph="/* Console.WriteLine(&quot;interval:{2},  start time:{0}, end time:{1}&quot;, ... */" />
-                <marker date="1535802518000" expanded="true" signature="2567:2711" ph="{...}" />
-                <marker date="1535802518000" expanded="true" signature="2602:2701" ph="{...}" />
+                <marker date="1542729233000" expanded="true" signature="37:1059" ph="{...}" />
+                <marker date="1542729233000" expanded="true" signature="66:434" ph="{...}" />
+                <marker date="1542729233000" expanded="true" signature="119:428" ph="{...}" />
+                <marker date="1542729233000" expanded="true" signature="457:579" ph="{...}" />
+                <marker date="1542729233000" expanded="true" signature="606:1057" ph="{...}" />
+                <marker date="1542729233000" expanded="true" signature="691:785" ph="{...}" />
+                <marker date="1542729233000" expanded="true" signature="818:872" ph="{...}" />
+                <marker date="1542729233000" expanded="true" signature="902:960" ph="{...}" />
+                <marker date="1542729233000" expanded="true" signature="993:1051" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -107,53 +92,56 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/_496__Next_Greater_Element_I/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_540__Single_Element_in_a_Sorted_Array/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4FDC5ED6-1A07-4CAF-B49F-A42DEB20D521/14/e91e39f9/Char.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/_226__Invert_Binary_Tree/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_791__Custom Sort String/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_461__Hamming_Distance/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_104__Maximum_Depth_of_Binary_Tree/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_500__Keyboard_Row/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_476__Number_Complement/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file:///Kesa/Dasan/学业活动/2018srtp项目/Project/Steel/Pro for Steel/Assets/Scripts/Lid.cs" root0="SKIP_INSPECTION" />
-    <setting file="file:///Kesa/Dasan/学业活动/2018srtp项目/Project/Steel/Pro for Steel/Assets/Scripts/Carts/Car.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_807__Max_Increase_to_Keep_City_Skyline/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F8BB3922-E517-44D9-ACE1-AA6AEDC374EA/08/d0996c08/Stopwatch.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_537__Complex_Number_Multiplication/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file:///Kesa/Dasan/学业活动/2018srtp项目/Project/Steel/Pro for Steel/Assets/ScirptsR/GameControlR.cs" root0="SKIP_INSPECTION" />
-    <setting file="file:///Kesa/Dasan/学业活动/2018srtp项目/Project/Steel/Pro for Steel/Assets/Scripts/GameControl.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/_617__Merge_Two_Binary_Trees/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/命名小工具/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_463__Island_Perimeter/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_693__Binary_Number_with_Alternating_Bits/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_575__Distribute_Candies/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_485__Max_Consecutive_Ones/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_136__Single_Number/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_561__Array_Partition_I/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_557__Reverse_Words_in_a_String_III/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_682__Baseball_Game/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_647__Palindromic_Substrings/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/王佳敏_练习01/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_553__Optimal_Division/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_760_Find_Anagram_Mappings/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_654_Maximum_Binary_Tree/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_344__Reverse_String/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_406__Queue_Reconstruction_by_Height/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_784__Letter_Case_Permutation/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_292__Nim_Game/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_771__Jewels_and_Stones/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_763__Partition_Labels/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_521__Longest_Uncommon_Subsequence_I/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_728__Self_Dividing_Numbers/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_657__Judge_Route_Circle/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_520__Detect_Capital/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_412__Fizz_Buzz/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_693__Binary_Number_with_Alternating_Bits/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestInBook/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_617__Merge_Two_Binary_Trees/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_226__Invert_Binary_Tree/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_807__Max_Increase_to_Keep_City_Skyline/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_344__Reverse_String/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_540__Single_Element_in_a_Sorted_Array/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/王佳敏_练习01/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_496__Next_Greater_Element_I/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_682__Baseball_Game/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_771__Jewels_and_Stones/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_442__Find_All_Duplicates_in_an_Array/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_804__Unique_Morse_Code_Words/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file:///Kesa/Dasan/学业活动/2018srtp项目/Project/Steel/Pro for Steel/Assets/Scripts/MainCharacter.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/_136__Single_Number/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/命名小工具/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_728__Self_Dividing_Numbers/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_521__Longest_Uncommon_Subsequence_I/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_561__Array_Partition_I/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_406__Queue_Reconstruction_by_Height/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_500__Keyboard_Row/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/内嵌函数/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_760_Find_Anagram_Mappings/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_476__Number_Complement/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_557__Reverse_Words_in_a_String_III/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CursorGIFProcess/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_485__Max_Consecutive_Ones/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_763__Partition_Labels/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_258__Add_Digits/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_537__Complex_Number_Multiplication/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_104__Maximum_Depth_of_Binary_Tree/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_412__Fizz_Buzz/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_791__Custom Sort String/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_553__Optimal_Division/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_292__Nim_Game/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_804__Unique_Morse_Code_Words/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_657__Judge_Route_Circle/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_463__Island_Perimeter/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UnitySpecials/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_784__Letter_Case_Permutation/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file:///Kesa/Dasan/学业活动/2018srtp项目/Project/Steel/Pro for Steel/Assets/Scripts/GameControl.cs" root0="SKIP_INSPECTION" />
+    <setting file="file:///Kesa/Dasan/学业活动/2018srtp项目/Project/Steel/Pro for Steel/Assets/ScirptsR/GameControlR.cs" root0="SKIP_INSPECTION" />
+    <setting file="file:///Kesa/Dasan/学业活动/2018srtp项目/Project/Steel/Pro for Steel/Assets/Scripts/Carts/Car.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file:///Kesa/Dasan/学业活动/2018srtp项目/Project/Steel/Pro for Steel/Assets/Scripts/Lid.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/_654_Maximum_Binary_Tree/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_461__Hamming_Distance/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4FDC5ED6-1A07-4CAF-B49F-A42DEB20D521/14/e91e39f9/Char.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/测试专用Program1/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file:///Kesa/Dasan/学业活动/2018srtp项目/Project/Steel/Pro for Steel/Assets/Scripts/MainCharacter.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/_647__Palindromic_Substrings/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -204,6 +192,11 @@
         <option value="$PROJECT_DIR$/王佳敏_练习01/Program.cs" />
         <option value="$PROJECT_DIR$/命名小工具/Program.cs" />
         <option value="$PROJECT_DIR$/TestInBook/Program.cs" />
+        <option value="$PROJECT_DIR$/CursorGIFProcess/Program.cs" />
+        <option value="$PROJECT_DIR$/内嵌函数/Program.cs" />
+        <option value="$PROJECT_DIR$/../../Git_WheelUnity/Assets/[请更改为_项目名称]/Scripts/TmpTest/NewBehaviourScript.cs" />
+        <option value="$PROJECT_DIR$/UnitySpecials/Program.cs" />
+        <option value="$PROJECT_DIR$/测试专用Program1/Program.cs" />
       </list>
     </option>
   </component>
@@ -213,42 +206,54 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1920" />
-    <option name="y" value="-450" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
     <option name="width" value="1080" />
-    <option name="height" value="1897" />
+    <option name="height" value="1174" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <autoscrollToSource FileSystemExplorer="false" />
+      <autoscrollFromSource FileSystemExplorer="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="SolutionExplorer">
+      <pane id="FileSystemExplorer">
         <subPane>
           <expand>
             <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="LeetCode_Csharp (40 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="LeetCode_Csharp" type="34e6ba20:FileSystemExplorerNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="LeetCode_Csharp" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="RiderNuGetCacheManager.AutoClear.global-packages" value="2" />
+    <property name="RiderNuGetCacheManager.AutoClear.http-cache" value="2" />
+    <property name="RiderNuGetCacheManager.AutoClear.packages-cache" value="2" />
+    <property name="RiderNuGetCacheManager.AutoClear.temp" value="1" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -262,20 +267,42 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Project.TestInBook">
-    <configuration name="命名小工具" type="DotNetProject" factoryName=".NET Project" temporary="true">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/命名小工具/bin/Debug/命名小工具.exe" />
+  <component name="RunManager" selected=".NET Project.内嵌函数">
+    <configuration name="内嵌函数" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/内嵌函数/bin/Debug/内嵌函数.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/命名小工具/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/内嵌函数/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/命名小工具/命名小工具.csproj" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/内嵌函数/内嵌函数.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="Console" />
-      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CursorGIFProcess" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/CursorGIFProcess/bin/Debug/CursorGIFProcess.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursorGIFProcess/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/CursorGIFProcess/CursorGIFProcess.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/_760_Find_Anagram_Mappings/bin/Debug/_760_Find_Anagram_Mappings.exe" />
@@ -284,12 +311,34 @@
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/_760_Find_Anagram_Mappings/_760_Find_Anagram_Mappings.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="测试专用Program1" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/测试专用Program1/bin/Debug/测试专用Program1.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/测试专用Program1/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/测试专用Program1/测试专用Program1.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
     </configuration>
     <configuration name="TestInBook" type="DotNetProject" factoryName=".NET Project" temporary="true">
       <option name="EXE_PATH" value="$PROJECT_DIR$/TestInBook/bin/Debug/TestInBook.exe" />
@@ -298,54 +347,52 @@
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/TestInBook/TestInBook.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="王佳敏_练习01" type="DotNetProject" factoryName=".NET Project" temporary="true">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/王佳敏_练习01/bin/Debug/王佳敏_练习01.exe" />
+    <configuration name="UnitySpecials" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/UnitySpecials/bin/Debug/UnitySpecials.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/王佳敏_练习01/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UnitySpecials/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/王佳敏_练习01/王佳敏_练习01.csproj" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/UnitySpecials/UnitySpecials.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="_226__Invert_Binary_Tree" type="DotNetProject" factoryName=".NET Project" temporary="true">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/_226__Invert_Binary_Tree/bin/Debug/_226__Invert_Binary_Tree.exe" />
+    <configuration name="内嵌函数" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/内嵌函数/bin/Debug/内嵌函数.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_226__Invert_Binary_Tree/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/内嵌函数/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_226__Invert_Binary_Tree/_226__Invert_Binary_Tree.csproj" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/内嵌函数/内嵌函数.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="Console" />
-      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7" />
-    </configuration>
-    <configuration name="_520__Detect_Capital" type="DotNetProject" factoryName=".NET Project" temporary="true">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/_520__Detect_Capital/bin/Debug/_520__Detect_Capital.exe" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_520__Detect_Capital/bin/Debug" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_520__Detect_Capital/_520__Detect_Capital.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="Console" />
-      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
     </configuration>
     <configuration name="_654_Maximum_Binary_Tree" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/_654_Maximum_Binary_Tree/bin/Debug/_654_Maximum_Binary_Tree.exe" />
@@ -354,29 +401,33 @@
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/_654_Maximum_Binary_Tree/_654_Maximum_Binary_Tree.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
     </configuration>
     <list>
       <item itemvalue=".NET Project.Default" />
       <item itemvalue=".NET Project._654_Maximum_Binary_Tree" />
-      <item itemvalue=".NET Project.命名小工具" />
-      <item itemvalue=".NET Project._226__Invert_Binary_Tree" />
-      <item itemvalue=".NET Project._520__Detect_Capital" />
-      <item itemvalue=".NET Project.王佳敏_练习01" />
       <item itemvalue=".NET Project.TestInBook" />
+      <item itemvalue=".NET Project.CursorGIFProcess" />
+      <item itemvalue=".NET Project.测试专用Program1" />
+      <item itemvalue=".NET Project.UnitySpecials" />
+      <item itemvalue=".NET Project.内嵌函数" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue=".NET Project.内嵌函数" />
+        <item itemvalue=".NET Project.测试专用Program1" />
+        <item itemvalue=".NET Project.UnitySpecials" />
+        <item itemvalue=".NET Project.CursorGIFProcess" />
         <item itemvalue=".NET Project.TestInBook" />
-        <item itemvalue=".NET Project.命名小工具" />
-        <item itemvalue=".NET Project.王佳敏_练习01" />
-        <item itemvalue=".NET Project._520__Detect_Capital" />
-        <item itemvalue=".NET Project._226__Invert_Binary_Tree" />
       </list>
     </recent_temporary>
   </component>
@@ -405,11 +456,19 @@
       <workItem from="1533941662981" duration="674000" />
       <workItem from="1535259979673" duration="760000" />
       <workItem from="1535798374719" duration="5670000" />
+      <workItem from="1535993894348" duration="2390000" />
+      <workItem from="1537429142365" duration="726000" />
+      <workItem from="1537601355154" duration="2223000" />
+      <workItem from="1538100029297" duration="563000" />
+      <workItem from="1538729919180" duration="366000" />
+      <workItem from="1538772553008" duration="735000" />
+      <workItem from="1540487496445" duration="673000" />
+      <workItem from="1542701333564" duration="2810000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132512000" />
+    <option name="totallyTimeSpent" value="142998000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -421,62 +480,63 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="-450" width="1080" height="1897" extended-state="6" />
+    <frame x="0" y="22" width="1080" height="1174" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="PlantUML" order="3" />
-      <window_info anchor="bottom" id="TODO" order="13" />
-      <window_info anchor="right" id="Errors In Solution" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5037037" side_tool="true" weight="0.18082191" />
-      <window_info anchor="bottom" id="Unit Tests" order="1" />
-      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.4962963" weight="0.2035107" />
-      <window_info anchor="bottom" id="Version Control" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" />
-      <window_info anchor="bottom" id="NuGet" order="4" />
-      <window_info content_ui="combo" id="Project" order="1" weight="0.2361111" />
-      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" order="6" weight="0.32747456" />
-      <window_info anchor="right" id="Database" order="0" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="10" weight="0.2711556" />
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2601156" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5037037" side_tool="true" weight="0.18082191" />
+      <window_info anchor="bottom" id="Unit Tests" order="1" weight="0.3284974" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.3284974" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3284974" />
+      <window_info anchor="bottom" id="NuGet" order="4" weight="0.3284974" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="6" visible="true" weight="0.32439926" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.4962963" weight="0.33641404" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.2707641" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" weight="0.19777778" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Errors In Solution" order="1" />
       <window_info anchor="right" id="Commander" order="2" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="7" />
-      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info anchor="right" id="PlantUML" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="bottom" id="NuGet" order="4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.4962963" visible="true" weight="0.18121912" />
-      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info id="Favorites" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" weight="0.11481482" />
       <window_info id="Structure" order="2" weight="0.25" />
-      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="13" />
-      <window_info anchor="bottom" id="Unit Tests" order="1" />
-      <window_info anchor="bottom" id="Find" order="8" />
-      <window_info anchor="right" id="Errors In Solution" order="1" />
-      <window_info anchor="bottom" id="Debug" order="10" weight="0.27402526" />
-      <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5037037" side_tool="true" weight="0.18082191" />
-      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="Unit Tests" order="1" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="NuGet" order="4" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Build" order="6" weight="0.32894015" />
       <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.4962963" visible="true" weight="0.18121912" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.27402526" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" />
       <window_info anchor="right" id="Database" order="0" />
-      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="right" id="Errors In Solution" order="1" />
+      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -489,45 +549,9 @@
           <option name="timeStamp" value="1" />
         </breakpoint>
       </breakpoints>
-      <option name="time" value="1" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_760_Find_Anagram_Mappings/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_657__Judge_Route_Circle/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="49" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_617__Merge_Two_Binary_Trees/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="33" column="53" selection-start-line="33" selection-start-column="53" selection-end-line="33" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_654_Maximum_Binary_Tree/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_791__Custom Sort String/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_561__Array_Partition_I/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1433">
@@ -799,13 +823,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F8BB3922-E517-44D9-ACE1-AA6AEDC374EA/08/d0996c08/Stopwatch.cs" />
+    <entry file="file://$PROJECT_DIR$/../../Git_WheelUnity/Assets/[请更改为_项目名称]/Scripts/TmpTest/NewBehaviourScript.cs" />
     <entry file="file://$PROJECT_DIR$/命名小工具/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        <state relative-caret-position="550">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
           <folding>
             <marker date="1535798404000" expanded="false" signature="6:92" ph="..." />
-            <marker date="1535798404000" expanded="true" signature="109:646" ph="{...}" />
             <marker date="1535798404000" expanded="true" signature="138:644" ph="{...}" />
             <marker date="1535798404000" expanded="true" signature="191:638" ph="{...}" />
             <marker date="1535798404000" expanded="true" signature="377:518" ph="{...}" />
@@ -814,20 +839,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F8BB3922-E517-44D9-ACE1-AA6AEDC374EA/08/d0996c08/Stopwatch.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="33" column="21" lean-forward="true" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestInBook/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="35" column="47" lean-forward="true" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
+        <state relative-caret-position="132">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
           <folding>
-            <marker date="1535802518000" expanded="true" signature="6:63" ph="..." />
-            <marker date="1535802518000" expanded="true" signature="85:2719" ph="{...}" />
+            <marker date="1535802518000" expanded="false" signature="6:63" ph="..." />
             <marker date="1535802518000" expanded="true" signature="114:2717" ph="{...}" />
             <marker date="1535802518000" expanded="true" signature="167:531" ph="{...}" />
             <marker date="1535802518000" expanded="true" signature="178:237" ph="/* StopTimeTest(); ... */" />
@@ -840,6 +857,79 @@
             <marker date="1535802518000" expanded="true" signature="1956:2241" ph="/* Console.WriteLine(&quot;interval:{2},  start time:{0}, end time:{1}&quot;, ... */" />
             <marker date="1535802518000" expanded="true" signature="2567:2711" ph="{...}" />
             <marker date="1535802518000" expanded="true" signature="2602:2701" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CursorGIFProcess/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <marker date="1535999385000" expanded="false" signature="6:65" ph="..." />
+            <marker date="1535999385000" expanded="true" signature="115:2907" ph="{...}" />
+            <marker date="1535999385000" expanded="true" signature="245:530" ph="{...}" />
+            <marker date="1535999385000" expanded="true" signature="268:357" ph="/* Mac : /Users/w/Desktop/RWBusy.gif ... */" />
+            <marker date="1535999385000" expanded="true" signature="540:691" ph="/// 获取图片中的各帧 ... " />
+            <marker date="1535999385000" expanded="true" signature="761:2901" ph="{...}" />
+            <marker date="1535999385000" expanded="true" signature="1252:2154" ph="{...}" />
+            <marker date="1535999385000" expanded="true" signature="1563:2011" ph="{...}" />
+            <marker date="1535999385000" expanded="true" signature="1650:1728" ph="{...}" />
+            <marker date="1535999385000" expanded="true" signature="1830:1928" ph="/* gif.Save(pSavePath + &quot;/frame_&quot; + i + &quot;.png&quot;, ImageFormat.Png); ... */" />
+            <marker date="1535999385000" expanded="true" signature="2192:2891" ph="{...}" />
+            <marker date="1535999385000" expanded="true" signature="2456:2748" ph="{...}" />
+            <marker date="1535999385000" expanded="true" signature="2575:2673" ph="/* gif.Save(pSavePath + &quot;/frame_&quot; + i + &quot;.png&quot;, ImageFormat.Png); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内嵌函数/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding>
+            <marker date="1537429358000" expanded="true" signature="58:562" ph="{...}" />
+            <marker date="1537429358000" expanded="true" signature="111:156" ph="{...}" />
+            <marker date="1537429358000" expanded="true" signature="189:556" ph="{...}" />
+            <marker date="1537429358000" expanded="true" signature="232:290" ph="{...}" />
+            <marker date="1537429358000" expanded="true" signature="324:382" ph="{...}" />
+            <marker date="1537429358000" expanded="true" signature="416:474" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UnitySpecials/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding>
+            <marker date="1540487776000" expanded="true" signature="38:869" ph="{...}" />
+            <marker date="1540487776000" expanded="true" signature="67:867" ph="{...}" />
+            <marker date="1540487776000" expanded="true" signature="120:861" ph="{...}" />
+            <marker date="1540487776000" expanded="true" signature="155:851" ph="{...}" />
+            <marker date="1540487776000" expanded="true" signature="330:711" ph="{...}" />
+            <marker date="1540487776000" expanded="true" signature="385:465" ph="{...}" />
+            <marker date="1540487776000" expanded="true" signature="507:587" ph="{...}" />
+            <marker date="1540487776000" expanded="true" signature="612:693" ph="{...}" />
+            <marker date="1540487776000" expanded="true" signature="756:837" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试专用Program1/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="36" column="40" lean-forward="true" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+          <folding>
+            <marker date="1542729233000" expanded="true" signature="37:1059" ph="{...}" />
+            <marker date="1542729233000" expanded="true" signature="66:434" ph="{...}" />
+            <marker date="1542729233000" expanded="true" signature="119:428" ph="{...}" />
+            <marker date="1542729233000" expanded="true" signature="457:579" ph="{...}" />
+            <marker date="1542729233000" expanded="true" signature="606:1057" ph="{...}" />
+            <marker date="1542729233000" expanded="true" signature="691:785" ph="{...}" />
+            <marker date="1542729233000" expanded="true" signature="818:872" ph="{...}" />
+            <marker date="1542729233000" expanded="true" signature="902:960" ph="{...}" />
+            <marker date="1542729233000" expanded="true" signature="993:1051" ph="{...}" />
           </folding>
         </state>
       </provider>
